@@ -30,6 +30,10 @@
 
 Plus Anki 10 min chaque jour, et à partir du 19 octobre 10 calculs de subnetting par jour.
 
+## Dépôt
+
+Ce dossier est versionné sur GitHub, dépôt privé `najibyla/ccna-labs`. Le dossier `ressources/` (copies locales de livres et cours) et `.venv/` n'y sont pas : ils se régénèrent avec les scripts de `outils/`. Après chaque modification des documents ou des cartes : `git add -A && git commit -m "..." && git push`.
+
 ## Ce qui est déjà fait
 
 - VM Ubuntu Server prête, SSH depuis Windows, dépôt `lab-notes` sur GitHub.
