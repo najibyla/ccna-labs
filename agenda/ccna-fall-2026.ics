@@ -1,0 +1,2153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ccna-curriculum//plan_to_ics//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CCNA 2026 (Jeremy's IT Lab)
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:ccna-j001-1@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261001T210000Z
+DTEND:20261001T230000Z
+SUMMARY:CCNA S1 · J.1 · Network Devices
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.1.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE86
+ jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 45 min de vidéo. Labs : 1 (15 min d
+ e vidéo\, à refaire seul ensuite). Durée estimée : 98 min. Bloc réser
+ vé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°
+ 1 Day 1 « Network Devices » (30 min) : vidéo avec prise de notes\, quiz
+  de fin de vidéo\n  ☐ n°2 Extra « Anki Flashcards » (15 min) : comme
+ nt utiliser les decks Anki du cours\n  ☐ n°3 Lab « Packet Tracer Intro
+ duction » (15 min) : télécharger le .pkt sur jeremysitlab.com\, regarde
+ r\, puis refaire seul sans la vidéo\n  ☐ Importer le deck Anki du jour 
+ (jeremysitlab.com\, gratuit) et faire la première passe\n\nThème Network
+ Chuck équivalent : Skill 02 (Fondamentaux : LAN/WAN\, clients/serveurs\, 
+ switch\, routeur\, pare-feu)\n\nSi une notion reste floue (voir ressources
+ -ccna-13-semaines.md) :\n  Practical Networking « Networking Fundamentals
+  » \; PowerCert « Hub\, Switch\, Router »\n\nEnsuite : 10 min d'Anki (t
+ ous les decks importés). À partir du J.13 : 10 calculs de subnetting par
+  jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S1 · J.1 · Network Devices
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S1 · J.1 · Network Devices
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j004-2@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261002T210000Z
+DTEND:20261002T223000Z
+SUMMARY:CCNA S1 · J.2 · Interfaces and Cables
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.2.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE86
+ jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 36 min de vidéo. Labs : 1 (6 min de
+  vidéo\, à refaire seul ensuite). Durée estimée : 69 min. Bloc réserv
+ é : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°4 
+ Day 2 « Interfaces and Cables » (36 min) : vidéo avec prise de notes\, 
+ quiz de fin de vidéo\n  ☐ n°5 Lab « Connecting Devices » (6 min) : t
+ élécharger le .pkt sur jeremysitlab.com\, regarder\, puis refaire seul s
+ ans la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gra
+ tuit) et faire la première passe\n\nThème NetworkChuck équivalent : Ski
+ ll 03 (Standards\, câblage cuivre et fibre\, diagrammes)\n\nSi une notion
+  reste floue (voir ressources-ccna-13-semaines.md) :\n  PowerCert « Ether
+ net cables »\, « Fiber optic » \; draw.io pour les schémas\n\nEnsuite 
+ : 10 min d'Anki (tous les decks importés). À partir du J.13 : 10 calculs
+  de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S1 · J.2 · Interfaces and Cables
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S1 · J.2 · Interfaces and C
+ ables
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j006-3@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261005T210000Z
+DTEND:20261005T223000Z
+SUMMARY:CCNA S2 · J.3 · How the TCP/IP Model Actually Works | CCNA Day 3
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.3.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE86
+ jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 43 min de vidéo. Labs : 1 (8 min de
+  vidéo\, à refaire seul ensuite). Durée estimée : 82 min. Bloc réserv
+ é : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°6 
+ Day 3 « How the TCP/IP Model Actually Works | CCNA Day 3 » (43 min) : vi
+ déo avec prise de notes\, quiz de fin de vidéo\n  ☐ n°7 Lab « OSI Mo
+ del » (8 min) : télécharger le .pkt sur jeremysitlab.com\, regarder\, p
+ uis refaire seul sans la vidéo\n  ☐ Importer le deck Anki du jour (jere
+ mysitlab.com\, gratuit) et faire la première passe\n\nThème NetworkChuck
+  équivalent : Skill 04 (Modèle OSI / TCP-IP\, architecture 3 tiers)\n\nS
+ i une notion reste floue (voir ressources-ccna-13-semaines.md) :\n  Practi
+ cal Networking « OSI Model » (7 vidéos) \; Formip « Modèle OSI »\n\n
+ Ensuite : 10 min d'Anki (tous les decks importés). À partir du J.13 : 10
+  calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S2 · J.3 · How the TCP/IP Model Ac
+ tually Works | CCNA Day 3
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S2 · J.3 · How the TCP/IP M
+ odel Actually Works | CCNA Day 3
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j008-4@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261006T210000Z
+DTEND:20261006T223000Z
+SUMMARY:CCNA S2 · J.4 · Intro to the CLI
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.4.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE86
+ jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 31 min de vidéo. Labs : 1 (10 min d
+ e vidéo\, à refaire seul ensuite). Durée estimée : 70 min. Bloc réser
+ vé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°8
+  Day 4 « Intro to the CLI » (31 min) : vidéo avec prise de notes\, quiz
+  de fin de vidéo\n  ☐ n°9 Lab « Basic Device Security » (10 min) : t
+ élécharger le .pkt sur jeremysitlab.com\, regarder\, puis refaire seul s
+ ans la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gra
+ tuit) et faire la première passe\n\nThème NetworkChuck équivalent : Ski
+ ll 05 (Cisco IOS : console\, navigation\, boot\, configuration de base)\n\
+ nSi une notion reste floue (voir ressources-ccna-13-semaines.md) :\n  Flac
+ kbox Lab Guide « IOS basics » \; fiche de config de base à retaper à c
+ haque lab\n\nEnsuite : 10 min d'Anki (tous les decks importés). À partir
+  du J.13 : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S2 · J.4 · Intro to the CLI
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S2 · J.4 · Intro to the CLI
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j010-5@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261007T210000Z
+DTEND:20261007T223000Z
+SUMMARY:CCNA S2 · J.5 · Ethernet LAN Switching (Part 1)
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.5.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE86
+ jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 38 min de vidéo. Labs : 0 (0 min de
+  vidéo\, à refaire seul ensuite). Durée estimée : 59 min. Bloc réserv
+ é : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°10
+  Day 5 « Ethernet LAN Switching (Part 1) » (38 min) : vidéo avec prise 
+ de notes\, quiz de fin de vidéo\n  ☐ Importer le deck Anki du jour (jer
+ emysitlab.com\, gratuit) et faire la première passe\n\nThème NetworkChuc
+ k équivalent : Skill 06 (Adresses MAC\, trames Ethernet\, table CAM\, fon
+ ctionnement du switch)\n\nSi une notion reste floue (voir ressources-ccna-
+ 13-semaines.md) :\n  Practical Networking « How a switch works »\, « AR
+ P » \; Wireshark : capturer une trame\n\nEnsuite : 10 min d'Anki (tous le
+ s decks importés). À partir du J.13 : 10 calculs de subnetting par jour 
+ sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S2 · J.5 · Ethernet LAN Switching 
+ (Part 1)
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S2 · J.5 · Ethernet LAN Swi
+ tching (Part 1)
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j011-6@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261008T210000Z
+DTEND:20261008T223000Z
+SUMMARY:CCNA S2 · J.6 · Ethernet LAN Switching (Part 2)
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.6.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE86
+ jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 34 min de vidéo. Labs : 1 (10 min d
+ e vidéo\, à refaire seul ensuite). Durée estimée : 74 min. Bloc réser
+ vé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°1
+ 1 Day 6 « Ethernet LAN Switching (Part 2) » (34 min) : vidéo avec prise
+  de notes\, quiz de fin de vidéo\n  ☐ n°12 Lab « Analyzing Ethernet S
+ witching » (10 min) : télécharger le .pkt sur jeremysitlab.com\, regard
+ er\, puis refaire seul sans la vidéo\n  ☐ Importer le deck Anki du jour
+  (jeremysitlab.com\, gratuit) et faire la première passe\n\nThème Networ
+ kChuck équivalent : Skill 06 (Adresses MAC\, trames Ethernet\, table CAM\
+ , fonctionnement du switch)\n\nSi une notion reste floue (voir ressources-
+ ccna-13-semaines.md) :\n  Practical Networking « How a switch works »\, 
+ « ARP » \; Wireshark : capturer une trame\n\nEnsuite : 10 min d'Anki (to
+ us les decks importés). À partir du J.13 : 10 calculs de subnetting par 
+ jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S2 · J.6 · Ethernet LAN Switching 
+ (Part 2)
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S2 · J.6 · Ethernet LAN Swi
+ tching (Part 2)
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j013-7@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261009T210000Z
+DTEND:20261009T223000Z
+SUMMARY:CCNA S2 · J.7 · IPv4 Addressing (Part 1)
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.7.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE86
+ jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 40 min de vidéo. Labs : 0 (0 min de
+  vidéo\, à refaire seul ensuite). Durée estimée : 62 min. Bloc réserv
+ é : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°13
+  Day 7 « IPv4 Addressing (Part 1) » (40 min) : vidéo avec prise de note
+ s\, quiz de fin de vidéo\n  ☐ Importer le deck Anki du jour (jeremysitl
+ ab.com\, gratuit) et faire la première passe\n\nThème NetworkChuck équi
+ valent : Skill 07 (Adressage IPv4\, masques\, IP privées et publiques)\n\
+ nSi une notion reste floue (voir ressources-ccna-13-semaines.md) :\n  Prac
+ tical Networking « Subnetting Mastery » parties 1-2 \; PowerCert « IP A
+ ddress Explained »\n\nEnsuite : 10 min d'Anki (tous les decks importés).
+  À partir du J.13 : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S2 · J.7 · IPv4 Addressing (Part 1
+ )
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S2 · J.7 · IPv4 Addressing 
+ (Part 1)
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j014-8@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261012T210000Z
+DTEND:20261012T223000Z
+SUMMARY:CCNA S3 · J.8 · IPv4 Addressing (Part 2)
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.8.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE86
+ jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 31 min de vidéo. Labs : 1 (10 min d
+ e vidéo\, à refaire seul ensuite). Durée estimée : 70 min. Bloc réser
+ vé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°1
+ 4 Day 8 « IPv4 Addressing (Part 2) » (31 min) : vidéo avec prise de not
+ es\, quiz de fin de vidéo\n  ☐ n°15 Lab « Configuring IP Addresses »
+  (10 min) : télécharger le .pkt sur jeremysitlab.com\, regarder\, puis r
+ efaire seul sans la vidéo\n  ☐ Importer le deck Anki du jour (jeremysit
+ lab.com\, gratuit) et faire la première passe\n\nThème NetworkChuck équ
+ ivalent : Skill 07 (Adressage IPv4\, masques\, IP privées et publiques)\n
+ \nSi une notion reste floue (voir ressources-ccna-13-semaines.md) :\n  Pra
+ ctical Networking « Subnetting Mastery » parties 1-2 \; PowerCert « IP 
+ Address Explained »\n\nEnsuite : 10 min d'Anki (tous les decks importés)
+ . À partir du J.13 : 10 calculs de subnetting par jour sur subnetipv4.com
+ .
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S3 · J.8 · IPv4 Addressing (Part 2
+ )
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S3 · J.8 · IPv4 Addressing 
+ (Part 2)
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j016-9@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261013T210000Z
+DTEND:20261013T223000Z
+SUMMARY:CCNA S3 · J.9 · Switch Interfaces
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.9.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE86
+ jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 32 min de vidéo. Labs : 1 (12 min d
+ e vidéo\, à refaire seul ensuite). Durée estimée : 76 min. Bloc réser
+ vé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°1
+ 6 Day 9 « Switch Interfaces » (32 min) : vidéo avec prise de notes\, qu
+ iz de fin de vidéo\n  ☐ n°17 Lab « Configuring Interfaces » (12 min)
+  : télécharger le .pkt sur jeremysitlab.com\, regarder\, puis refaire se
+ ul sans la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\,
+  gratuit) et faire la première passe\n\nThème NetworkChuck équivalent :
+  Skill 08 (Interfaces switch et routeur\, compteurs\, vitesse et duplex)\n
+ \nSi une notion reste floue (voir ressources-ccna-13-semaines.md) :\n  Fla
+ ckbox Lab Guide « Interfaces » \; fiche des compteurs (CRC\, runts\, gia
+ nts\, collisions)\n\nEnsuite : 10 min d'Anki (tous les decks importés). 
+ À partir du J.13 : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S3 · J.9 · Switch Interfaces
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S3 · J.9 · Switch Interface
+ s
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j018-10@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261014T210000Z
+DTEND:20261014T223000Z
+SUMMARY:CCNA S3 · J.10 · IPv4 Header
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.10.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 30 min de vidéo. Labs : 0 (0 min d
+ e vidéo\, à refaire seul ensuite). Durée estimée : 49 min. Bloc réser
+ vé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°1
+ 8 Day 10 « IPv4 Header » (30 min) : vidéo avec prise de notes\, quiz de
+  fin de vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gr
+ atuit) et faire la première passe\n\nThème NetworkChuck équivalent : Sk
+ ill 07 (Adressage IPv4\, masques\, IP privées et publiques)\n\nSi une not
+ ion reste floue (voir ressources-ccna-13-semaines.md) :\n  Practical Netwo
+ rking « Subnetting Mastery » parties 1-2 \; PowerCert « IP Address Expl
+ ained »\n\nEnsuite : 10 min d'Anki (tous les decks importés). À partir 
+ du J.13 : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S3 · J.10 · IPv4 Header
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S3 · J.10 · IPv4 Header
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j019-11@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261015T210000Z
+DTEND:20261015T233000Z
+SUMMARY:CCNA S3 · J.11 · Routing Fundamentals + Static Routing
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.11.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 69 min de vidéo. Labs : 2 (22 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 144 min. Bloc rés
+ ervé : 150 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °19 Day 11 « Routing Fundamentals » (31 min) : vidéo avec prise de not
+ es\, quiz de fin de vidéo\n  ☐ n°20 Day 11 « Static Routing » (38 mi
+ n) : vidéo avec prise de notes\, quiz de fin de vidéo\n  ☐ n°21 Lab 
+ « Configuring Static Routes » (12 min) : télécharger le .pkt sur jerem
+ ysitlab.com\, regarder\, puis refaire seul sans la vidéo\n  ☐ n°22 Lab
+  « Troubleshooting Static Routes » (10 min) : télécharger le .pkt sur 
+ jeremysitlab.com\, regarder\, puis refaire seul sans la vidéo\n  ☐ Impo
+ rter le deck Anki du jour (jeremysitlab.com\, gratuit) et faire la premiè
+ re passe\n\nThème NetworkChuck équivalent : Skill 09 (Routage : local\, 
+ statique\, par défaut\, dynamique (EIGRP)\, table de routage)\n\nSi une n
+ otion reste floue (voir ressources-ccna-13-semaines.md) :\n  Practical Net
+ working « Packet Traveling » (à voir deux fois) \; Formip « Routage st
+ atique »\n\nEnsuite : 10 min d'Anki (tous les decks importés). À partir
+  du J.13 : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S3 · J.11 · Routing Fundamentals +
+  Static Routing
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S3 · J.11 · Routing Fundame
+ ntals + Static Routing
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j023-12@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261016T210000Z
+DTEND:20261016T223000Z
+SUMMARY:CCNA S3 · J.12 · The Life of a Packet
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.12.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 20 min de vidéo. Labs : 1 (16 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 68 min. Bloc rése
+ rvé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°
+ 23 Day 12 « The Life of a Packet » (20 min) : vidéo avec prise de notes
+ \, quiz de fin de vidéo\n  ☐ n°24 Lab « Life of a Packet » (16 min) 
+ : télécharger le .pkt sur jeremysitlab.com\, regarder\, puis refaire seu
+ l sans la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, 
+ gratuit) et faire la première passe\n\nThème NetworkChuck équivalent : 
+ Skill 09 (Routage : local\, statique\, par défaut\, dynamique (EIGRP)\, t
+ able de routage)\n\nSi une notion reste floue (voir ressources-ccna-13-sem
+ aines.md) :\n  Practical Networking « Packet Traveling » (à voir deux f
+ ois) \; Formip « Routage statique »\n\nEnsuite : 10 min d'Anki (tous les
+  decks importés). À partir du J.13 : 10 calculs de subnetting par jour s
+ ur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S3 · J.12 · The Life of a Packet
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S3 · J.12 · The Life of a P
+ acket
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j025-13@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261019T210000Z
+DTEND:20261019T223000Z
+SUMMARY:CCNA S4 · J.13 · Subnetting (Part 1)
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.13.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 29 min de vidéo. Labs : 0 (0 min d
+ e vidéo\, à refaire seul ensuite). Durée estimée : 48 min. Bloc réser
+ vé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°2
+ 5 Day 13 « Subnetting (Part 1) » (29 min) : vidéo avec prise de notes\,
+  quiz de fin de vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.
+ com\, gratuit) et faire la première passe\n\nThème NetworkChuck équival
+ ent : Skill 11 (Subnetting : binaire\, classes\, VLSM\, reverse engineerin
+ g)\n\nSi une notion reste floue (voir ressources-ccna-13-semaines.md) :\n 
+  Practical Networking « Subnetting Mastery » (14 vidéos) \; Jeremy J.13
+ -J.15 \; 10 exercices/jour sur subnetipv4.com \; Formip « Subnetting »\,
+  « VLSM »\n\nEnsuite : 10 min d'Anki (tous les decks importés). À part
+ ir du J.13 : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S4 · J.13 · Subnetting (Part 1)
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S4 · J.13 · Subnetting (Par
+ t 1)
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j026-14@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261020T210000Z
+DTEND:20261020T223000Z
+SUMMARY:CCNA S4 · J.14 · Subnetting (Part 2)
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.14.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 25 min de vidéo. Labs : 0 (0 min d
+ e vidéo\, à refaire seul ensuite). Durée estimée : 42 min. Bloc réser
+ vé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°2
+ 6 Day 14 « Subnetting (Part 2) » (25 min) : vidéo avec prise de notes\,
+  quiz de fin de vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.
+ com\, gratuit) et faire la première passe\n\nThème NetworkChuck équival
+ ent : Skill 11 (Subnetting : binaire\, classes\, VLSM\, reverse engineerin
+ g)\n\nSi une notion reste floue (voir ressources-ccna-13-semaines.md) :\n 
+  Practical Networking « Subnetting Mastery » (14 vidéos) \; Jeremy J.13
+ -J.15 \; 10 exercices/jour sur subnetipv4.com \; Formip « Subnetting »\,
+  « VLSM »\n\nEnsuite : 10 min d'Anki (tous les decks importés). À part
+ ir du J.13 : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S4 · J.14 · Subnetting (Part 2)
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S4 · J.14 · Subnetting (Par
+ t 2)
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j027-15@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261021T210000Z
+DTEND:20261021T223000Z
+SUMMARY:CCNA S4 · J.15 · Subnetting (Part 3 - VLSM)
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.15.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 24 min de vidéo. Labs : 1 (15 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 71 min. Bloc rése
+ rvé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°
+ 27 Day 15 « Subnetting (Part 3 - VLSM) » (24 min) : vidéo avec prise de
+  notes\, quiz de fin de vidéo\n  ☐ n°28 Lab « Subnetting (VLSM) » (1
+ 5 min) : télécharger le .pkt sur jeremysitlab.com\, regarder\, puis refa
+ ire seul sans la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab
+ .com\, gratuit) et faire la première passe\n\nThème NetworkChuck équiva
+ lent : Skill 11 (Subnetting : binaire\, classes\, VLSM\, reverse engineeri
+ ng)\n\nSi une notion reste floue (voir ressources-ccna-13-semaines.md) :\n
+   Practical Networking « Subnetting Mastery » (14 vidéos) \; Jeremy J.1
+ 3-J.15 \; 10 exercices/jour sur subnetipv4.com \; Formip « Subnetting »\
+ , « VLSM »\n\nEnsuite : 10 min d'Anki (tous les decks importés). À par
+ tir du J.13 : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S4 · J.15 · Subnetting (Part 3 - V
+ LSM)
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S4 · J.15 · Subnetting (Par
+ t 3 - VLSM)
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j029-16@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261022T210000Z
+DTEND:20261022T223000Z
+SUMMARY:CCNA S4 · J.16 · VLANs (Part 1)
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.16.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 24 min de vidéo. Labs : 1 (11 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 63 min. Bloc rése
+ rvé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°
+ 29 Day 16 « VLANs (Part 1) » (24 min) : vidéo avec prise de notes\, qui
+ z de fin de vidéo\n  ☐ n°30 Lab « VLANs (Part 1) » (11 min) : télé
+ charger le .pkt sur jeremysitlab.com\, regarder\, puis refaire seul sans l
+ a vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gratuit)
+  et faire la première passe\n\nThème NetworkChuck équivalent : Skill 12
+  (VLANs\, trunks\, routage inter-VLAN\, DTP/VTP\, VLAN natif)\n\nSi une no
+ tion reste floue (voir ressources-ccna-13-semaines.md) :\n  Sunny Classroo
+ m « VLAN »\, « Trunk »\, « Router on a stick » \; Flackbox labs VLAN
+ \n\nEnsuite : 10 min d'Anki (tous les decks importés). À partir du J.13 
+ : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S4 · J.16 · VLANs (Part 1)
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S4 · J.16 · VLANs (Part 1)
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j031-17@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261023T210000Z
+DTEND:20261023T230000Z
+SUMMARY:CCNA S4 · J.17 · VLANs (Part 2)
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.17.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 40 min de vidéo. Labs : 1 (23 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 108 min. Bloc rés
+ ervé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °31 Day 17 « VLANs (Part 2) » (40 min) : vidéo avec prise de notes\, q
+ uiz de fin de vidéo\n  ☐ n°32 Lab « VLANs (Part 2) » (23 min) : tél
+ écharger le .pkt sur jeremysitlab.com\, regarder\, puis refaire seul sans
+  la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gratui
+ t) et faire la première passe\n\nThème NetworkChuck équivalent : Skill 
+ 12 (VLANs\, trunks\, routage inter-VLAN\, DTP/VTP\, VLAN natif)\n\nSi une 
+ notion reste floue (voir ressources-ccna-13-semaines.md) :\n  Sunny Classr
+ oom « VLAN »\, « Trunk »\, « Router on a stick » \; Flackbox labs VL
+ AN\n\nEnsuite : 10 min d'Anki (tous les decks importés). À partir du J.1
+ 3 : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S4 · J.17 · VLANs (Part 2)
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S4 · J.17 · VLANs (Part 2)
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j033-18@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261026T210000Z
+DTEND:20261026T230000Z
+SUMMARY:CCNA S5 · J.18 · VLANs (Part 3)
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.18.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 33 min de vidéo. Labs : 1 (25 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 103 min. Bloc rés
+ ervé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °33 Day 18 « VLANs (Part 3) » (33 min) : vidéo avec prise de notes\, q
+ uiz de fin de vidéo\n  ☐ n°34 Lab « VLANs (Part 3) » (25 min) : tél
+ écharger le .pkt sur jeremysitlab.com\, regarder\, puis refaire seul sans
+  la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gratui
+ t) et faire la première passe\n\nThème NetworkChuck équivalent : Skill 
+ 12 (VLANs\, trunks\, routage inter-VLAN\, DTP/VTP\, VLAN natif)\n\nSi une 
+ notion reste floue (voir ressources-ccna-13-semaines.md) :\n  Sunny Classr
+ oom « VLAN »\, « Trunk »\, « Router on a stick » \; Flackbox labs VL
+ AN\n\nEnsuite : 10 min d'Anki (tous les decks importés). À partir du J.1
+ 3 : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S5 · J.18 · VLANs (Part 3)
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S5 · J.18 · VLANs (Part 3)
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j035-19@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261027T210000Z
+DTEND:20261027T230000Z
+SUMMARY:CCNA S5 · J.19 · DTP/VTP
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.19.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 38 min de vidéo. Labs : 1 (19 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 97 min. Bloc rése
+ rvé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °35 Day 19 « DTP/VTP » (38 min) : vidéo avec prise de notes\, quiz de 
+ fin de vidéo\n  ☐ n°36 Lab « DTP/VTP » (19 min) : télécharger le .
+ pkt sur jeremysitlab.com\, regarder\, puis refaire seul sans la vidéo\n  
+ ☐ Importer le deck Anki du jour (jeremysitlab.com\, gratuit) et faire la
+  première passe\n\nThème NetworkChuck équivalent : Skill 12 (VLANs\, tr
+ unks\, routage inter-VLAN\, DTP/VTP\, VLAN natif)\n\nSi une notion reste f
+ loue (voir ressources-ccna-13-semaines.md) :\n  Sunny Classroom « VLAN »
+ \, « Trunk »\, « Router on a stick » \; Flackbox labs VLAN\n\nEnsuite 
+ : 10 min d'Anki (tous les decks importés). À partir du J.13 : 10 calculs
+  de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S5 · J.19 · DTP/VTP
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S5 · J.19 · DTP/VTP
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j037-20@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261028T210000Z
+DTEND:20261028T230000Z
+SUMMARY:CCNA S5 · J.20 · Spanning Tree Protocol (Part 1)
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.20.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 39 min de vidéo. Labs : 1 (19 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 99 min. Bloc rése
+ rvé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °37 Day 20 « Spanning Tree Protocol (Part 1) » (39 min) : vidéo avec p
+ rise de notes\, quiz de fin de vidéo\n  ☐ n°38 Lab « Analyzing STP »
+  (19 min) : télécharger le .pkt sur jeremysitlab.com\, regarder\, puis r
+ efaire seul sans la vidéo\n  ☐ Importer le deck Anki du jour (jeremysit
+ lab.com\, gratuit) et faire la première passe\n\nThème NetworkChuck équ
+ ivalent : Skill 13 (Spanning Tree : root\, ports\, états\, RSTP\, PortFas
+ t\, BPDU Guard)\n\nSi une notion reste floue (voir ressources-ccna-13-sema
+ ines.md) :\n  Sunny Classroom « STP » (5 vidéos) \; dessiner 5 topologi
+ es et élire root/ports à la main\n\nEnsuite : 10 min d'Anki (tous les de
+ cks importés). À partir du J.13 : 10 calculs de subnetting par jour sur 
+ subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S5 · J.20 · Spanning Tree Protocol
+  (Part 1)
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S5 · J.20 · Spanning Tree P
+ rotocol (Part 1)
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j039-21@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261029T210000Z
+DTEND:20261029T230000Z
+SUMMARY:CCNA S5 · J.21 · Spanning Tree Protocol (Part 2)
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.21.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 42 min de vidéo. Labs : 1 (17 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 99 min. Bloc rése
+ rvé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °39 Day 21 « Spanning Tree Protocol (Part 2) » (42 min) : vidéo avec p
+ rise de notes\, quiz de fin de vidéo\n  ☐ n°44 Lab « Configuring STP 
+ (PVST+) » (17 min) : télécharger le .pkt sur jeremysitlab.com\, regarde
+ r\, puis refaire seul sans la vidéo\n  ☐ Importer le deck Anki du jour 
+ (jeremysitlab.com\, gratuit) et faire la première passe\n\nThème Network
+ Chuck équivalent : Skill 13 (Spanning Tree : root\, ports\, états\, RSTP
+ \, PortFast\, BPDU Guard)\n\nSi une notion reste floue (voir ressources-cc
+ na-13-semaines.md) :\n  Sunny Classroom « STP » (5 vidéos) \; dessiner 
+ 5 topologies et élire root/ports à la main\n\nEnsuite : 10 min d'Anki (t
+ ous les decks importés). À partir du J.13 : 10 calculs de subnetting par
+  jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S5 · J.21 · Spanning Tree Protocol
+  (Part 2)
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S5 · J.21 · Spanning Tree P
+ rotocol (Part 2)
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j040-21@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261030T210000Z
+DTEND:20261030T230000Z
+SUMMARY:CCNA S5 · J.21 · STP Toolkit : PortFast\, BPDU Guard\, Root Guard
+ \, Loop Guard
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.21.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 81 min de vidéo. Labs : 0 (0 min d
+ e vidéo\, à refaire seul ensuite). Durée estimée : 115 min. Bloc rése
+ rvé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °40 Day 21 « PortFast (STP Toolkit) » (18 min) : vidéo avec prise de n
+ otes\, quiz de fin de vidéo\n  ☐ n°41 Day 21 « BPDU Guard & BPDU Filt
+ er (STP Toolkit) » (24 min) : vidéo avec prise de notes\, quiz de fin de
+  vidéo\n  ☐ n°42 Day 21 « Root Guard (STP Toolkit) » (20 min) : vid
+ éo avec prise de notes\, quiz de fin de vidéo\n  ☐ n°43 Day 21 « Loo
+ p Guard (STP Toolkit) » (19 min) : vidéo avec prise de notes\, quiz de f
+ in de vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, grat
+ uit) et faire la première passe\n\nThème NetworkChuck équivalent : Skil
+ l 13 (Spanning Tree : root\, ports\, états\, RSTP\, PortFast\, BPDU Guard
+ )\n\nSi une notion reste floue (voir ressources-ccna-13-semaines.md) :\n  
+ Sunny Classroom « STP » (5 vidéos) \; dessiner 5 topologies et élire r
+ oot/ports à la main\n\nEnsuite : 10 min d'Anki (tous les decks importés)
+ . À partir du J.13 : 10 calculs de subnetting par jour sur subnetipv4.com
+ .
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S5 · J.21 · STP Toolkit : PortFast
+ \, BPDU Guard\, Root Guard\, Loop Guard
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S5 · J.21 · STP Toolkit : P
+ ortFast\, BPDU Guard\, Root Guard\, Loop Guard
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j045-22@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261102T210000Z
+DTEND:20261102T230000Z
+SUMMARY:CCNA S6 · J.22 · Rapid Spanning Tree Protocol
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.22.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 43 min de vidéo. Labs : 1 (20 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 106 min. Bloc rés
+ ervé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °45 Day 22 « Rapid Spanning Tree Protocol » (43 min) : vidéo avec pris
+ e de notes\, quiz de fin de vidéo\n  ☐ n°46 Lab « Rapid STP » (20 mi
+ n) : télécharger le .pkt sur jeremysitlab.com\, regarder\, puis refaire 
+ seul sans la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com
+ \, gratuit) et faire la première passe\n\nThème NetworkChuck équivalent
+  : Skill 13 (Spanning Tree : root\, ports\, états\, RSTP\, PortFast\, BPD
+ U Guard)\n\nSi une notion reste floue (voir ressources-ccna-13-semaines.md
+ ) :\n  Sunny Classroom « STP » (5 vidéos) \; dessiner 5 topologies et 
+ élire root/ports à la main\n\nEnsuite : 10 min d'Anki (tous les decks im
+ portés). À partir du J.13 : 10 calculs de subnetting par jour sur subnet
+ ipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S6 · J.22 · Rapid Spanning Tree Pr
+ otocol
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S6 · J.22 · Rapid Spanning 
+ Tree Protocol
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j047-23@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261103T210000Z
+DTEND:20261103T230000Z
+SUMMARY:CCNA S6 · J.23 · EtherChannel
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.23.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 42 min de vidéo. Labs : 1 (25 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 115 min. Bloc rés
+ ervé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °47 Day 23 « EtherChannel » (42 min) : vidéo avec prise de notes\, qui
+ z de fin de vidéo\n  ☐ n°48 Lab « Configuring EtherChannel » (25 min
+ ) : télécharger le .pkt sur jeremysitlab.com\, regarder\, puis refaire s
+ eul sans la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\
+ , gratuit) et faire la première passe\n\nThème NetworkChuck équivalent 
+ : Skill 14 (EtherChannel\, LACP\, répartition de charge)\n\nSi une notion
+  reste floue (voir ressources-ccna-13-semaines.md) :\n  Sunny Classroom «
+  EtherChannel » \; Flackbox lab EtherChannel\n\nEnsuite : 10 min d'Anki (
+ tous les decks importés). À partir du J.13 : 10 calculs de subnetting pa
+ r jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S6 · J.23 · EtherChannel
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S6 · J.23 · EtherChannel
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j049-24@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261104T210000Z
+DTEND:20261104T230000Z
+SUMMARY:CCNA S6 · J.24 · Dynamic Routing
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.24.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 45 min de vidéo. Labs : 1 (23 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 114 min. Bloc rés
+ ervé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °49 Day 24 « Dynamic Routing » (45 min) : vidéo avec prise de notes\, 
+ quiz de fin de vidéo\n  ☐ n°50 Lab « Floating Static Routes » (23 mi
+ n) : télécharger le .pkt sur jeremysitlab.com\, regarder\, puis refaire 
+ seul sans la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com
+ \, gratuit) et faire la première passe\n\nThème NetworkChuck équivalent
+  : Skill 15 (Protocoles de routage\, OSPF\, dépannage et mise à l'échel
+ le)\n\nSi une notion reste floue (voir ressources-ccna-13-semaines.md) :\n
+   Certbros « OSPF explained » \; Flackbox labs OSPF \; Formip « OSPF »
+ \n\nEnsuite : 10 min d'Anki (tous les decks importés). À partir du J.13 
+ : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S6 · J.24 · Dynamic Routing
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S6 · J.24 · Dynamic Routing
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j051-25@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261105T210000Z
+DTEND:20261105T230000Z
+SUMMARY:CCNA S6 · J.25 · RIP & EIGRP
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.25.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 44 min de vidéo. Labs : 1 (26 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 119 min. Bloc rés
+ ervé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °51 Day 25 « RIP & EIGRP » (44 min) : vidéo avec prise de notes\, quiz
+  de fin de vidéo\n  ☐ n°52 Lab « Configuring EIGRP » (26 min) : tél
+ écharger le .pkt sur jeremysitlab.com\, regarder\, puis refaire seul sans
+  la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gratui
+ t) et faire la première passe\n\nThème NetworkChuck équivalent : Skill 
+ 09 (Routage : local\, statique\, par défaut\, dynamique (EIGRP)\, table d
+ e routage)\n\nSi une notion reste floue (voir ressources-ccna-13-semaines.
+ md) :\n  Practical Networking « Packet Traveling » (à voir deux fois) \
+ ; Formip « Routage statique »\n\nEnsuite : 10 min d'Anki (tous les decks
+  importés). À partir du J.13 : 10 calculs de subnetting par jour sur sub
+ netipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S6 · J.25 · RIP & EIGRP
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S6 · J.25 · RIP & EIGRP
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j053-26@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261109T210000Z
+DTEND:20261109T230000Z
+SUMMARY:CCNA S7 · J.26 · OSPF Part 1
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.26.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 40 min de vidéo. Labs : 1 (22 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 106 min. Bloc rés
+ ervé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °53 Day 26 « OSPF Part 1 » (40 min) : vidéo avec prise de notes\, quiz
+  de fin de vidéo\n  ☐ n°54 Lab « Configuring OSPF (1) » (22 min) : t
+ élécharger le .pkt sur jeremysitlab.com\, regarder\, puis refaire seul s
+ ans la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gra
+ tuit) et faire la première passe\n\nThème NetworkChuck équivalent : Ski
+ ll 15 (Protocoles de routage\, OSPF\, dépannage et mise à l'échelle)\n\
+ nSi une notion reste floue (voir ressources-ccna-13-semaines.md) :\n  Cert
+ bros « OSPF explained » \; Flackbox labs OSPF \; Formip « OSPF »\n\nEn
+ suite : 10 min d'Anki (tous les decks importés). À partir du J.13 : 10 c
+ alculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S7 · J.26 · OSPF Part 1
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S7 · J.26 · OSPF Part 1
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j055-27@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261110T210000Z
+DTEND:20261110T230000Z
+SUMMARY:CCNA S7 · J.27 · OSPF Part 2
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.27.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 37 min de vidéo. Labs : 1 (22 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 102 min. Bloc rés
+ ervé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °55 Day 27 « OSPF Part 2 » (37 min) : vidéo avec prise de notes\, quiz
+  de fin de vidéo\n  ☐ n°56 Lab « Configuring OSPF (2) » (22 min) : t
+ élécharger le .pkt sur jeremysitlab.com\, regarder\, puis refaire seul s
+ ans la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gra
+ tuit) et faire la première passe\n\nThème NetworkChuck équivalent : Ski
+ ll 15 (Protocoles de routage\, OSPF\, dépannage et mise à l'échelle)\n\
+ nSi une notion reste floue (voir ressources-ccna-13-semaines.md) :\n  Cert
+ bros « OSPF explained » \; Flackbox labs OSPF \; Formip « OSPF »\n\nEn
+ suite : 10 min d'Anki (tous les decks importés). À partir du J.13 : 10 c
+ alculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S7 · J.27 · OSPF Part 2
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S7 · J.27 · OSPF Part 2
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j057-28@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261111T210000Z
+DTEND:20261111T230000Z
+SUMMARY:CCNA S7 · J.28 · OSPF Part 3
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.28.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 48 min de vidéo. Labs : 1 (21 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 114 min. Bloc rés
+ ervé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °57 Day 28 « OSPF Part 3 » (48 min) : vidéo avec prise de notes\, quiz
+  de fin de vidéo\n  ☐ n°58 Lab « Configuring OSPF (3) » (21 min) : t
+ élécharger le .pkt sur jeremysitlab.com\, regarder\, puis refaire seul s
+ ans la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gra
+ tuit) et faire la première passe\n\nThème NetworkChuck équivalent : Ski
+ ll 15 (Protocoles de routage\, OSPF\, dépannage et mise à l'échelle)\n\
+ nSi une notion reste floue (voir ressources-ccna-13-semaines.md) :\n  Cert
+ bros « OSPF explained » \; Flackbox labs OSPF \; Formip « OSPF »\n\nEn
+ suite : 10 min d'Anki (tous les decks importés). À partir du J.13 : 10 c
+ alculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S7 · J.28 · OSPF Part 3
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S7 · J.28 · OSPF Part 3
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j059-29@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261112T210000Z
+DTEND:20261112T230000Z
+SUMMARY:CCNA S7 · J.29 · First Hop Redundancy Protocols
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.29.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 40 min de vidéo. Labs : 1 (22 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 106 min. Bloc rés
+ ervé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °59 Day 29 « First Hop Redundancy Protocols » (40 min) : vidéo avec pr
+ ise de notes\, quiz de fin de vidéo\n  ☐ n°60 Lab « Configuring HSRP 
+ » (22 min) : télécharger le .pkt sur jeremysitlab.com\, regarder\, puis
+  refaire seul sans la vidéo\n  ☐ Importer le deck Anki du jour (jeremys
+ itlab.com\, gratuit) et faire la première passe\n\nThème NetworkChuck é
+ quivalent : Skill 16 (FHRP : HSRP\, VRRP\, GLBP)\n\nSi une notion reste fl
+ oue (voir ressources-ccna-13-semaines.md) :\n  Sunny Classroom « HSRP » 
+ \; Flackbox lab HSRP\n\nEnsuite : 10 min d'Anki (tous les decks importés)
+ . À partir du J.13 : 10 calculs de subnetting par jour sur subnetipv4.com
+ .
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S7 · J.29 · First Hop Redundancy P
+ rotocols
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S7 · J.29 · First Hop Redun
+ dancy Protocols
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j061-30@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261113T210000Z
+DTEND:20261113T223000Z
+SUMMARY:CCNA S7 · J.30 · TCP & UDP
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.30.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 34 min de vidéo. Labs : 1 (11 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 76 min. Bloc rése
+ rvé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°
+ 61 Day 30 « TCP & UDP » (34 min) : vidéo avec prise de notes\, quiz de 
+ fin de vidéo\n  ☐ n°62 Lab « Wireshark Demo (TCP/UDP) » (11 min) : t
+ élécharger le .pkt sur jeremysitlab.com\, regarder\, puis refaire seul s
+ ans la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gra
+ tuit) et faire la première passe\n\nThème NetworkChuck équivalent : Ski
+ ll 04 (Modèle OSI / TCP-IP\, architecture 3 tiers)\n\nSi une notion reste
+  floue (voir ressources-ccna-13-semaines.md) :\n  Practical Networking « 
+ OSI Model » (7 vidéos) \; Formip « Modèle OSI »\n\nEnsuite : 10 min d
+ 'Anki (tous les decks importés). À partir du J.13 : 10 calculs de subnet
+ ting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S7 · J.30 · TCP & UDP
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S7 · J.30 · TCP & UDP
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j063-31@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261116T210000Z
+DTEND:20261116T230000Z
+SUMMARY:CCNA S8 · J.31 · IPv6 Part 1
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.31.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 39 min de vidéo. Labs : 1 (18 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 97 min. Bloc rése
+ rvé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °63 Day 31 « IPv6 Part 1 » (39 min) : vidéo avec prise de notes\, quiz
+  de fin de vidéo\n  ☐ n°64 Lab « Configuring IPv6 (Part 1) » (18 min
+ ) : télécharger le .pkt sur jeremysitlab.com\, regarder\, puis refaire s
+ eul sans la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\
+ , gratuit) et faire la première passe\n\nThème NetworkChuck équivalent 
+ : Skill 17 (IPv6 : adressage\, raccourcis\, configuration)\n\nSi une notio
+ n reste floue (voir ressources-ccna-13-semaines.md) :\n  Practical Network
+ ing « IPv6 Addressing » \; PowerCert « IPv6 Explained » \; Formip « I
+ Pv6 »\n\nEnsuite : 10 min d'Anki (tous les decks importés). À partir du
+  J.13 : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S8 · J.31 · IPv6 Part 1
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S8 · J.31 · IPv6 Part 1
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j065-32@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261117T210000Z
+DTEND:20261117T230000Z
+SUMMARY:CCNA S8 · J.32 · IPv6 Part 2
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.32.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 40 min de vidéo. Labs : 1 (21 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 104 min. Bloc rés
+ ervé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °65 Day 32 « IPv6 Part 2 » (40 min) : vidéo avec prise de notes\, quiz
+  de fin de vidéo\n  ☐ n°66 Lab « Configuring IPv6 (Part 2) » (21 min
+ ) : télécharger le .pkt sur jeremysitlab.com\, regarder\, puis refaire s
+ eul sans la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\
+ , gratuit) et faire la première passe\n\nThème NetworkChuck équivalent 
+ : Skill 17 (IPv6 : adressage\, raccourcis\, configuration)\n\nSi une notio
+ n reste floue (voir ressources-ccna-13-semaines.md) :\n  Practical Network
+ ing « IPv6 Addressing » \; PowerCert « IPv6 Explained » \; Formip « I
+ Pv6 »\n\nEnsuite : 10 min d'Anki (tous les decks importés). À partir du
+  J.13 : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S8 · J.32 · IPv6 Part 2
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S8 · J.32 · IPv6 Part 2
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j067-33@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261119T210000Z
+DTEND:20261119T230000Z
+SUMMARY:CCNA S8 · J.33 · IPv6 Part 3
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.33.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 44 min de vidéo. Labs : 1 (19 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 105 min. Bloc rés
+ ervé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °67 Day 33 « IPv6 Part 3 » (44 min) : vidéo avec prise de notes\, quiz
+  de fin de vidéo\n  ☐ n°68 Lab « Configuring IPv6 (Part 3) » (19 min
+ ) : télécharger le .pkt sur jeremysitlab.com\, regarder\, puis refaire s
+ eul sans la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\
+ , gratuit) et faire la première passe\n\nThème NetworkChuck équivalent 
+ : Skill 17 (IPv6 : adressage\, raccourcis\, configuration)\n\nSi une notio
+ n reste floue (voir ressources-ccna-13-semaines.md) :\n  Practical Network
+ ing « IPv6 Addressing » \; PowerCert « IPv6 Explained » \; Formip « I
+ Pv6 »\n\nEnsuite : 10 min d'Anki (tous les decks importés). À partir du
+  J.13 : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S8 · J.33 · IPv6 Part 3
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S8 · J.33 · IPv6 Part 3
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j069-34@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261120T210000Z
+DTEND:20261120T233000Z
+SUMMARY:CCNA S8 · J.34 · Standard ACLs
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.34.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 47 min de vidéo. Labs : 1 (27 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 125 min. Bloc rés
+ ervé : 150 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °69 Day 34 « Standard ACLs » (47 min) : vidéo avec prise de notes\, qu
+ iz de fin de vidéo\n  ☐ n°70 Lab « Standard ACLs » (27 min) : télé
+ charger le .pkt sur jeremysitlab.com\, regarder\, puis refaire seul sans l
+ a vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gratuit)
+  et faire la première passe\n\nThème NetworkChuck équivalent : Skill 18
+  (ACL standard et étendues)\n\nSi une notion reste floue (voir ressources
+ -ccna-13-semaines.md) :\n  Sunny Classroom « ACL » \; Flackbox labs ACL 
+ \; règle : standard près de la destination\, étendue près de la source
+ \n\nEnsuite : 10 min d'Anki (tous les decks importés). À partir du J.13 
+ : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S8 · J.34 · Standard ACLs
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S8 · J.34 · Standard ACLs
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j071-35@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261123T210000Z
+DTEND:20261123T230000Z
+SUMMARY:CCNA S9 · J.35 · Extended ACLs
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.35.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 41 min de vidéo. Labs : 1 (22 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 107 min. Bloc rés
+ ervé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °71 Day 35 « Extended ACLs » (41 min) : vidéo avec prise de notes\, qu
+ iz de fin de vidéo\n  ☐ n°72 Lab « Extended ACLs » (22 min) : télé
+ charger le .pkt sur jeremysitlab.com\, regarder\, puis refaire seul sans l
+ a vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gratuit)
+  et faire la première passe\n\nThème NetworkChuck équivalent : Skill 18
+  (ACL standard et étendues)\n\nSi une notion reste floue (voir ressources
+ -ccna-13-semaines.md) :\n  Sunny Classroom « ACL » \; Flackbox labs ACL 
+ \; règle : standard près de la destination\, étendue près de la source
+ \n\nEnsuite : 10 min d'Anki (tous les decks importés). À partir du J.13 
+ : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S9 · J.35 · Extended ACLs
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S9 · J.35 · Extended ACLs
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j073-36@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261124T210000Z
+DTEND:20261124T230000Z
+SUMMARY:CCNA S9 · J.36 · CDP & LLDP
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.36.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 39 min de vidéo. Labs : 1 (25 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 111 min. Bloc rés
+ ervé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °73 Day 36 « CDP & LLDP » (39 min) : vidéo avec prise de notes\, quiz 
+ de fin de vidéo\n  ☐ n°74 Lab « CDP & LLDP » (25 min) : télécharge
+ r le .pkt sur jeremysitlab.com\, regarder\, puis refaire seul sans la vid
+ éo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gratuit) et f
+ aire la première passe\n\nThème NetworkChuck équivalent : Skill 21 (CDP
+  et LLDP)\n\nSi une notion reste floue (voir ressources-ccna-13-semaines.m
+ d) :\n  Flackbox lab CDP/LLDP \; timers par défaut à retenir\n\nEnsuite 
+ : 10 min d'Anki (tous les decks importés). À partir du J.13 : 10 calculs
+  de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S9 · J.36 · CDP & LLDP
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S9 · J.36 · CDP & LLDP
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j075-37@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261125T210000Z
+DTEND:20261125T230000Z
+SUMMARY:CCNA S9 · J.37 · NTP
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.37.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 43 min de vidéo. Labs : 1 (19 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 104 min. Bloc rés
+ ervé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °75 Day 37 « NTP » (43 min) : vidéo avec prise de notes\, quiz de fin 
+ de vidéo\n  ☐ n°76 Lab « NTP » (19 min) : télécharger le .pkt sur 
+ jeremysitlab.com\, regarder\, puis refaire seul sans la vidéo\n  ☐ Impo
+ rter le deck Anki du jour (jeremysitlab.com\, gratuit) et faire la premiè
+ re passe\n\nThème NetworkChuck équivalent : Skill 22 (Services IP : horl
+ oge\, NTP\, DNS\, DHCP\, SSH)\n\nSi une notion reste floue (voir ressource
+ s-ccna-13-semaines.md) :\n  PowerCert « DNS »\, « DHCP » \; sur la VM 
+ Ubuntu : dnsmasq comme serveur DHCP/DNS\n\nEnsuite : 10 min d'Anki (tous l
+ es decks importés). À partir du J.13 : 10 calculs de subnetting par jour
+  sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S9 · J.37 · NTP
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S9 · J.37 · NTP
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j077-38@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261126T210000Z
+DTEND:20261126T223000Z
+SUMMARY:CCNA S9 · J.38 · DNS
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.38.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 30 min de vidéo. Labs : 1 (18 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 85 min. Bloc rése
+ rvé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°
+ 77 Day 38 « DNS » (30 min) : vidéo avec prise de notes\, quiz de fin de
+  vidéo\n  ☐ n°78 Lab « DNS » (18 min) : télécharger le .pkt sur je
+ remysitlab.com\, regarder\, puis refaire seul sans la vidéo\n  ☐ Import
+ er le deck Anki du jour (jeremysitlab.com\, gratuit) et faire la première
+  passe\n\nThème NetworkChuck équivalent : Skill 22 (Services IP : horlog
+ e\, NTP\, DNS\, DHCP\, SSH)\n\nSi une notion reste floue (voir ressources-
+ ccna-13-semaines.md) :\n  PowerCert « DNS »\, « DHCP » \; sur la VM Ub
+ untu : dnsmasq comme serveur DHCP/DNS\n\nEnsuite : 10 min d'Anki (tous les
+  decks importés). À partir du J.13 : 10 calculs de subnetting par jour s
+ ur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S9 · J.38 · DNS
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S9 · J.38 · DNS
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j079-39@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261127T210000Z
+DTEND:20261127T230000Z
+SUMMARY:CCNA S9 · J.39 · DHCP
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.39.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 37 min de vidéo. Labs : 1 (18 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 94 min. Bloc rése
+ rvé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °79 Day 39 « DHCP » (37 min) : vidéo avec prise de notes\, quiz de fin
+  de vidéo\n  ☐ n°80 Lab « DHCP » (18 min) : télécharger le .pkt su
+ r jeremysitlab.com\, regarder\, puis refaire seul sans la vidéo\n  ☐ Im
+ porter le deck Anki du jour (jeremysitlab.com\, gratuit) et faire la premi
+ ère passe\n\nThème NetworkChuck équivalent : Skill 22 (Services IP : ho
+ rloge\, NTP\, DNS\, DHCP\, SSH)\n\nSi une notion reste floue (voir ressour
+ ces-ccna-13-semaines.md) :\n  PowerCert « DNS »\, « DHCP » \; sur la V
+ M Ubuntu : dnsmasq comme serveur DHCP/DNS\n\nEnsuite : 10 min d'Anki (tous
+  les decks importés). À partir du J.13 : 10 calculs de subnetting par jo
+ ur sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S9 · J.39 · DHCP
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S9 · J.39 · DHCP
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j081-40@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261130T210000Z
+DTEND:20261130T223000Z
+SUMMARY:CCNA S10 · J.40 · SNMP
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.40.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 29 min de vidéo. Labs : 1 (14 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 76 min. Bloc rése
+ rvé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°
+ 81 Day 40 « SNMP » (29 min) : vidéo avec prise de notes\, quiz de fin d
+ e vidéo\n  ☐ n°82 Lab « SNMP » (14 min) : télécharger le .pkt sur 
+ jeremysitlab.com\, regarder\, puis refaire seul sans la vidéo\n  ☐ Impo
+ rter le deck Anki du jour (jeremysitlab.com\, gratuit) et faire la premiè
+ re passe\n\nThème NetworkChuck équivalent : Skill 23 (SNMP et Syslog)\n\
+ nSi une notion reste floue (voir ressources-ccna-13-semaines.md) :\n  Powe
+ rCert « SNMP » \; sur la VM Ubuntu : rsyslog et snmpd en récepteurs\n\n
+ Ensuite : 10 min d'Anki (tous les decks importés). À partir du J.13 : 10
+  calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S10 · J.40 · SNMP
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S10 · J.40 · SNMP
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j083-41@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261201T210000Z
+DTEND:20261201T223000Z
+SUMMARY:CCNA S10 · J.41 · Syslog
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.41.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 28 min de vidéo. Labs : 1 (14 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 74 min. Bloc rése
+ rvé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°
+ 83 Day 41 « Syslog » (28 min) : vidéo avec prise de notes\, quiz de fin
+  de vidéo\n  ☐ n°84 Lab « Syslog » (14 min) : télécharger le .pkt 
+ sur jeremysitlab.com\, regarder\, puis refaire seul sans la vidéo\n  ☐ 
+ Importer le deck Anki du jour (jeremysitlab.com\, gratuit) et faire la pre
+ mière passe\n\nThème NetworkChuck équivalent : Skill 23 (SNMP et Syslog
+ )\n\nSi une notion reste floue (voir ressources-ccna-13-semaines.md) :\n  
+ PowerCert « SNMP » \; sur la VM Ubuntu : rsyslog et snmpd en récepteurs
+ \n\nEnsuite : 10 min d'Anki (tous les decks importés). À partir du J.13 
+ : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S10 · J.41 · Syslog
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S10 · J.41 · Syslog
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j085-42@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261202T210000Z
+DTEND:20261202T223000Z
+SUMMARY:CCNA S10 · J.42 · SSH
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.42.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 31 min de vidéo. Labs : 1 (16 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 82 min. Bloc rése
+ rvé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°
+ 85 Day 42 « SSH » (31 min) : vidéo avec prise de notes\, quiz de fin de
+  vidéo\n  ☐ n°86 Lab « SSH » (16 min) : télécharger le .pkt sur je
+ remysitlab.com\, regarder\, puis refaire seul sans la vidéo\n  ☐ Import
+ er le deck Anki du jour (jeremysitlab.com\, gratuit) et faire la première
+  passe\n\nThème NetworkChuck équivalent : Skill 22 (Services IP : horlog
+ e\, NTP\, DNS\, DHCP\, SSH)\n\nSi une notion reste floue (voir ressources-
+ ccna-13-semaines.md) :\n  PowerCert « DNS »\, « DHCP » \; sur la VM Ub
+ untu : dnsmasq comme serveur DHCP/DNS\n\nEnsuite : 10 min d'Anki (tous les
+  decks importés). À partir du J.13 : 10 calculs de subnetting par jour s
+ ur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S10 · J.42 · SSH
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S10 · J.42 · SSH
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j087-43@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261203T210000Z
+DTEND:20261203T223000Z
+SUMMARY:CCNA S10 · J.43 · FTP & TFTP
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.43.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 31 min de vidéo. Labs : 1 (16 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 82 min. Bloc rése
+ rvé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°
+ 87 Day 43 « FTP & TFTP » (31 min) : vidéo avec prise de notes\, quiz de
+  fin de vidéo\n  ☐ n°88 Lab « FTP & TFTP » (16 min) : télécharger 
+ le .pkt sur jeremysitlab.com\, regarder\, puis refaire seul sans la vidéo
+ \n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gratuit) et fair
+ e la première passe\n\nThème NetworkChuck équivalent : Skill 22 (Servic
+ es IP : horloge\, NTP\, DNS\, DHCP\, SSH)\n\nSi une notion reste floue (vo
+ ir ressources-ccna-13-semaines.md) :\n  PowerCert « DNS »\, « DHCP » \
+ ; sur la VM Ubuntu : dnsmasq comme serveur DHCP/DNS\n\nEnsuite : 10 min d'
+ Anki (tous les decks importés). À partir du J.13 : 10 calculs de subnett
+ ing par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S10 · J.43 · FTP & TFTP
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S10 · J.43 · FTP & TFTP
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j089-44@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261204T210000Z
+DTEND:20261204T223000Z
+SUMMARY:CCNA S10 · J.44 · NAT (Part 1)
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.44.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 32 min de vidéo. Labs : 1 (14 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 80 min. Bloc rése
+ rvé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°
+ 89 Day 44 « NAT (Part 1) » (32 min) : vidéo avec prise de notes\, quiz 
+ de fin de vidéo\n  ☐ n°90 Lab « Static NAT » (14 min) : télécharge
+ r le .pkt sur jeremysitlab.com\, regarder\, puis refaire seul sans la vid
+ éo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gratuit) et f
+ aire la première passe\n\nThème NetworkChuck équivalent : Skill 10 (NAT
+  : statique\, dynamique\, PAT (overload))\n\nSi une notion reste floue (vo
+ ir ressources-ccna-13-semaines.md) :\n  Practical Networking « NAT » (4 
+ vidéos) \; PowerCert « NAT Explained »\n\nEnsuite : 10 min d'Anki (tous
+  les decks importés). À partir du J.13 : 10 calculs de subnetting par jo
+ ur sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S10 · J.44 · NAT (Part 1)
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S10 · J.44 · NAT (Part 1)
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j091-45@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261207T210000Z
+DTEND:20261207T223000Z
+SUMMARY:CCNA S11 · J.45 · NAT (part 2)
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.45.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 30 min de vidéo. Labs : 1 (15 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 79 min. Bloc rése
+ rvé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°
+ 91 Day 45 « NAT (part 2) » (30 min) : vidéo avec prise de notes\, quiz 
+ de fin de vidéo\n  ☐ n°92 Lab « Dynamic NAT » (15 min) : télécharg
+ er le .pkt sur jeremysitlab.com\, regarder\, puis refaire seul sans la vid
+ éo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gratuit) et f
+ aire la première passe\n\nThème NetworkChuck équivalent : Skill 10 (NAT
+  : statique\, dynamique\, PAT (overload))\n\nSi une notion reste floue (vo
+ ir ressources-ccna-13-semaines.md) :\n  Practical Networking « NAT » (4 
+ vidéos) \; PowerCert « NAT Explained »\n\nEnsuite : 10 min d'Anki (tous
+  les decks importés). À partir du J.13 : 10 calculs de subnetting par jo
+ ur sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S11 · J.45 · NAT (part 2)
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S11 · J.45 · NAT (part 2)
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j093-46@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261208T210000Z
+DTEND:20261208T230000Z
+SUMMARY:CCNA S11 · J.46 · QoS (Part 1)
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.46.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 33 min de vidéo. Labs : 1 (20 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 93 min. Bloc rése
+ rvé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °93 Day 46 « QoS (Part 1) » (33 min) : vidéo avec prise de notes\, qui
+ z de fin de vidéo\n  ☐ n°94 Lab « Voice VLANs » (20 min) : télécha
+ rger le .pkt sur jeremysitlab.com\, regarder\, puis refaire seul sans la v
+ idéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gratuit) et
+  faire la première passe\n\nThème NetworkChuck équivalent : Skill 24 (Q
+ oS : classification\, marquage\, queuing\, shaping\, policing)\n\nSi une n
+ otion reste floue (voir ressources-ccna-13-semaines.md) :\n  Sunny Classro
+ om « QoS » \; Kevin Wallace « QoS Fundamentals »\n\nEnsuite : 10 min d
+ 'Anki (tous les decks importés). À partir du J.13 : 10 calculs de subnet
+ ting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S11 · J.46 · QoS (Part 1)
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S11 · J.46 · QoS (Part 1)
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j095-47@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261209T210000Z
+DTEND:20261209T230000Z
+SUMMARY:CCNA S11 · J.47 · QoS (Part 2)
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.47.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 42 min de vidéo. Labs : 1 (16 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 97 min. Bloc rése
+ rvé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °95 Day 47 « QoS (Part 2) » (42 min) : vidéo avec prise de notes\, qui
+ z de fin de vidéo\n  ☐ n°96 Lab « QoS » (16 min) : télécharger le 
+ .pkt sur jeremysitlab.com\, regarder\, puis refaire seul sans la vidéo\n 
+  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gratuit) et faire l
+ a première passe\n\nThème NetworkChuck équivalent : Skill 24 (QoS : cla
+ ssification\, marquage\, queuing\, shaping\, policing)\n\nSi une notion re
+ ste floue (voir ressources-ccna-13-semaines.md) :\n  Sunny Classroom « Qo
+ S » \; Kevin Wallace « QoS Fundamentals »\n\nEnsuite : 10 min d'Anki (t
+ ous les decks importés). À partir du J.13 : 10 calculs de subnetting par
+  jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S11 · J.47 · QoS (Part 2)
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S11 · J.47 · QoS (Part 2)
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j097-48@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261210T210000Z
+DTEND:20261210T223000Z
+SUMMARY:CCNA S11 · J.48 · Security Fundamentals
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.48.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 39 min de vidéo. Labs : 1 (10 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 81 min. Bloc rése
+ rvé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°
+ 97 Day 48 « Security Fundamentals » (39 min) : vidéo avec prise de note
+ s\, quiz de fin de vidéo\n  ☐ n°98 Lab « Kali Linux Demo » (10 min) 
+ : télécharger le .pkt sur jeremysitlab.com\, regarder\, puis refaire seu
+ l sans la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, 
+ gratuit) et faire la première passe\n\nThème NetworkChuck équivalent : 
+ Skill 19 (Sécurité : vulnérabilités\, menaces\, attaques sur mots de p
+ asse\, AAA)\n\nSi une notion reste floue (voir ressources-ccna-13-semaines
+ .md) :\n  Sunny Classroom « Cyber attacks » \; Professor Messer Security
+ + « Threats »\n\nEnsuite : 10 min d'Anki (tous les decks importés). À 
+ partir du J.13 : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S11 · J.48 · Security Fundamentals
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S11 · J.48 · Security Funda
+ mentals
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j099-49@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261211T210000Z
+DTEND:20261211T223000Z
+SUMMARY:CCNA S11 · J.49 · Port Security
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.49.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 34 min de vidéo. Labs : 1 (17 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 88 min. Bloc rése
+ rvé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°
+ 99 Day 49 « Port Security » (34 min) : vidéo avec prise de notes\, quiz
+  de fin de vidéo\n  ☐ n°100 Lab « Port Security » (17 min) : téléc
+ harger le .pkt sur jeremysitlab.com\, regarder\, puis refaire seul sans la
+  vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gratuit) 
+ et faire la première passe\n\nThème NetworkChuck équivalent : Skill 20 
+ (Sécurité couche 2 : port security\, DHCP snooping\, DAI)\n\nSi une noti
+ on reste floue (voir ressources-ccna-13-semaines.md) :\n  Sunny Classroom 
+ « Port security »\, « DHCP snooping »\, « ARP spoofing » \; Flackbox
+  labs L2 security\n\nEnsuite : 10 min d'Anki (tous les decks importés). 
+ À partir du J.13 : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S11 · J.49 · Port Security
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S11 · J.49 · Port Security
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j101-50@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261214T210000Z
+DTEND:20261214T223000Z
+SUMMARY:CCNA S12 · J.50 · DHCP Snooping
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.50.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 28 min de vidéo. Labs : 1 (16 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 78 min. Bloc rése
+ rvé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°
+ 101 Day 50 « DHCP Snooping » (28 min) : vidéo avec prise de notes\, qui
+ z de fin de vidéo\n  ☐ n°102 Lab « DHCP Snooping » (16 min) : télé
+ charger le .pkt sur jeremysitlab.com\, regarder\, puis refaire seul sans l
+ a vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gratuit)
+  et faire la première passe\n\nThème NetworkChuck équivalent : Skill 20
+  (Sécurité couche 2 : port security\, DHCP snooping\, DAI)\n\nSi une not
+ ion reste floue (voir ressources-ccna-13-semaines.md) :\n  Sunny Classroom
+  « Port security »\, « DHCP snooping »\, « ARP spoofing » \; Flackbo
+ x labs L2 security\n\nEnsuite : 10 min d'Anki (tous les decks importés). 
+ À partir du J.13 : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S12 · J.50 · DHCP Snooping
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S12 · J.50 · DHCP Snooping
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j103-51@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261215T210000Z
+DTEND:20261215T230000Z
+SUMMARY:CCNA S12 · J.51 · Dynamic ARP Inspection
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.51.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 33 min de vidéo. Labs : 1 (21 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 95 min. Bloc rése
+ rvé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °103 Day 51 « Dynamic ARP Inspection » (33 min) : vidéo avec prise de 
+ notes\, quiz de fin de vidéo\n  ☐ n°104 Lab « Dynamic ARP Inspection 
+ » (21 min) : télécharger le .pkt sur jeremysitlab.com\, regarder\, puis
+  refaire seul sans la vidéo\n  ☐ Importer le deck Anki du jour (jeremys
+ itlab.com\, gratuit) et faire la première passe\n\nThème NetworkChuck é
+ quivalent : Skill 20 (Sécurité couche 2 : port security\, DHCP snooping\
+ , DAI)\n\nSi une notion reste floue (voir ressources-ccna-13-semaines.md) 
+ :\n  Sunny Classroom « Port security »\, « DHCP snooping »\, « ARP sp
+ oofing » \; Flackbox labs L2 security\n\nEnsuite : 10 min d'Anki (tous le
+ s decks importés). À partir du J.13 : 10 calculs de subnetting par jour 
+ sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S12 · J.51 · Dynamic ARP Inspectio
+ n
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S12 · J.51 · Dynamic ARP In
+ spection
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j105-52@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261216T210000Z
+DTEND:20261216T223000Z
+SUMMARY:CCNA S12 · J.52 · LAN Architectures
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.52.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 28 min de vidéo. Labs : 1 (19 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 84 min. Bloc rése
+ rvé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°
+ 105 Day 52 « LAN Architectures » (28 min) : vidéo avec prise de notes\,
+  quiz de fin de vidéo\n  ☐ n°106 Lab « STP & FHRP Synchronization » 
+ (19 min) : télécharger le .pkt sur jeremysitlab.com\, regarder\, puis re
+ faire seul sans la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitl
+ ab.com\, gratuit) et faire la première passe\n\nThème NetworkChuck équi
+ valent : Skill 02 (Fondamentaux : LAN/WAN\, clients/serveurs\, switch\, ro
+ uteur\, pare-feu)\n\nSi une notion reste floue (voir ressources-ccna-13-se
+ maines.md) :\n  Practical Networking « Networking Fundamentals » \; Powe
+ rCert « Hub\, Switch\, Router »\n\nEnsuite : 10 min d'Anki (tous les dec
+ ks importés). À partir du J.13 : 10 calculs de subnetting par jour sur s
+ ubnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S12 · J.52 · LAN Architectures
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S12 · J.52 · LAN Architectu
+ res
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j107-53@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261217T210000Z
+DTEND:20261217T230000Z
+SUMMARY:CCNA S12 · J.53 · WAN Architectures
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.53.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 38 min de vidéo. Labs : 1 (22 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 103 min. Bloc rés
+ ervé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °107 Day 53 « WAN Architectures » (38 min) : vidéo avec prise de notes
+ \, quiz de fin de vidéo\n  ☐ n°108 Lab « GRE Tunnels » (22 min) : t
+ élécharger le .pkt sur jeremysitlab.com\, regarder\, puis refaire seul s
+ ans la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gra
+ tuit) et faire la première passe\n\nThème NetworkChuck équivalent : Ski
+ ll 02 (Fondamentaux : LAN/WAN\, clients/serveurs\, switch\, routeur\, pare
+ -feu)\n\nSi une notion reste floue (voir ressources-ccna-13-semaines.md) :
+ \n  Practical Networking « Networking Fundamentals » \; PowerCert « Hub
+ \, Switch\, Router »\n\nEnsuite : 10 min d'Anki (tous les decks importés
+ ). À partir du J.13 : 10 calculs de subnetting par jour sur subnetipv4.co
+ m.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S12 · J.53 · WAN Architectures
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S12 · J.53 · WAN Architectu
+ res
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j109-54@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261218T210000Z
+DTEND:20261218T230000Z
+SUMMARY:CCNA S12 · J.54 · Virtualization & Cloud + Containers + VRF
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.54.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 71 min de vidéo. Labs : 1 (9 min d
+ e vidéo\, à refaire seul ensuite). Durée estimée : 120 min. Bloc rése
+ rvé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °109 Day 54 « Virtualization & Cloud » (39 min) : vidéo avec prise de 
+ notes\, quiz de fin de vidéo\n  ☐ n°110 Day 54 « Containers » (14 mi
+ n) : vidéo avec prise de notes\, quiz de fin de vidéo\n  ☐ n°111 Day 
+ 54 « VRF » (18 min) : vidéo avec prise de notes\, quiz de fin de vidéo
+ \n  ☐ n°112 Lab « Oracle VirtualBox » (9 min) : télécharger le .pkt
+  sur jeremysitlab.com\, regarder\, puis refaire seul sans la vidéo\n  ☐
+  Importer le deck Anki du jour (jeremysitlab.com\, gratuit) et faire la pr
+ emière passe\n\nThème NetworkChuck équivalent : Skill 02 (Fondamentaux 
+ : LAN/WAN\, clients/serveurs\, switch\, routeur\, pare-feu)\n\nSi une noti
+ on reste floue (voir ressources-ccna-13-semaines.md) :\n  Practical Networ
+ king « Networking Fundamentals » \; PowerCert « Hub\, Switch\, Router 
+ »\n\nEnsuite : 10 min d'Anki (tous les decks importés). À partir du J.1
+ 3 : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S12 · J.54 · Virtualization & Clou
+ d + Containers + VRF
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S12 · J.54 · Virtualization
+  & Cloud + Containers + VRF
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j113-55@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261221T210000Z
+DTEND:20261221T223000Z
+SUMMARY:CCNA S13 · J.55 · Wireless Fundamentals
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.55.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 36 min de vidéo. Labs : 0 (0 min d
+ e vidéo\, à refaire seul ensuite). Durée estimée : 57 min. Bloc réser
+ vé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°1
+ 13 Day 55 « Wireless Fundamentals » (36 min) : vidéo avec prise de note
+ s\, quiz de fin de vidéo\n  ☐ Importer le deck Anki du jour (jeremysitl
+ ab.com\, gratuit) et faire la première passe\n\nThème NetworkChuck équi
+ valent : Skill 25 (Wi-Fi : fonctionnement\, canaux\, association\, sécuri
+ té)\n\nSi une notion reste floue (voir ressources-ccna-13-semaines.md) :\
+ n  Sunny Classroom « Wireless » \; PowerCert « Wi-Fi standards »\, « 
+ WPA3 » \; Formip « Wi-Fi »\n\nEnsuite : 10 min d'Anki (tous les decks i
+ mportés). À partir du J.13 : 10 calculs de subnetting par jour sur subne
+ tipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S13 · J.55 · Wireless Fundamentals
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S13 · J.55 · Wireless Funda
+ mentals
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j114-56@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261222T210000Z
+DTEND:20261222T223000Z
+SUMMARY:CCNA S13 · J.56 · Wireless Architectures
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.56.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 38 min de vidéo. Labs : 0 (0 min d
+ e vidéo\, à refaire seul ensuite). Durée estimée : 59 min. Bloc réser
+ vé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°1
+ 14 Day 56 « Wireless Architectures » (38 min) : vidéo avec prise de not
+ es\, quiz de fin de vidéo\n  ☐ Importer le deck Anki du jour (jeremysit
+ lab.com\, gratuit) et faire la première passe\n\nThème NetworkChuck équ
+ ivalent : Skill 25 (Wi-Fi : fonctionnement\, canaux\, association\, sécur
+ ité)\n\nSi une notion reste floue (voir ressources-ccna-13-semaines.md) :
+ \n  Sunny Classroom « Wireless » \; PowerCert « Wi-Fi standards »\, «
+  WPA3 » \; Formip « Wi-Fi »\n\nEnsuite : 10 min d'Anki (tous les decks 
+ importés). À partir du J.13 : 10 calculs de subnetting par jour sur subn
+ etipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S13 · J.56 · Wireless Architecture
+ s
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S13 · J.56 · Wireless Archi
+ tectures
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j115-57@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261223T210000Z
+DTEND:20261223T223000Z
+SUMMARY:CCNA S13 · J.57 · Wireless Security
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.57.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 34 min de vidéo. Labs : 0 (0 min d
+ e vidéo\, à refaire seul ensuite). Durée estimée : 54 min. Bloc réser
+ vé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°1
+ 15 Day 57 « Wireless Security » (34 min) : vidéo avec prise de notes\, 
+ quiz de fin de vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.c
+ om\, gratuit) et faire la première passe\n\nThème NetworkChuck équivale
+ nt : Skill 25 (Wi-Fi : fonctionnement\, canaux\, association\, sécurité)
+ \n\nSi une notion reste floue (voir ressources-ccna-13-semaines.md) :\n  S
+ unny Classroom « Wireless » \; PowerCert « Wi-Fi standards »\, « WPA3
+  » \; Formip « Wi-Fi »\n\nEnsuite : 10 min d'Anki (tous les decks impor
+ tés). À partir du J.13 : 10 calculs de subnetting par jour sur subnetipv
+ 4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S13 · J.57 · Wireless Security
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S13 · J.57 · Wireless Secur
+ ity
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j116-58@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261224T210000Z
+DTEND:20261224T230000Z
+SUMMARY:CCNA S13 · J.58 · Wireless Configuration
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.58.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 47 min de vidéo. Labs : 1 (17 min 
+ de vidéo\, à refaire seul ensuite). Durée estimée : 105 min. Bloc rés
+ ervé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °116 Day 58 « Wireless Configuration » (47 min) : vidéo avec prise de 
+ notes\, quiz de fin de vidéo\n  ☐ n°117 Lab « Wireless LANs » (17 mi
+ n) : télécharger le .pkt sur jeremysitlab.com\, regarder\, puis refaire 
+ seul sans la vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab.com
+ \, gratuit) et faire la première passe\n\nThème NetworkChuck équivalent
+  : Skill 25 (Wi-Fi : fonctionnement\, canaux\, association\, sécurité)\n
+ \nSi une notion reste floue (voir ressources-ccna-13-semaines.md) :\n  Sun
+ ny Classroom « Wireless » \; PowerCert « Wi-Fi standards »\, « WPA3 
+ » \; Formip « Wi-Fi »\n\nEnsuite : 10 min d'Anki (tous les decks import
+ és). À partir du J.13 : 10 calculs de subnetting par jour sur subnetipv4
+ .com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S13 · J.58 · Wireless Configuratio
+ n
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S13 · J.58 · Wireless Confi
+ guration
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j118-59@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261225T210000Z
+DTEND:20261225T230000Z
+SUMMARY:CCNA S13 · J.59 · Intro to Network Automation + AI & Machine Lear
+ ning
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.59.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 75 min de vidéo. Labs : 0 (0 min d
+ e vidéo\, à refaire seul ensuite). Durée estimée : 108 min. Bloc rése
+ rvé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n
+ °118 Day 59 « Intro to Network Automation » (33 min) : vidéo avec pris
+ e de notes\, quiz de fin de vidéo\n  ☐ n°119 Day 59 « AI & Machine Le
+ arning » (42 min) : vidéo avec prise de notes\, quiz de fin de vidéo\n 
+  ☐ Importer le deck Anki du jour (jeremysitlab.com\, gratuit) et faire l
+ a première passe\n\nThème NetworkChuck équivalent : Skill 26 (Automatis
+ ation\, SDN\, REST API\, Ansible/Puppet/Chef\, JSON/YAML)\n\nSi une notion
+  reste floue (voir ressources-ccna-13-semaines.md) :\n  Cisco DevNet Learn
+ ing Labs \; Postman \; NetworkChuck « You need to learn Ansible » \; un 
+ vrai appel API avec curl depuis la VM\n\nEnsuite : 10 min d'Anki (tous les
+  decks importés). À partir du J.13 : 10 calculs de subnetting par jour s
+ ur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S13 · J.59 · Intro to Network Auto
+ mation + AI & Machine Learning
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S13 · J.59 · Intro to Netwo
+ rk Automation + AI & Machine Learning
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j120-60@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261228T210000Z
+DTEND:20261228T223000Z
+SUMMARY:CCNA S14 · J.60 · JSON\, XML\, & YAML
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.60.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 29 min de vidéo. Labs : 0 (0 min d
+ e vidéo\, à refaire seul ensuite). Durée estimée : 48 min. Bloc réser
+ vé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°1
+ 20 Day 60 « JSON\, XML\, & YAML » (29 min) : vidéo avec prise de notes\
+ , quiz de fin de vidéo\n  ☐ Importer le deck Anki du jour (jeremysitlab
+ .com\, gratuit) et faire la première passe\n\nThème NetworkChuck équiva
+ lent : Skill 26 (Automatisation\, SDN\, REST API\, Ansible/Puppet/Chef\, J
+ SON/YAML)\n\nSi une notion reste floue (voir ressources-ccna-13-semaines.m
+ d) :\n  Cisco DevNet Learning Labs \; Postman \; NetworkChuck « You need 
+ to learn Ansible » \; un vrai appel API avec curl depuis la VM\n\nEnsuite
+  : 10 min d'Anki (tous les decks importés). À partir du J.13 : 10 calcul
+ s de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S14 · J.60 · JSON\, XML\, & YAML
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S14 · J.60 · JSON\, XML\, &
+  YAML
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j121-61@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261229T210000Z
+DTEND:20261229T223000Z
+SUMMARY:CCNA S14 · J.61 · REST APIs + REST API Authentication
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.61.\nPlaylist : https://www.youtube.com/playlist?list=PLxbwE8
+ 6jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 61 min de vidéo. Labs : 0 (0 min d
+ e vidéo\, à refaire seul ensuite). Durée estimée : 89 min. Bloc réser
+ vé : 90 min.\n\nDéroulé (n° = position dans la playlist) :\n  ☐ n°1
+ 21 Day 61 « REST APIs » (32 min) : vidéo avec prise de notes\, quiz de 
+ fin de vidéo\n  ☐ n°122 Day 61 « REST API Authentication » (29 min) 
+ : vidéo avec prise de notes\, quiz de fin de vidéo\n  ☐ Importer le de
+ ck Anki du jour (jeremysitlab.com\, gratuit) et faire la première passe\n
+ \nThème NetworkChuck équivalent : Skill 26 (Automatisation\, SDN\, REST 
+ API\, Ansible/Puppet/Chef\, JSON/YAML)\n\nSi une notion reste floue (voir 
+ ressources-ccna-13-semaines.md) :\n  Cisco DevNet Learning Labs \; Postman
+  \; NetworkChuck « You need to learn Ansible » \; un vrai appel API avec
+  curl depuis la VM\n\nEnsuite : 10 min d'Anki (tous les decks importés). 
+ À partir du J.13 : 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S14 · J.61 · REST APIs + REST API 
+ Authentication
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S14 · J.61 · REST APIs + RE
+ ST API Authentication
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-j123-62-63@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261230T210000Z
+DTEND:20261230T230000Z
+SUMMARY:CCNA S14 · J.62 + J.63 · Software-Defined Networking + Ansible\, 
+ Puppet\, & Chef + Terraform
+DESCRIPTION:Jeremy's IT Lab\, CCNA 200-301 Complete Course v1.1 (gratuit\, 
+ YouTube)\, J.62 + J.63.\nPlaylist : https://www.youtube.com/playlist?list=
+ PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ\n\nCours : 72 min de vidéo. Labs : 0 (
+ 0 min de vidéo\, à refaire seul ensuite). Durée estimée : 104 min. Blo
+ c réservé : 120 min.\n\nDéroulé (n° = position dans la playlist) :\n 
+  ☐ n°123 Day 62 « Software-Defined Networking » (28 min) : vidéo ave
+ c prise de notes\, quiz de fin de vidéo\n  ☐ n°124 Day 63 « Ansible\,
+  Puppet\, & Chef » (22 min) : vidéo avec prise de notes\, quiz de fin de
+  vidéo\n  ☐ n°125 Day 63 « Terraform » (22 min) : vidéo avec prise 
+ de notes\, quiz de fin de vidéo\n  ☐ Importer le deck Anki du jour (jer
+ emysitlab.com\, gratuit) et faire la première passe\n\nThème NetworkChuc
+ k équivalent : Skill 26 (Automatisation\, SDN\, REST API\, Ansible/Puppet
+ /Chef\, JSON/YAML)\n\nSi une notion reste floue (voir ressources-ccna-13-s
+ emaines.md) :\n  Cisco DevNet Learning Labs \; Postman \; NetworkChuck « 
+ You need to learn Ansible » \; un vrai appel API avec curl depuis la VM\n
+ \nEnsuite : 10 min d'Anki (tous les decks importés). À partir du J.13 : 
+ 10 calculs de subnetting par jour sur subnetipv4.com.
+CATEGORIES:CCNA\,Réseau
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA S14 · J.62 + J.63 · Software-Defin
+ ed Networking + Ansible\, Puppet\, & Chef + Terraform
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA S14 · J.62 + J.63 · Softwar
+ e-Defined Networking + Ansible\, Puppet\, & Chef + Terraform
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

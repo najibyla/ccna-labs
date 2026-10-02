@@ -1,0 +1,591 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ccna-curriculum//plan_to_ics//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Linux Upskill Challenge 2026
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:linux-luc-00@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261003T100000Z
+DTEND:20261003T120000Z
+SUMMARY:Linux · LUC jour 0 · Creating Your Own Server
+DESCRIPTION:Linux Upskill Challenge\, jour 0 : Creating Your Own Server\n\n
+ Préparer la VM Ubuntu Server : SSH depuis Windows\, utilisateur sudo\, sn
+ apshot.\n\nLeçon locale : ressources/linuxupskillchallenge/docs/00.md\nLe
+ cture associée : TLCL ch. 1-2 (ressources/tlcl/TLCL-25.12A.pdf)\n\nMétho
+ de : lire la leçon (20 min)\, faire tous les exercices sur la VM (60 min)
+ \, noter chaque commande apprise dans lab-notes et créer 5 cartes Anki (2
+ 0 min)\, commit.\nDimanche : ajouter 20 min de « casser et réparer » su
+ r la VM (snapshot avant).
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 0 · Creating Your Own 
+ Server
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 0 · Creating Your Own Ser
+ ver
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:linux-luc-01@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261004T100000Z
+DTEND:20261004T120000Z
+SUMMARY:Linux · LUC jour 1 · Get to know your server
+DESCRIPTION:Linux Upskill Challenge\, jour 1 : Get to know your server\n\ns
+ sh\, ls\, uptime\, free\, df -h\, uname -a. Clés SSH et fichier ~/.ssh/co
+ nfig.\n\nLeçon locale : ressources/linuxupskillchallenge/docs/01.md\nLect
+ ure associée : TLCL ch. 1-3 (ressources/tlcl/TLCL-25.12A.pdf)\n\nMéthode
+  : lire la leçon (20 min)\, faire tous les exercices sur la VM (60 min)\,
+  noter chaque commande apprise dans lab-notes et créer 5 cartes Anki (20 
+ min)\, commit.\nDimanche : ajouter 20 min de « casser et réparer » sur 
+ la VM (snapshot avant).
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 1 · Get to know your s
+ erver
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 1 · Get to know your serv
+ er
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:linux-luc-02@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261010T100000Z
+DTEND:20261010T120000Z
+SUMMARY:Linux · LUC jour 2 · Basic navigation
+DESCRIPTION:Linux Upskill Challenge\, jour 2 : Basic navigation\n\nman\, hi
+ érarchie des fichiers\, cd\, pwd\, ls -la.\n\nLeçon locale : ressources/
+ linuxupskillchallenge/docs/02.md\nLecture associée : TLCL ch. 3-4 (ressou
+ rces/tlcl/TLCL-25.12A.pdf)\n\nMéthode : lire la leçon (20 min)\, faire t
+ ous les exercices sur la VM (60 min)\, noter chaque commande apprise dans 
+ lab-notes et créer 5 cartes Anki (20 min)\, commit.\nDimanche : ajouter 2
+ 0 min de « casser et réparer » sur la VM (snapshot avant).
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 2 · Basic navigation
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 2 · Basic navigation
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:linux-luc-03@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261011T100000Z
+DTEND:20261011T120000Z
+SUMMARY:Linux · LUC jour 3 · Power trip!
+DESCRIPTION:Linux Upskill Challenge\, jour 3 : Power trip!\n\nsudo\, fuseau
+  horaire\, hostname.\n\nLeçon locale : ressources/linuxupskillchallenge/d
+ ocs/03.md\nLecture associée : TLCL ch. 9 (ressources/tlcl/TLCL-25.12A.pdf
+ )\n\nMéthode : lire la leçon (20 min)\, faire tous les exercices sur la 
+ VM (60 min)\, noter chaque commande apprise dans lab-notes et créer 5 car
+ tes Anki (20 min)\, commit.\nDimanche : ajouter 20 min de « casser et ré
+ parer » sur la VM (snapshot avant).
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 3 · Power trip!
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 3 · Power trip!
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:linux-luc-04@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261017T100000Z
+DTEND:20261017T120000Z
+SUMMARY:Linux · LUC jour 4 · Installing software\, exploring the file str
+ ucture
+DESCRIPTION:Linux Upskill Challenge\, jour 4 : Installing software\, explor
+ ing the file structure\n\napt\, mc\, /etc/passwd\, sshd_config\, auth.log.
+ \n\nLeçon locale : ressources/linuxupskillchallenge/docs/04.md\nLecture a
+ ssociée : TLCL ch. 14 (ressources/tlcl/TLCL-25.12A.pdf)\n\nMéthode : lir
+ e la leçon (20 min)\, faire tous les exercices sur la VM (60 min)\, noter
+  chaque commande apprise dans lab-notes et créer 5 cartes Anki (20 min)\,
+  commit.\nDimanche : ajouter 20 min de « casser et réparer » sur la VM 
+ (snapshot avant).
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 4 · Installing softwar
+ e\, exploring the file structure
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 4 · Installing software\,
+  exploring the file structure
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:linux-luc-05@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
+SUMMARY:Linux · LUC jour 5 · More or less...
+DESCRIPTION:Linux Upskill Challenge\, jour 5 : More or less...\n\nmore\, le
+ ss\, dotfiles\, history\, complétion\, nano.\n\nLeçon locale : ressource
+ s/linuxupskillchallenge/docs/05.md\nLecture associée : TLCL ch. 5-6\, 8 (
+ ressources/tlcl/TLCL-25.12A.pdf)\n\nMéthode : lire la leçon (20 min)\, f
+ aire tous les exercices sur la VM (60 min)\, noter chaque commande apprise
+  dans lab-notes et créer 5 cartes Anki (20 min)\, commit.\nDimanche : ajo
+ uter 20 min de « casser et réparer » sur la VM (snapshot avant).
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 5 · More or less...
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 5 · More or less...
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:linux-luc-06@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261024T100000Z
+DTEND:20261024T120000Z
+SUMMARY:Linux · LUC jour 6 · Editing with vim
+DESCRIPTION:Linux Upskill Challenge\, jour 6 : Editing with vim\n\nvimtutor
+ \, le minimum vital de vim.\n\nLeçon locale : ressources/linuxupskillchal
+ lenge/docs/06.md\nLecture associée : TLCL ch. 12 (ressources/tlcl/TLCL-25
+ .12A.pdf)\n\nMéthode : lire la leçon (20 min)\, faire tous les exercices
+  sur la VM (60 min)\, noter chaque commande apprise dans lab-notes et cré
+ er 5 cartes Anki (20 min)\, commit.\nDimanche : ajouter 20 min de « casse
+ r et réparer » sur la VM (snapshot avant).
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 6 · Editing with vim
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 6 · Editing with vim
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:linux-luc-07@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261025T100000Z
+DTEND:20261025T120000Z
+SUMMARY:Linux · LUC jour 7 · The server and its services
+DESCRIPTION:Linux Upskill Challenge\, jour 7 : The server and its services\
+ n\nInstaller Apache2\, systemctl start/stop\, lire les logs.\n\nLeçon loc
+ ale : ressources/linuxupskillchallenge/docs/07.md\nLecture associée : TLC
+ L ch. 10 (ressources/tlcl/TLCL-25.12A.pdf)\n\nMéthode : lire la leçon (2
+ 0 min)\, faire tous les exercices sur la VM (60 min)\, noter chaque comman
+ de apprise dans lab-notes et créer 5 cartes Anki (20 min)\, commit.\nDima
+ nche : ajouter 20 min de « casser et réparer » sur la VM (snapshot avan
+ t).
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 7 · The server and its
+  services
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 7 · The server and its se
+ rvices
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:linux-luc-08@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261031T100000Z
+DTEND:20261031T120000Z
+SUMMARY:Linux · LUC jour 8 · The infamous grep and other text processors
+DESCRIPTION:Linux Upskill Challenge\, jour 8 : The infamous grep and other 
+ text processors\n\ngrep\, cut\, awk\, tail\, pipes\, un peu de sed.\n\nLe
+ çon locale : ressources/linuxupskillchallenge/docs/08.md\nLecture associ
+ ée : TLCL ch. 19-20 (ressources/tlcl/TLCL-25.12A.pdf)\n\nMéthode : lire 
+ la leçon (20 min)\, faire tous les exercices sur la VM (60 min)\, noter c
+ haque commande apprise dans lab-notes et créer 5 cartes Anki (20 min)\, c
+ ommit.\nDimanche : ajouter 20 min de « casser et réparer » sur la VM (s
+ napshot avant).
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 8 · The infamous grep 
+ and other text processors
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 8 · The infamous grep and
+  other text processors
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:linux-luc-09@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261101T100000Z
+DTEND:20261101T120000Z
+SUMMARY:Linux · LUC jour 9 · Diving into networking
+DESCRIPTION:Linux Upskill Challenge\, jour 9 : Diving into networking\n\nss
+ \, nmap\, ufw : ports ouverts\, pare-feu.\n\nLeçon locale : ressources/li
+ nuxupskillchallenge/docs/09.md\nLecture associée : TLCL ch. 16 (ressource
+ s/tlcl/TLCL-25.12A.pdf)\n\nMéthode : lire la leçon (20 min)\, faire tous
+  les exercices sur la VM (60 min)\, noter chaque commande apprise dans lab
+ -notes et créer 5 cartes Anki (20 min)\, commit.\nDimanche : ajouter 20 m
+ in de « casser et réparer » sur la VM (snapshot avant).
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 9 · Diving into networ
+ king
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 9 · Diving into networkin
+ g
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:linux-luc-10@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261107T100000Z
+DTEND:20261107T120000Z
+SUMMARY:Linux · LUC jour 10 · Scheduling tasks
+DESCRIPTION:Linux Upskill Challenge\, jour 10 : Scheduling tasks\n\ncron\, 
+ at\, timers systemd.\n\nLeçon locale : ressources/linuxupskillchallenge/d
+ ocs/10.md\nLecture associée : - (ressources/tlcl/TLCL-25.12A.pdf)\n\nMét
+ hode : lire la leçon (20 min)\, faire tous les exercices sur la VM (60 mi
+ n)\, noter chaque commande apprise dans lab-notes et créer 5 cartes Anki 
+ (20 min)\, commit.\nDimanche : ajouter 20 min de « casser et réparer » 
+ sur la VM (snapshot avant).
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 10 · Scheduling tasks
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 10 · Scheduling tasks
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:linux-luc-11@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261108T100000Z
+DTEND:20261108T120000Z
+SUMMARY:Linux · LUC jour 11 · Finding things...
+DESCRIPTION:Linux Upskill Challenge\, jour 11 : Finding things...\n\nlocate
+ \, find\, grep -r\, which.\n\nLeçon locale : ressources/linuxupskillchall
+ enge/docs/11.md\nLecture associée : TLCL ch. 17 (ressources/tlcl/TLCL-25.
+ 12A.pdf)\n\nMéthode : lire la leçon (20 min)\, faire tous les exercices 
+ sur la VM (60 min)\, noter chaque commande apprise dans lab-notes et crée
+ r 5 cartes Anki (20 min)\, commit.\nDimanche : ajouter 20 min de « casser
+  et réparer » sur la VM (snapshot avant).
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 11 · Finding things...
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 11 · Finding things...
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:linux-luc-12@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261114T100000Z
+DTEND:20261114T120000Z
+SUMMARY:Linux · LUC jour 12 · Transferring files
+DESCRIPTION:Linux Upskill Challenge\, jour 12 : Transferring files\n\nSFTP\
+ , scp\, rsync.\n\nLeçon locale : ressources/linuxupskillchallenge/docs/12
+ .md\nLecture associée : TLCL ch. 16 (ressources/tlcl/TLCL-25.12A.pdf)\n\n
+ Méthode : lire la leçon (20 min)\, faire tous les exercices sur la VM (6
+ 0 min)\, noter chaque commande apprise dans lab-notes et créer 5 cartes A
+ nki (20 min)\, commit.\nDimanche : ajouter 20 min de « casser et réparer
+  » sur la VM (snapshot avant).
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 12 · Transferring file
+ s
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 12 · Transferring files
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:linux-luc-13@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261115T100000Z
+DTEND:20261115T120000Z
+SUMMARY:Linux · LUC jour 13 · Users and Groups
+DESCRIPTION:Linux Upskill Challenge\, jour 13 : Users and Groups\n\nadduser
+ \, visudo\, un utilisateur restreint.\n\nLeçon locale : ressources/linuxu
+ pskillchallenge/docs/13.md\nLecture associée : TLCL ch. 9 (ressources/tlc
+ l/TLCL-25.12A.pdf)\n\nMéthode : lire la leçon (20 min)\, faire tous les 
+ exercices sur la VM (60 min)\, noter chaque commande apprise dans lab-note
+ s et créer 5 cartes Anki (20 min)\, commit.\nDimanche : ajouter 20 min de
+  « casser et réparer » sur la VM (snapshot avant).
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 13 · Users and Groups
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 13 · Users and Groups
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:linux-luc-14@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261121T100000Z
+DTEND:20261121T120000Z
+SUMMARY:Linux · LUC jour 14 · Who has permission?
+DESCRIPTION:Linux Upskill Challenge\, jour 14 : Who has permission?\n\nchmo
+ d\, chown\, umask \; ACL et SELinux en extension.\n\nLeçon locale : resso
+ urces/linuxupskillchallenge/docs/14.md\nLecture associée : TLCL ch. 9 (re
+ ssources/tlcl/TLCL-25.12A.pdf)\n\nMéthode : lire la leçon (20 min)\, fai
+ re tous les exercices sur la VM (60 min)\, noter chaque commande apprise d
+ ans lab-notes et créer 5 cartes Anki (20 min)\, commit.\nDimanche : ajout
+ er 20 min de « casser et réparer » sur la VM (snapshot avant).
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 14 · Who has permissio
+ n?
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 14 · Who has permission?
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:linux-luc-15@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261122T100000Z
+DTEND:20261122T120000Z
+SUMMARY:Linux · LUC jour 15 · Deeper into repositories...
+DESCRIPTION:Linux Upskill Challenge\, jour 15 : Deeper into repositories...
+ \n\nDépôts\, multiverse\, PPA.\n\nLeçon locale : ressources/linuxupskil
+ lchallenge/docs/15.md\nLecture associée : TLCL ch. 14 (ressources/tlcl/TL
+ CL-25.12A.pdf)\n\nMéthode : lire la leçon (20 min)\, faire tous les exer
+ cices sur la VM (60 min)\, noter chaque commande apprise dans lab-notes et
+  créer 5 cartes Anki (20 min)\, commit.\nDimanche : ajouter 20 min de « 
+ casser et réparer » sur la VM (snapshot avant).
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 15 · Deeper into repos
+ itories...
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 15 · Deeper into reposito
+ ries...
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:linux-luc-16@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261128T100000Z
+DTEND:20261128T120000Z
+SUMMARY:Linux · LUC jour 16 · Archiving and compressing
+DESCRIPTION:Linux Upskill Challenge\, jour 16 : Archiving and compressing\n
+ \ntar\, gzip\, zip.\n\nLeçon locale : ressources/linuxupskillchallenge/do
+ cs/16.md\nLecture associée : TLCL ch. 18 (ressources/tlcl/TLCL-25.12A.pdf
+ )\n\nMéthode : lire la leçon (20 min)\, faire tous les exercices sur la 
+ VM (60 min)\, noter chaque commande apprise dans lab-notes et créer 5 car
+ tes Anki (20 min)\, commit.\nDimanche : ajouter 20 min de « casser et ré
+ parer » sur la VM (snapshot avant).
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 16 · Archiving and com
+ pressing
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 16 · Archiving and compre
+ ssing
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:linux-luc-17@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261129T100000Z
+DTEND:20261129T120000Z
+SUMMARY:Linux · LUC jour 17 · Build from the source
+DESCRIPTION:Linux Upskill Challenge\, jour 17 : Build from the source\n\nwg
+ et\, tar\, ./configure\, make\, make install.\n\nLeçon locale : ressource
+ s/linuxupskillchallenge/docs/17.md\nLecture associée : TLCL ch. 23 (resso
+ urces/tlcl/TLCL-25.12A.pdf)\n\nMéthode : lire la leçon (20 min)\, faire 
+ tous les exercices sur la VM (60 min)\, noter chaque commande apprise dans
+  lab-notes et créer 5 cartes Anki (20 min)\, commit.\nDimanche : ajouter 
+ 20 min de « casser et réparer » sur la VM (snapshot avant).
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 17 · Build from the so
+ urce
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 17 · Build from the sourc
+ e
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:linux-luc-18@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261205T100000Z
+DTEND:20261205T120000Z
+SUMMARY:Linux · LUC jour 18 · Logs\, monitoring and troubleshooting
+DESCRIPTION:Linux Upskill Challenge\, jour 18 : Logs\, monitoring and troub
+ leshooting\n\njournalctl\, logrotate\, top\, htop.\n\nLeçon locale : ress
+ ources/linuxupskillchallenge/docs/18.md\nLecture associée : TLCL ch. 10 (
+ ressources/tlcl/TLCL-25.12A.pdf)\n\nMéthode : lire la leçon (20 min)\, f
+ aire tous les exercices sur la VM (60 min)\, noter chaque commande apprise
+  dans lab-notes et créer 5 cartes Anki (20 min)\, commit.\nDimanche : ajo
+ uter 20 min de « casser et réparer » sur la VM (snapshot avant).
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 18 · Logs\, monitoring
+  and troubleshooting
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 18 · Logs\, monitoring an
+ d troubleshooting
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:linux-luc-19@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261206T100000Z
+DTEND:20261206T120000Z
+SUMMARY:Linux · LUC jour 19 · Inodes\, symlinks and other shortcuts
+DESCRIPTION:Linux Upskill Challenge\, jour 19 : Inodes\, symlinks and other
+  shortcuts\n\nInodes\, liens durs\, liens symboliques\, stat.\n\nLeçon lo
+ cale : ressources/linuxupskillchallenge/docs/19.md\nLecture associée : TL
+ CL ch. 4 (ressources/tlcl/TLCL-25.12A.pdf)\n\nMéthode : lire la leçon (2
+ 0 min)\, faire tous les exercices sur la VM (60 min)\, noter chaque comman
+ de apprise dans lab-notes et créer 5 cartes Anki (20 min)\, commit.\nDima
+ nche : ajouter 20 min de « casser et réparer » sur la VM (snapshot avan
+ t).
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 19 · Inodes\, symlinks
+  and other shortcuts
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 19 · Inodes\, symlinks an
+ d other shortcuts
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:linux-luc-20@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261212T100000Z
+DTEND:20261212T120000Z
+SUMMARY:Linux · LUC jour 20 · Scripting
+DESCRIPTION:Linux Upskill Challenge\, jour 20 : Scripting\n\nShebang\, perm
+ issions\, $PATH\, premiers scripts de filtrage de logs.\n\nLeçon locale :
+  ressources/linuxupskillchallenge/docs/20.md\nLecture associée : TLCL ch.
+  24-27 (ressources/tlcl/TLCL-25.12A.pdf)\n\nMéthode : lire la leçon (20 
+ min)\, faire tous les exercices sur la VM (60 min)\, noter chaque commande
+  apprise dans lab-notes et créer 5 cartes Anki (20 min)\, commit.\nDimanc
+ he : ajouter 20 min de « casser et réparer » sur la VM (snapshot avant)
+ .
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 20 · Scripting
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 20 · Scripting
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:linux-luc-21@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261213T100000Z
+DTEND:20261213T120000Z
+SUMMARY:Linux · LUC jour 21 · What's next?
+DESCRIPTION:Linux Upskill Challenge\, jour 21 : What's next?\n\nBilan. Dém
+ arrer le projet server-toolkit du curriculum (bloc 1).\n\nLeçon locale : 
+ ressources/linuxupskillchallenge/docs/21.md\nLecture associée : TLCL ch. 
+ 28-36 en lecture continue (ressources/tlcl/TLCL-25.12A.pdf)\n\nMéthode : 
+ lire la leçon (20 min)\, faire tous les exercices sur la VM (60 min)\, no
+ ter chaque commande apprise dans lab-notes et créer 5 cartes Anki (20 min
+ )\, commit.\nDimanche : ajouter 20 min de « casser et réparer » sur la 
+ VM (snapshot avant).
+CATEGORIES:Linux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Linux · LUC jour 21 · What's next?
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Linux · LUC jour 21 · What's next?
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

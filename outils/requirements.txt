@@ -1,0 +1,5 @@
+# Dépendances de tous les scripts du dossier outils/ (et outils/anki/)
+html2text>=2024.2
+requests>=2.31
+genanki>=0.13
+pypdf>=5.0

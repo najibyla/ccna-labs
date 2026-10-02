@@ -1,0 +1,15 @@
+01|692|Network Devices - Hosts, IP Addresses, Networks - Networking Fundamentals - Lesson 1a
+02|926|Hub, Bridge, Switch, Router - Network Devices - Networking Fundamentals - Lesson 1b
+03|805|OSI Model: A Practical Perspective - Networking Fundamentals - Lesson 2a
+04|849|OSI Model: A Practical Perspective - Part 2 - Networking Fundamentals - Lesson 2
+05|730|Everything Hosts do to speak on the Internet - Part 1 - Networking Fundamentals - Lesson 3
+06|592|Everything Hosts do to speak on the Internet - Part 2 - Networking Fundamentals - Lesson 3
+07|698|Everything Switches do - Part 1 - Networking Fundamentals - Lesson 4
+08|641|Everything Switches do - Part 2 - Networking Fundamentals - Lesson 4
+09|1037|Everything Routers do - Part 1 - Networking Fundamentals - Lesson 5
+10|881|Everything Routers do - Part 2 - How Routers forward Packets - Networking Fundamentals - Lesson 5
+11|849|Router Hierarchies and Route Summarization - Networking Fundamentals - Lesson 5 - Part 3
+12|747|Network Protocols - ARP, FTP, SMTP, HTTP, SSL, TLS, HTTPS, DNS, DHCP - Networking Fundamentals - L6
+13|1607|How Data moves through the Internet - Networking Fundamentals
+14|439|HTTP vs HTML: Unveiling Network Protocols using Telnet
+15|822|OSI Model Layer 5, 6, and 7 -- Session, Presentation, & Application Layers -- what they actually do

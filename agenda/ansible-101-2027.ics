@@ -1,0 +1,443 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ccna-curriculum//plan_to_ics//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ansible 101 (Jeff Geerling)
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:ansible-101-jeff-geerling-01@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20270608T210000Z
+DTEND:20270608T230000Z
+SUMMARY:Ansible 101 (Jeff Geerling) · 1/15 · n°1
+DESCRIPTION:Ansible 101 (Jeff Geerling)\, séance 1 sur 15.\nPlaylist : htt
+ ps://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN\n\nB
+ loc 5 du curriculum. Un épisode d'une heure par séance\, suivi du même 
+ travail sur vos VM : reproduire chaque playbook de l'épisode dans le dép
+ ôt infra-as-code. Code des exemples : github.com/geerlingguy/ansible-for-
+ devops.\n\nVidéo : 64 min. Bloc réservé : 120 min.\n\nVidéos (n° = po
+ sition dans la playlist) :\n  ☐ n°1 Ansible 101 - Episode 1 - Introduct
+ ion to Ansible (64 min)\n\nNoter dans lab-notes ce qui a été compris\, c
+ réer 3 à 5 cartes Anki.
+CATEGORIES:Ansible 101 (Jeff Geerling)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Ansible 101 (Jeff Geerling) · 1/15 · n
+ °1
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : Ansible 101 (Jeff Geerling) · 1/1
+ 5 · n°1
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ansible-101-jeff-geerling-02@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20270610T210000Z
+DTEND:20270610T230000Z
+SUMMARY:Ansible 101 (Jeff Geerling) · 2/15 · n°2
+DESCRIPTION:Ansible 101 (Jeff Geerling)\, séance 2 sur 15.\nPlaylist : htt
+ ps://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN\n\nB
+ loc 5 du curriculum. Un épisode d'une heure par séance\, suivi du même 
+ travail sur vos VM : reproduire chaque playbook de l'épisode dans le dép
+ ôt infra-as-code. Code des exemples : github.com/geerlingguy/ansible-for-
+ devops.\n\nVidéo : 63 min. Bloc réservé : 120 min.\n\nVidéos (n° = po
+ sition dans la playlist) :\n  ☐ n°2 Ansible 101 - Episode 2 - Ad-hoc ta
+ sks and Inventory (63 min)\n\nNoter dans lab-notes ce qui a été compris\
+ , créer 3 à 5 cartes Anki.
+CATEGORIES:Ansible 101 (Jeff Geerling)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Ansible 101 (Jeff Geerling) · 2/15 · n
+ °2
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : Ansible 101 (Jeff Geerling) · 2/1
+ 5 · n°2
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ansible-101-jeff-geerling-03@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20270615T210000Z
+DTEND:20270615T230000Z
+SUMMARY:Ansible 101 (Jeff Geerling) · 3/15 · n°3
+DESCRIPTION:Ansible 101 (Jeff Geerling)\, séance 3 sur 15.\nPlaylist : htt
+ ps://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN\n\nB
+ loc 5 du curriculum. Un épisode d'une heure par séance\, suivi du même 
+ travail sur vos VM : reproduire chaque playbook de l'épisode dans le dép
+ ôt infra-as-code. Code des exemples : github.com/geerlingguy/ansible-for-
+ devops.\n\nVidéo : 62 min. Bloc réservé : 120 min.\n\nVidéos (n° = po
+ sition dans la playlist) :\n  ☐ n°3 Ansible 101 - Episode 3 - Introduct
+ ion to Playbooks (62 min)\n\nNoter dans lab-notes ce qui a été compris\,
+  créer 3 à 5 cartes Anki.
+CATEGORIES:Ansible 101 (Jeff Geerling)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Ansible 101 (Jeff Geerling) · 3/15 · n
+ °3
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : Ansible 101 (Jeff Geerling) · 3/1
+ 5 · n°3
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ansible-101-jeff-geerling-04@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20270617T210000Z
+DTEND:20270617T223000Z
+SUMMARY:Ansible 101 (Jeff Geerling) · 4/15 · n°4
+DESCRIPTION:Ansible 101 (Jeff Geerling)\, séance 4 sur 15.\nPlaylist : htt
+ ps://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN\n\nB
+ loc 5 du curriculum. Un épisode d'une heure par séance\, suivi du même 
+ travail sur vos VM : reproduire chaque playbook de l'épisode dans le dép
+ ôt infra-as-code. Code des exemples : github.com/geerlingguy/ansible-for-
+ devops.\n\nVidéo : 51 min. Bloc réservé : 90 min.\n\nVidéos (n° = pos
+ ition dans la playlist) :\n  ☐ n°4 Ansible 101 - Episode 4 - Your first
+  real-world playbook (51 min)\n\nNoter dans lab-notes ce qui a été compr
+ is\, créer 3 à 5 cartes Anki.
+CATEGORIES:Ansible 101 (Jeff Geerling)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Ansible 101 (Jeff Geerling) · 4/15 · n
+ °4
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : Ansible 101 (Jeff Geerling) · 4/1
+ 5 · n°4
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ansible-101-jeff-geerling-05@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20270622T210000Z
+DTEND:20270622T223000Z
+SUMMARY:Ansible 101 (Jeff Geerling) · 5/15 · n°5
+DESCRIPTION:Ansible 101 (Jeff Geerling)\, séance 5 sur 15.\nPlaylist : htt
+ ps://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN\n\nB
+ loc 5 du curriculum. Un épisode d'une heure par séance\, suivi du même 
+ travail sur vos VM : reproduire chaque playbook de l'épisode dans le dép
+ ôt infra-as-code. Code des exemples : github.com/geerlingguy/ansible-for-
+ devops.\n\nVidéo : 59 min. Bloc réservé : 90 min.\n\nVidéos (n° = pos
+ ition dans la playlist) :\n  ☐ n°5 Ansible 101 - Episode 5 - Playbook h
+ andlers\, environment vars\, and variables (59 min)\n\nNoter dans lab-note
+ s ce qui a été compris\, créer 3 à 5 cartes Anki.
+CATEGORIES:Ansible 101 (Jeff Geerling)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Ansible 101 (Jeff Geerling) · 5/15 · n
+ °5
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : Ansible 101 (Jeff Geerling) · 5/1
+ 5 · n°5
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ansible-101-jeff-geerling-06@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20270624T210000Z
+DTEND:20270624T230000Z
+SUMMARY:Ansible 101 (Jeff Geerling) · 6/15 · n°6
+DESCRIPTION:Ansible 101 (Jeff Geerling)\, séance 6 sur 15.\nPlaylist : htt
+ ps://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN\n\nB
+ loc 5 du curriculum. Un épisode d'une heure par séance\, suivi du même 
+ travail sur vos VM : reproduire chaque playbook de l'épisode dans le dép
+ ôt infra-as-code. Code des exemples : github.com/geerlingguy/ansible-for-
+ devops.\n\nVidéo : 62 min. Bloc réservé : 120 min.\n\nVidéos (n° = po
+ sition dans la playlist) :\n  ☐ n°6 Ansible 101 - Episode 6 - Ansible V
+ ault and Roles (62 min)\n\nNoter dans lab-notes ce qui a été compris\, c
+ réer 3 à 5 cartes Anki.
+CATEGORIES:Ansible 101 (Jeff Geerling)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Ansible 101 (Jeff Geerling) · 6/15 · n
+ °6
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : Ansible 101 (Jeff Geerling) · 6/1
+ 5 · n°6
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ansible-101-jeff-geerling-07@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20270629T210000Z
+DTEND:20270629T230000Z
+SUMMARY:Ansible 101 (Jeff Geerling) · 7/15 · n°7
+DESCRIPTION:Ansible 101 (Jeff Geerling)\, séance 7 sur 15.\nPlaylist : htt
+ ps://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN\n\nB
+ loc 5 du curriculum. Un épisode d'une heure par séance\, suivi du même 
+ travail sur vos VM : reproduire chaque playbook de l'épisode dans le dép
+ ôt infra-as-code. Code des exemples : github.com/geerlingguy/ansible-for-
+ devops.\n\nVidéo : 64 min. Bloc réservé : 120 min.\n\nVidéos (n° = po
+ sition dans la playlist) :\n  ☐ n°7 Ansible 101 - Episode 7 - Molecule 
+ Testing and Linting and Ansible Galaxy (64 min)\n\nNoter dans lab-notes ce
+  qui a été compris\, créer 3 à 5 cartes Anki.
+CATEGORIES:Ansible 101 (Jeff Geerling)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Ansible 101 (Jeff Geerling) · 7/15 · n
+ °7
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : Ansible 101 (Jeff Geerling) · 7/1
+ 5 · n°7
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ansible-101-jeff-geerling-08@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20270701T210000Z
+DTEND:20270701T230000Z
+SUMMARY:Ansible 101 (Jeff Geerling) · 8/15 · n°8
+DESCRIPTION:Ansible 101 (Jeff Geerling)\, séance 8 sur 15.\nPlaylist : htt
+ ps://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN\n\nB
+ loc 5 du curriculum. Un épisode d'une heure par séance\, suivi du même 
+ travail sur vos VM : reproduire chaque playbook de l'épisode dans le dép
+ ôt infra-as-code. Code des exemples : github.com/geerlingguy/ansible-for-
+ devops.\n\nVidéo : 64 min. Bloc réservé : 120 min.\n\nVidéos (n° = po
+ sition dans la playlist) :\n  ☐ n°8 Ansible 101 - Episode 8 - Playbook 
+ testing with Molecule and GitHub Actions CI (64 min)\n\nNoter dans lab-not
+ es ce qui a été compris\, créer 3 à 5 cartes Anki.
+CATEGORIES:Ansible 101 (Jeff Geerling)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Ansible 101 (Jeff Geerling) · 8/15 · n
+ °8
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : Ansible 101 (Jeff Geerling) · 8/1
+ 5 · n°8
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ansible-101-jeff-geerling-09@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20270706T210000Z
+DTEND:20270706T230000Z
+SUMMARY:Ansible 101 (Jeff Geerling) · 9/15 · n°9
+DESCRIPTION:Ansible 101 (Jeff Geerling)\, séance 9 sur 15.\nPlaylist : htt
+ ps://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN\n\nB
+ loc 5 du curriculum. Un épisode d'une heure par séance\, suivi du même 
+ travail sur vos VM : reproduire chaque playbook de l'épisode dans le dép
+ ôt infra-as-code. Code des exemples : github.com/geerlingguy/ansible-for-
+ devops.\n\nVidéo : 66 min. Bloc réservé : 120 min.\n\nVidéos (n° = po
+ sition dans la playlist) :\n  ☐ n°9 Ansible 101 - Episode 9 - First 5 m
+ in server security with Ansible (66 min)\n\nNoter dans lab-notes ce qui a 
+ été compris\, créer 3 à 5 cartes Anki.
+CATEGORIES:Ansible 101 (Jeff Geerling)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Ansible 101 (Jeff Geerling) · 9/15 · n
+ °9
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : Ansible 101 (Jeff Geerling) · 9/1
+ 5 · n°9
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ansible-101-jeff-geerling-10@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20270708T210000Z
+DTEND:20270708T223000Z
+SUMMARY:Ansible 101 (Jeff Geerling) · 10/15 · n°10
+DESCRIPTION:Ansible 101 (Jeff Geerling)\, séance 10 sur 15.\nPlaylist : ht
+ tps://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN\n\n
+ Bloc 5 du curriculum. Un épisode d'une heure par séance\, suivi du même
+  travail sur vos VM : reproduire chaque playbook de l'épisode dans le dé
+ pôt infra-as-code. Code des exemples : github.com/geerlingguy/ansible-for
+ -devops.\n\nVidéo : 60 min. Bloc réservé : 90 min.\n\nVidéos (n° = po
+ sition dans la playlist) :\n  ☐ n°10 Ansible 101 - Episode 10 - Ansible
+  Tower and AWX (60 min)\n\nNoter dans lab-notes ce qui a été compris\, c
+ réer 3 à 5 cartes Anki.
+CATEGORIES:Ansible 101 (Jeff Geerling)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Ansible 101 (Jeff Geerling) · 10/15 · n
+ °10
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : Ansible 101 (Jeff Geerling) · 10/
+ 15 · n°10
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ansible-101-jeff-geerling-11@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20270713T210000Z
+DTEND:20270713T230000Z
+SUMMARY:Ansible 101 (Jeff Geerling) · 11/15 · n°11
+DESCRIPTION:Ansible 101 (Jeff Geerling)\, séance 11 sur 15.\nPlaylist : ht
+ tps://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN\n\n
+ Bloc 5 du curriculum. Un épisode d'une heure par séance\, suivi du même
+  travail sur vos VM : reproduire chaque playbook de l'épisode dans le dé
+ pôt infra-as-code. Code des exemples : github.com/geerlingguy/ansible-for
+ -devops.\n\nVidéo : 64 min. Bloc réservé : 120 min.\n\nVidéos (n° = p
+ osition dans la playlist) :\n  ☐ n°11 Ansible 101 - Episode 11 - Dynami
+ c Inventory and Smart Inventories (64 min)\n\nNoter dans lab-notes ce qui 
+ a été compris\, créer 3 à 5 cartes Anki.
+CATEGORIES:Ansible 101 (Jeff Geerling)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Ansible 101 (Jeff Geerling) · 11/15 · n
+ °11
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : Ansible 101 (Jeff Geerling) · 11/
+ 15 · n°11
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ansible-101-jeff-geerling-12@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20270715T210000Z
+DTEND:20270715T223000Z
+SUMMARY:Ansible 101 (Jeff Geerling) · 12/15 · n°12
+DESCRIPTION:Ansible 101 (Jeff Geerling)\, séance 12 sur 15.\nPlaylist : ht
+ tps://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN\n\n
+ Bloc 5 du curriculum. Un épisode d'une heure par séance\, suivi du même
+  travail sur vos VM : reproduire chaque playbook de l'épisode dans le dé
+ pôt infra-as-code. Code des exemples : github.com/geerlingguy/ansible-for
+ -devops.\n\nVidéo : 60 min. Bloc réservé : 90 min.\n\nVidéos (n° = po
+ sition dans la playlist) :\n  ☐ n°12 Ansible 101 - Episode 12 - Real-wo
+ rld Ansible Playbooks (60 min)\n\nNoter dans lab-notes ce qui a été comp
+ ris\, créer 3 à 5 cartes Anki.
+CATEGORIES:Ansible 101 (Jeff Geerling)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Ansible 101 (Jeff Geerling) · 12/15 · n
+ °12
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : Ansible 101 (Jeff Geerling) · 12/
+ 15 · n°12
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ansible-101-jeff-geerling-13@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20270720T210000Z
+DTEND:20270720T230000Z
+SUMMARY:Ansible 101 (Jeff Geerling) · 13/15 · n°13
+DESCRIPTION:Ansible 101 (Jeff Geerling)\, séance 13 sur 15.\nPlaylist : ht
+ tps://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN\n\n
+ Bloc 5 du curriculum. Un épisode d'une heure par séance\, suivi du même
+  travail sur vos VM : reproduire chaque playbook de l'épisode dans le dé
+ pôt infra-as-code. Code des exemples : github.com/geerlingguy/ansible-for
+ -devops.\n\nVidéo : 62 min. Bloc réservé : 120 min.\n\nVidéos (n° = p
+ osition dans la playlist) :\n  ☐ n°13 Ansible 101 - Episode 13 - Ansibl
+ e Collections and a Test Plugin (62 min)\n\nNoter dans lab-notes ce qui a 
+ été compris\, créer 3 à 5 cartes Anki.
+CATEGORIES:Ansible 101 (Jeff Geerling)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Ansible 101 (Jeff Geerling) · 13/15 · n
+ °13
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : Ansible 101 (Jeff Geerling) · 13/
+ 15 · n°13
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ansible-101-jeff-geerling-14@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20270722T210000Z
+DTEND:20270722T223000Z
+SUMMARY:Ansible 101 (Jeff Geerling) · 14/15 · n°14
+DESCRIPTION:Ansible 101 (Jeff Geerling)\, séance 14 sur 15.\nPlaylist : ht
+ tps://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN\n\n
+ Bloc 5 du curriculum. Un épisode d'une heure par séance\, suivi du même
+  travail sur vos VM : reproduire chaque playbook de l'épisode dans le dé
+ pôt infra-as-code. Code des exemples : github.com/geerlingguy/ansible-for
+ -devops.\n\nVidéo : 58 min. Bloc réservé : 90 min.\n\nVidéos (n° = po
+ sition dans la playlist) :\n  ☐ n°14 Ansible 101 - Episode 14 - Ansible
+  and Windows (58 min)\n\nNoter dans lab-notes ce qui a été compris\, cr
+ éer 3 à 5 cartes Anki.
+CATEGORIES:Ansible 101 (Jeff Geerling)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Ansible 101 (Jeff Geerling) · 14/15 · n
+ °14
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : Ansible 101 (Jeff Geerling) · 14/
+ 15 · n°14
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ansible-101-jeff-geerling-15@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20270727T210000Z
+DTEND:20270727T230000Z
+SUMMARY:Ansible 101 (Jeff Geerling) · 15/15 · n°15
+DESCRIPTION:Ansible 101 (Jeff Geerling)\, séance 15 sur 15.\nPlaylist : ht
+ tps://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN\n\n
+ Bloc 5 du curriculum. Un épisode d'une heure par séance\, suivi du même
+  travail sur vos VM : reproduire chaque playbook de l'épisode dans le dé
+ pôt infra-as-code. Code des exemples : github.com/geerlingguy/ansible-for
+ -devops.\n\nVidéo : 80 min. Bloc réservé : 120 min.\n\nVidéos (n° = p
+ osition dans la playlist) :\n  ☐ n°15 Ansible 101 - Episode 15 - Final 
+ LIVE Q&A (80 min)\n\nNoter dans lab-notes ce qui a été compris\, créer 
+ 3 à 5 cartes Anki.
+CATEGORIES:Ansible 101 (Jeff Geerling)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Ansible 101 (Jeff Geerling) · 15/15 · n
+ °15
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : Ansible 101 (Jeff Geerling) · 15/
+ 15 · n°15
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

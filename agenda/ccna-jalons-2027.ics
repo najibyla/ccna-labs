@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ccna-curriculum//plan_to_ics//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CCNA Jalons et examen
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:ccna-jalon-00-2026-12-31@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20261231T210000Z
+DTEND:20261231T213000Z
+SUMMARY:CCNA · Préparer janvier : acheter Boson\, réserver l'examen
+DESCRIPTION:Acheter Boson ExSim-Max for CCNA 200-301 (~100 €).\nRéserver
+  l'examen 200-301 chez Pearson VUE pour le mardi 2 février 2027 (centre o
+ u en ligne surveillé). Report gratuit jusqu'à 24 h avant : réserver mai
+ ntenant engage\, sans risque.\nTélécharger les labs Packet Tracer et les
+  decks Anki manquants de Jeremy's IT Lab.\nLister les Skills où les quiz 
+ NetworkChuck ont été hésitants : ils orientent les deux semaines suivan
+ tes.\n\nPlan de révision CCNA\, voir curriculum.md section 4 et ressource
+ s-ccna-13-semaines.md section 2.
+CATEGORIES:CCNA\,Jalon
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dans une semaine : CCNA · Préparer janvier : acheter Boson\, 
+ réserver l'examen
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Demain : CCNA · Préparer janvier : acheter Boson\, réserver 
+ l'examen
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dans 2 h : CCNA · Préparer janvier : acheter Boson\, réserve
+ r l'examen
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-jalon-21-2027-01-27@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270127T210000Z
+DTEND:20270127T230000Z
+SUMMARY:CCNA Boson · Correction de C et décision
+DESCRIPTION:Corriger C. Décision : score C supérieur à 85 % et A\, B\, C
+  en progression = examen confirmé le 2 février.\nSinon : reporter l'exam
+ en de deux semaines chez Pearson VUE (gratuit à plus de 24 h) et refaire 
+ un cycle révision ciblée + examen blanc.\n\nPlan de révision CCNA\, voi
+ r curriculum.md section 4 et ressources-ccna-13-semaines.md section 2.
+CATEGORIES:CCNA\,Jalon
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dans une semaine : CCNA Boson · Correction de C et décision
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Demain : CCNA Boson · Correction de C et décision
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dans 2 h : CCNA Boson · Correction de C et décision
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-jalon-23-2027-01-29@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270129T210000Z
+DTEND:20270129T220000Z
+SUMMARY:CCNA · Veille d'examen : logistique et repos
+DESCRIPTION:Vérifier la convocation Pearson VUE\, la pièce d'identité (n
+ om identique à la réservation)\, le trajet ou le test système OnVUE si 
+ en ligne.\nLecture légère uniquement. Coucher tôt le lundi 1er.\n\nPlan
+  de révision CCNA\, voir curriculum.md section 4 et ressources-ccna-13-se
+ maines.md section 2.
+CATEGORIES:CCNA\,Jalon
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dans une semaine : CCNA · Veille d'examen : logistique et repo
+ s
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Demain : CCNA · Veille d'examen : logistique et repos
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dans 2 h : CCNA · Veille d'examen : logistique et repos
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-jalon-24-2027-02-02@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270202T100000Z
+DTEND:20270202T130000Z
+SUMMARY:EXAMEN CCNA 200-301 (date cible)
+DESCRIPTION:Pearson VUE. Arriver 30 min avant. 120 min\, environ 100 questi
+ ons\, labs de simulation inclus.\nGestion du temps : marquer et passer tou
+ te question qui prend plus de 90 s\, revenir à la fin. Les labs valent pl
+ usieurs points : ne pas les bâcler.\nRésultat affiché à la fin de l'ex
+ amen.\n\nPlan de révision CCNA\, voir curriculum.md section 4 et ressourc
+ es-ccna-13-semaines.md section 2.
+CATEGORIES:CCNA\,Jalon
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dans une semaine : EXAMEN CCNA 200-301 (date cible)
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Demain : EXAMEN CCNA 200-301 (date cible)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dans 2 h : EXAMEN CCNA 200-301 (date cible)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

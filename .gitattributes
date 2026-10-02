@@ -1,0 +1,11 @@
+# Les calendriers exigent des fins de ligne CRLF (RFC 5545) : aucune conversion.
+*.ics -text
+# Binaires
+*.pdf binary
+*.apkg binary
+*.pkt binary
+# Texte : normalisé en LF dans le dépôt
+*.md text
+*.py text
+*.txt text
+*.json text

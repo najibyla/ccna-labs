@@ -1,0 +1,16 @@
+01|3823|Ansible 101 - Episode 1 - Introduction to Ansible
+02|3765|Ansible 101 - Episode 2 - Ad-hoc tasks and Inventory
+03|3727|Ansible 101 - Episode 3 - Introduction to Playbooks
+04|3088|Ansible 101 - Episode 4 - Your first real-world playbook
+05|3568|Ansible 101 - Episode 5 - Playbook handlers, environment vars, and variables
+06|3750|Ansible 101 - Episode 6 - Ansible Vault and Roles
+07|3867|Ansible 101 - Episode 7 - Molecule Testing and Linting and Ansible Galaxy
+08|3830|Ansible 101 - Episode 8 - Playbook testing with Molecule and GitHub Actions CI
+09|3970|Ansible 101 - Episode 9 - First 5 min server security with Ansible
+10|3579|Ansible 101 - Episode 10 - Ansible Tower and AWX
+11|3823|Ansible 101 - Episode 11 - Dynamic Inventory and Smart Inventories
+12|3571|Ansible 101 - Episode 12 - Real-world Ansible Playbooks
+13|3740|Ansible 101 - Episode 13 - Ansible Collections and a Test Plugin
+14|3459|Ansible 101 - Episode 14 - Ansible and Windows
+15|4803|Ansible 101 - Episode 15 - Final LIVE Q&A
+16|60|Keeping my promises #shorts

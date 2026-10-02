@@ -1,0 +1,17 @@
+# Environnement Python local (recréer : python -m venv .venv ; .venv\Scripts\pip install -r outils\requirements.txt)
+.venv/
+__pycache__/
+*.pyc
+
+# Copies locales de ressources tierces (livres, cours, decks générés) : volumineuses et sous licences propres.
+# Se régénèrent avec outils/scrape_atbs.py, outils/localize_assets.py, outils/anki/*.py et un git clone (voir ressources/README.md).
+ressources/*
+!ressources/README.md
+
+# Obsidian
+.obsidian/workspace*.json
+.obsidian/cache
+
+# Système
+Thumbs.db
+desktop.ini

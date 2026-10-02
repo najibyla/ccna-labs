@@ -1,0 +1,4172 @@
+[
+ {
+  "date": "2026-09-14",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 1,
+    "kind": "Lesson 00",
+    "title": "Why This Skill is Important",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 01 Lesson 00 - Why This Skill is Important"
+   },
+   {
+    "skill": 1,
+    "kind": "Lesson 00",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 01 Lesson 00 - Quiz 1"
+   },
+   {
+    "skill": 1,
+    "kind": "Lesson 01",
+    "title": "Installing Packet Tracer",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 01 Lesson 01 - Installing Packet Tracer"
+   },
+   {
+    "skill": 1,
+    "kind": "Lesson 01",
+    "title": "Quiz 3",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 01 Lesson 01 - Quiz 3"
+   },
+   {
+    "skill": 1,
+    "kind": "Lesson 02",
+    "title": "Building Your First Network",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 01 Lesson 02 - Building Your First Network"
+   },
+   {
+    "skill": 1,
+    "kind": "Lesson 02",
+    "title": "Quiz 3",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 01 Lesson 02 - Quiz 3"
+   },
+   {
+    "skill": 1,
+    "kind": "Lesson 03",
+    "title": "Final Essential Packet Tracer Functions",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 01 Lesson 03 - Final Essential Packet Tracer Functions"
+   },
+   {
+    "skill": 1,
+    "kind": "Lesson 03",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 01 Lesson 03 - Quiz 4"
+   }
+  ],
+  "estimate_min": 68,
+  "skills": [
+   1
+  ]
+ },
+ {
+  "date": "2026-09-15",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 1,
+    "kind": "Lesson 04",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 01 Lesson 04 - What Now?"
+   },
+   {
+    "skill": 1,
+    "kind": "Lesson 04",
+    "title": "Quiz 3",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 01 Lesson 04 - Quiz 3"
+   },
+   {
+    "skill": 2,
+    "kind": "Lesson 00",
+    "title": "Why This Skill is Important",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 02 Lesson 00 - Why This Skill is Important"
+   },
+   {
+    "skill": 2,
+    "kind": "Lesson 00",
+    "title": "Quiz 2",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 02 Lesson 00 - Quiz 2"
+   },
+   {
+    "skill": 2,
+    "kind": "Lesson 01",
+    "title": "Castle Rysen Coffee RFP Overview",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 02 Lesson 01 - Castle Rysen Coffee RFP Overview"
+   },
+   {
+    "skill": 2,
+    "kind": "Lesson 01",
+    "title": "Quiz 2",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 02 Lesson 01 - Quiz 2"
+   },
+   {
+    "skill": 2,
+    "kind": "Lesson 02",
+    "title": "LAN VS. WAN",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 02 Lesson 02 - LAN VS. WAN"
+   },
+   {
+    "skill": 2,
+    "kind": "Lesson 02",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 02 Lesson 02 - Quiz 5"
+   }
+  ],
+  "estimate_min": 68,
+  "skills": [
+   1,
+   2
+  ]
+ },
+ {
+  "date": "2026-09-16",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 2,
+    "kind": "Lesson 02.1",
+    "title": "Staging the Network Equipment",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 02 Lesson 02.1 - Staging the Network Equipment"
+   },
+   {
+    "skill": 2,
+    "kind": "Lesson 02.1",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 02 Lesson 02.1 - Quiz 4"
+   },
+   {
+    "skill": 2,
+    "kind": "Lesson 03",
+    "title": "Client & Servers",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 02 Lesson 03 - Client & Servers"
+   },
+   {
+    "skill": 2,
+    "kind": "Lesson 03",
+    "title": "Quiz 2",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 02 Lesson 03 - Quiz 2"
+   },
+   {
+    "skill": 2,
+    "kind": "Lesson 04",
+    "title": "Switching & Wireless",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 02 Lesson 04 - Switching & Wireless"
+   },
+   {
+    "skill": 2,
+    "kind": "Lesson 04",
+    "title": "Quiz 3",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 02 Lesson 04 - Quiz 3"
+   },
+   {
+    "skill": 2,
+    "kind": "Lesson 05",
+    "title": "Router & Firewall",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 02 Lesson 05 - Router & Firewall"
+   },
+   {
+    "skill": 2,
+    "kind": "Lesson 05",
+    "title": "Quiz 3",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 02 Lesson 05 - Quiz 3"
+   }
+  ],
+  "estimate_min": 68,
+  "skills": [
+   2
+  ]
+ },
+ {
+  "date": "2026-09-17",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 2,
+    "kind": "Lesson 06",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 02 Lesson 06 - What Now?"
+   },
+   {
+    "skill": 2,
+    "kind": "Lesson 06",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 02 Lesson 06 - Quiz 1"
+   },
+   {
+    "skill": 3,
+    "kind": "Lesson 00",
+    "title": "Why This Skill is Important",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 03 Lesson 00 - Why This Skill is Important"
+   },
+   {
+    "skill": 3,
+    "kind": "Lesson 00",
+    "title": "Quiz 2",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 03 Lesson 00 - Quiz 2"
+   },
+   {
+    "skill": 3,
+    "kind": "Lesson 01",
+    "title": "The Importance of Network Standards",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 03 Lesson 01 - The Importance of Network Standards"
+   },
+   {
+    "skill": 3,
+    "kind": "Lesson 01",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 03 Lesson 01 - Quiz 4"
+   },
+   {
+    "skill": 3,
+    "kind": "Lesson 02",
+    "title": "Determine Speed with Bits and Bytes",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 03 Lesson 02 - Determine Speed with Bits and Bytes"
+   },
+   {
+    "skill": 3,
+    "kind": "Lesson 02",
+    "title": "Quiz 3",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 03 Lesson 02 - Quiz 3"
+   }
+  ],
+  "estimate_min": 68,
+  "skills": [
+   2,
+   3
+  ]
+ },
+ {
+  "date": "2026-09-18",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 3,
+    "kind": "Lesson 03",
+    "title": "Copper Cabling Standards and Characteristics",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 03 Lesson 03 - Copper Cabling Standards and Characteristics"
+   },
+   {
+    "skill": 3,
+    "kind": "Lesson 03",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 03 Lesson 03 - Quiz 5"
+   },
+   {
+    "skill": 3,
+    "kind": "Lesson 04",
+    "title": "Using Straight-through, Crossover, and MDI-X",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 03 Lesson 04 - Using Straight-through, Crossover, and MDI-X"
+   },
+   {
+    "skill": 3,
+    "kind": "Lesson 04",
+    "title": "Quiz 3",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 03 Lesson 04 - Quiz 3"
+   },
+   {
+    "skill": 3,
+    "kind": "Lesson 05",
+    "title": "Understanding the Fiber Optic Cable Spectrum",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 03 Lesson 05 - Understanding the Fiber Optic Cable Spectrum"
+   },
+   {
+    "skill": 3,
+    "kind": "Lesson 05",
+    "title": "Quiz 3",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 03 Lesson 05 - Quiz 3"
+   },
+   {
+    "skill": 3,
+    "kind": "Lesson 06",
+    "title": "Creating a Network Diagram",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 03 Lesson 06 - Creating a Network Diagram"
+   },
+   {
+    "skill": 3,
+    "kind": "Lesson 06",
+    "title": "Quiz 3",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 03 Lesson 06 - Quiz 3"
+   }
+  ],
+  "estimate_min": 68,
+  "skills": [
+   3
+  ]
+ },
+ {
+  "date": "2026-09-21",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 3,
+    "kind": "Lesson 07",
+    "title": "Physically Connecting the Coffee House",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 03 Lesson 07 - Physically Connecting the Coffee House"
+   },
+   {
+    "skill": 3,
+    "kind": "Lesson 07",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 03 Lesson 07 - Quiz 4"
+   },
+   {
+    "skill": 3,
+    "kind": "Lesson 08",
+    "title": "The Packet Tracer Coffee House",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 03 Lesson 08 - The Packet Tracer Coffee House"
+   },
+   {
+    "skill": 3,
+    "kind": "Lesson 08",
+    "title": "Quiz 3",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 03 Lesson 08 - Quiz 3"
+   },
+   {
+    "skill": 3,
+    "kind": "Lesson 09",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 03 Lesson 09 - What Now?"
+   },
+   {
+    "skill": 3,
+    "kind": "Lesson 09",
+    "title": "Quiz 3",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 03 Lesson 09 - Quiz 3"
+   },
+   {
+    "skill": 4,
+    "kind": "Lesson 00",
+    "title": "Why This Skill is Important",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 04 Lesson 00 - Why This Skill is Important"
+   },
+   {
+    "skill": 4,
+    "kind": "Lesson 00",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 04 Lesson 00 - Quiz 1"
+   }
+  ],
+  "estimate_min": 68,
+  "skills": [
+   3,
+   4
+  ]
+ },
+ {
+  "date": "2026-09-22",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 4,
+    "kind": "Lesson 01",
+    "title": "The OSI vs. TCP/IP Model",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 04 Lesson 01 - The OSI vs. TCP/IP Model"
+   },
+   {
+    "skill": 4,
+    "kind": "Lesson 01",
+    "title": "Quiz 3",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 04 Lesson 01 - Quiz 3"
+   },
+   {
+    "skill": 4,
+    "kind": "Lesson 02",
+    "title": "Describing Network Communication with Models",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 04 Lesson 02 - Describing Network Communication with Models"
+   },
+   {
+    "skill": 4,
+    "kind": "Lesson 02",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 04 Lesson 02 - Quiz 5"
+   },
+   {
+    "skill": 4,
+    "kind": "Lesson 03",
+    "title": "Network Design Model - Three Tiered Architecture",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 04 Lesson 03 - Network Design Model - Three Tiered Architecture"
+   },
+   {
+    "skill": 4,
+    "kind": "Lesson 03",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 04 Lesson 03 - Quiz 4"
+   },
+   {
+    "skill": 4,
+    "kind": "Lesson 04",
+    "title": "Castle Rysen Network Design",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 04 Lesson 04 - Castle Rysen Network Design"
+   },
+   {
+    "skill": 4,
+    "kind": "Lesson 04",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 04 Lesson 04 - Quiz 4"
+   }
+  ],
+  "estimate_min": 68,
+  "skills": [
+   4
+  ]
+ },
+ {
+  "date": "2026-09-23",
+  "announced": 9,
+  "tasks": [
+   {
+    "skill": 4,
+    "kind": "Lesson 05",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 04 Lesson 05 - What Now?"
+   },
+   {
+    "skill": 4,
+    "kind": "Lesson 05",
+    "title": "Quiz 3",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 04 Lesson 05 - Quiz 3"
+   },
+   {
+    "skill": 5,
+    "kind": "Lesson 00",
+    "title": "Why This Skill is Important",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 05 Lesson 00 - Why This Skill is Important"
+   },
+   {
+    "skill": 5,
+    "kind": "Lesson 00",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 05 Lesson 00 - Quiz 1"
+   },
+   {
+    "skill": 5,
+    "kind": "Lesson 01",
+    "title": "Setting Up Console Connections",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 05 Lesson 01 - Setting Up Console Connections"
+   },
+   {
+    "skill": 5,
+    "kind": "Lesson 01",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 05 Lesson 01 - Quiz 5"
+   },
+   {
+    "skill": 5,
+    "kind": "Lesson 02",
+    "title": "Navigating the Cisco IOS Software",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 05 Lesson 02 - Navigating the Cisco IOS Software"
+   },
+   {
+    "skill": 5,
+    "kind": "Lab",
+    "title": "Navigating the Cisco IOS",
+    "lab_id": "S05-L02",
+    "type": "lab",
+    "text": "Skill 05 Lab - Navigating the Cisco IOS (S05-L02)"
+   },
+   {
+    "skill": 5,
+    "kind": "Lesson 02",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 05 Lesson 02 - Quiz 4"
+   }
+  ],
+  "estimate_min": 93,
+  "skills": [
+   4,
+   5
+  ]
+ },
+ {
+  "date": "2026-09-24",
+  "announced": 5,
+  "tasks": [
+   {
+    "skill": 5,
+    "kind": "Lesson 03",
+    "title": "Examining the Cisco Device Boot Process",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 05 Lesson 03 - Examining the Cisco Device Boot Process"
+   },
+   {
+    "skill": 5,
+    "kind": "Lesson 03",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 05 Lesson 03 - Quiz 4"
+   },
+   {
+    "skill": 5,
+    "kind": "Lesson 04",
+    "title": "Implementing a Cisco Base Configuration",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 05 Lesson 04 - Implementing a Cisco Base Configuration"
+   },
+   {
+    "skill": 5,
+    "kind": "Lab",
+    "title": "Implementing the Cisco Base Configuration",
+    "lab_id": "S05-L04",
+    "type": "lab",
+    "text": "Skill 05 Lab - Implementing the Cisco Base Configuration (S05-L04)"
+   },
+   {
+    "skill": 5,
+    "kind": "Lesson 04",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 05 Lesson 04 - Quiz 4"
+   }
+  ],
+  "estimate_min": 59,
+  "skills": [
+   5
+  ]
+ },
+ {
+  "date": "2026-09-25",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 5,
+    "kind": "Lesson 05",
+    "title": "Saving or Resetting Cisco Configurations",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 05 Lesson 05 - Saving or Resetting Cisco Configurations"
+   },
+   {
+    "skill": 5,
+    "kind": "Lab",
+    "title": "Saving or Resetting Cisco Configurations",
+    "lab_id": "S05-L05",
+    "type": "lab",
+    "text": "Skill 05 Lab - Saving or Resetting Cisco Configurations (S05-L05)"
+   },
+   {
+    "skill": 5,
+    "kind": "Lesson 05",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 05 Lesson 05 - Quiz 4"
+   },
+   {
+    "skill": 5,
+    "kind": "Lesson 06",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 05 Lesson 06 - What Now?"
+   },
+   {
+    "skill": 5,
+    "kind": "Lab",
+    "title": "District Shop Bring-Up",
+    "lab_id": "S05-SL01",
+    "type": "skill_lab",
+    "text": "Skill 05 Lab - District Shop Bring-Up (S05-SL01)"
+   },
+   {
+    "skill": 5,
+    "kind": "Lesson 06",
+    "title": "Quiz 2",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 05 Lesson 06 - Quiz 2"
+   },
+   {
+    "skill": 6,
+    "kind": "Lesson 00",
+    "title": "Why This Skill is Important",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 06 Lesson 00 - Why This Skill is Important"
+   },
+   {
+    "skill": 6,
+    "kind": "Lesson 00",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 06 Lesson 00 - Quiz 1"
+   }
+  ],
+  "estimate_min": 116,
+  "skills": [
+   5,
+   6
+  ]
+ },
+ {
+  "date": "2026-09-28",
+  "announced": 7,
+  "tasks": [
+   {
+    "skill": 6,
+    "kind": "Lesson 01",
+    "title": "Understanding MAC Addresses and Frames",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 06 Lesson 01 - Understanding MAC Addresses and Frames"
+   },
+   {
+    "skill": 6,
+    "kind": "Lesson 01",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 06 Lesson 01 - Quiz 5"
+   },
+   {
+    "skill": 6,
+    "kind": "Lesson 02",
+    "title": "Switch Port Numbering and CAM Table",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 06 Lesson 02 - Switch Port Numbering and CAM Table"
+   },
+   {
+    "skill": 6,
+    "kind": "Lab",
+    "title": "Tracking Switch Interfaces and the CAM Table",
+    "lab_id": "S06-L02",
+    "type": "lab",
+    "text": "Skill 06 Lab - Tracking Switch Interfaces and the CAM Table (S06-L02)"
+   },
+   {
+    "skill": 6,
+    "kind": "Lesson 02",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 06 Lesson 02 - Quiz 5"
+   },
+   {
+    "skill": 6,
+    "kind": "Lesson 03",
+    "title": "How Switches Do What They Do",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 06 Lesson 03 - How Switches Do What They Do"
+   },
+   {
+    "skill": 6,
+    "kind": "Lesson 03",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 06 Lesson 03 - Quiz 4"
+   }
+  ],
+  "estimate_min": 76,
+  "skills": [
+   6
+  ]
+ },
+ {
+  "date": "2026-09-29",
+  "announced": 6,
+  "tasks": [
+   {
+    "skill": 6,
+    "kind": "Lesson 04",
+    "title": "Exploring MAC Address Tables on a Cisco Switch",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 06 Lesson 04 - Exploring MAC Address Tables on a Cisco Switch"
+   },
+   {
+    "skill": 6,
+    "kind": "Lab",
+    "title": "Exploring Switch CAM Tables",
+    "lab_id": "S06-L04",
+    "type": "lab",
+    "text": "Skill 06 Lab - Exploring Switch CAM Tables (S06-L04)"
+   },
+   {
+    "skill": 6,
+    "kind": "Lesson 04",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 06 Lesson 04 - Quiz 4"
+   },
+   {
+    "skill": 6,
+    "kind": "Lesson 05",
+    "title": "YOUR TURN - Using CAM Table to Track Down Devices",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 06 Lesson 05 - YOUR TURN - Using CAM Table to Track Down Devices"
+   },
+   {
+    "skill": 6,
+    "kind": "Lab",
+    "title": "Tracking Devices with the CAM Table",
+    "lab_id": "S06-L05",
+    "type": "lab",
+    "text": "Skill 06 Lab - Tracking Devices with the CAM Table (S06-L05)"
+   },
+   {
+    "skill": 6,
+    "kind": "Lesson 05",
+    "title": "Quiz 2",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 06 Lesson 05 - Quiz 2"
+   }
+  ],
+  "estimate_min": 84,
+  "skills": [
+   6
+  ]
+ },
+ {
+  "date": "2026-09-30",
+  "announced": 7,
+  "tasks": [
+   {
+    "skill": 6,
+    "kind": "Lesson 06",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 06 Lesson 06 - What Now?"
+   },
+   {
+    "skill": 6,
+    "kind": "Lab",
+    "title": "Roastery West Switch Recon",
+    "lab_id": "S06-SL01",
+    "type": "skill_lab",
+    "text": "Skill 06 Lab - Roastery West Switch Recon (S06-SL01)"
+   },
+   {
+    "skill": 6,
+    "kind": "Lesson 06",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 06 Lesson 06 - Quiz 1"
+   },
+   {
+    "skill": 7,
+    "kind": "Lesson 00",
+    "title": "Why This Skill is Important",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 07 Lesson 00 - Why This Skill is Important"
+   },
+   {
+    "skill": 7,
+    "kind": "Lesson 00",
+    "title": "Quiz 2",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 07 Lesson 00 - Quiz 2"
+   },
+   {
+    "skill": 7,
+    "kind": "Lesson 01",
+    "title": "IPS...Why Do We Need Them?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 07 Lesson 01 - IPS...Why Do We Need Them?"
+   },
+   {
+    "skill": 7,
+    "kind": "Lesson 01",
+    "title": "Quiz 6",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 07 Lesson 01 - Quiz 6"
+   }
+  ],
+  "estimate_min": 91,
+  "skills": [
+   6,
+   7
+  ]
+ },
+ {
+  "date": "2026-10-01",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 7,
+    "kind": "Lesson 02",
+    "title": "Defining Networks with Subnet Masks",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 07 Lesson 02 - Defining Networks with Subnet Masks"
+   },
+   {
+    "skill": 7,
+    "kind": "Lesson 02",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 07 Lesson 02 - Quiz 5"
+   },
+   {
+    "skill": 7,
+    "kind": "Lesson 03",
+    "title": "Private and Public IP Addresses",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 07 Lesson 03 - Private and Public IP Addresses"
+   },
+   {
+    "skill": 7,
+    "kind": "Lesson 03",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 07 Lesson 03 - Quiz 4"
+   },
+   {
+    "skill": 7,
+    "kind": "Lesson 04",
+    "title": "Initial Addressing of Castle Rysen",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 07 Lesson 04 - Initial Addressing of Castle Rysen"
+   },
+   {
+    "skill": 7,
+    "kind": "Lesson 04",
+    "title": "Quiz 3",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 07 Lesson 04 - Quiz 3"
+   },
+   {
+    "skill": 7,
+    "kind": "Lesson 05",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 07 Lesson 05 - What Now?"
+   },
+   {
+    "skill": 7,
+    "kind": "Lesson 05",
+    "title": "Quiz 2",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 07 Lesson 05 - Quiz 2"
+   }
+  ],
+  "estimate_min": 68,
+  "skills": [
+   7
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 8,
+    "kind": "Lesson 00",
+    "title": "Why This Skill is Important",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 08 Lesson 00 - Why This Skill is Important"
+   },
+   {
+    "skill": 8,
+    "kind": "Lesson 00",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 08 Lesson 00 - Quiz 1"
+   },
+   {
+    "skill": 8,
+    "kind": "Lesson 01",
+    "title": "Configuring Switch Interfaces",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 08 Lesson 01 - Configuring Switch Interfaces"
+   },
+   {
+    "skill": 8,
+    "kind": "Lab",
+    "title": "Configuring Switch Interfaces",
+    "lab_id": "S08-L01",
+    "type": "lab",
+    "text": "Skill 08 Lab - Configuring Switch Interfaces (S08-L01)"
+   },
+   {
+    "skill": 8,
+    "kind": "Lesson 01",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 08 Lesson 01 - Quiz 5"
+   },
+   {
+    "skill": 8,
+    "kind": "Lesson 02",
+    "title": "Configuring Router Interfaces",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 08 Lesson 02 - Configuring Router Interfaces"
+   },
+   {
+    "skill": 8,
+    "kind": "Lab",
+    "title": "Configuring Router Interfaces",
+    "lab_id": "S08-L02",
+    "type": "lab",
+    "text": "Skill 08 Lab - Configuring Router Interfaces (S08-L02)"
+   },
+   {
+    "skill": 8,
+    "kind": "Lesson 02",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 08 Lesson 02 - Quiz 5"
+   }
+  ],
+  "estimate_min": 101,
+  "skills": [
+   8
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "announced": 5,
+  "tasks": [
+   {
+    "skill": 8,
+    "kind": "Lesson 03",
+    "title": "Understanding Basic Interface Counters",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 08 Lesson 03 - Understanding Basic Interface Counters"
+   },
+   {
+    "skill": 8,
+    "kind": "Lab",
+    "title": "Reading Interface Counters",
+    "lab_id": "S08-L03",
+    "type": "lab",
+    "text": "Skill 08 Lab - Reading Interface Counters (S08-L03)"
+   },
+   {
+    "skill": 8,
+    "kind": "Lesson 03",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 08 Lesson 03 - Quiz 5"
+   },
+   {
+    "skill": 8,
+    "kind": "Lesson 04",
+    "title": "Understanding Interface Speed",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 08 Lesson 04 - Understanding Interface Speed"
+   },
+   {
+    "skill": 8,
+    "kind": "Lesson 04",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 08 Lesson 04 - Quiz 5"
+   }
+  ],
+  "estimate_min": 59,
+  "skills": [
+   8
+  ]
+ },
+ {
+  "date": "2026-10-06",
+  "announced": 7,
+  "tasks": [
+   {
+    "skill": 8,
+    "kind": "Lesson 05",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 08 Lesson 05 - What Now?"
+   },
+   {
+    "skill": 8,
+    "kind": "Lab",
+    "title": "Coffee House ↔ Fallout Local Routing",
+    "lab_id": "S08-SL01",
+    "type": "skill_lab",
+    "text": "Skill 08 Lab - Coffee House ↔ Fallout Local Routing (S08-SL01)"
+   },
+   {
+    "skill": 8,
+    "kind": "Lesson 05",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 08 Lesson 05 - Quiz 1"
+   },
+   {
+    "skill": 9,
+    "kind": "Lesson 00",
+    "title": "Why This Skill Exists",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 09 Lesson 00 - Why This Skill Exists"
+   },
+   {
+    "skill": 9,
+    "kind": "Lesson 00",
+    "title": "Quiz 2",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 09 Lesson 00 - Quiz 2"
+   },
+   {
+    "skill": 9,
+    "kind": "Lesson 01",
+    "title": "Review, Why Routers Exist",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 09 Lesson 01 - Review, Why Routers Exist"
+   },
+   {
+    "skill": 9,
+    "kind": "Lesson 01",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 09 Lesson 01 - Quiz 5"
+   }
+  ],
+  "estimate_min": 91,
+  "skills": [
+   8,
+   9
+  ]
+ },
+ {
+  "date": "2026-10-07",
+  "announced": 9,
+  "tasks": [
+   {
+    "skill": 9,
+    "kind": "Lesson 02",
+    "title": "Configuring Local Routing",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 09 Lesson 02 - Configuring Local Routing"
+   },
+   {
+    "skill": 9,
+    "kind": "Lab",
+    "title": "Configuring Local Routing",
+    "lab_id": "S09-L02",
+    "type": "lab",
+    "text": "Skill 09 Lab - Configuring Local Routing (S09-L02)"
+   },
+   {
+    "skill": 9,
+    "kind": "Lesson 02",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 09 Lesson 02 - Quiz 5"
+   },
+   {
+    "skill": 9,
+    "kind": "Lesson 03",
+    "title": "Configuring Static Routing",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 09 Lesson 03 - Configuring Static Routing"
+   },
+   {
+    "skill": 9,
+    "kind": "Lab",
+    "title": "Configuring Static Routing",
+    "lab_id": "S09-L03",
+    "type": "lab",
+    "text": "Skill 09 Lab - Configuring Static Routing (S09-L03)"
+   },
+   {
+    "skill": 9,
+    "kind": "Lesson 03",
+    "title": "Quiz 3",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 09 Lesson 03 - Quiz 3"
+   },
+   {
+    "skill": 9,
+    "kind": "Lesson 04",
+    "title": "Configuring Default Routing",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 09 Lesson 04 - Configuring Default Routing"
+   },
+   {
+    "skill": 9,
+    "kind": "Lab",
+    "title": "Configuring Default Routing",
+    "lab_id": "S09-L04",
+    "type": "lab",
+    "text": "Skill 09 Lab - Configuring Default Routing (S09-L04)"
+   },
+   {
+    "skill": 9,
+    "kind": "Lesson 04",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 09 Lesson 04 - Quiz 5"
+   }
+  ],
+  "estimate_min": 126,
+  "skills": [
+   9
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "announced": 6,
+  "tasks": [
+   {
+    "skill": 9,
+    "kind": "Lesson 05",
+    "title": "Configuring Dynamic Routing",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 09 Lesson 05 - Configuring Dynamic Routing"
+   },
+   {
+    "skill": 9,
+    "kind": "Lab",
+    "title": "Configuring EIGRP Dynamic Routing",
+    "lab_id": "S09-L05",
+    "type": "lab",
+    "text": "Skill 09 Lab - Configuring EIGRP Dynamic Routing (S09-L05)"
+   },
+   {
+    "skill": 9,
+    "kind": "Lesson 05",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 09 Lesson 05 - Quiz 5"
+   },
+   {
+    "skill": 9,
+    "kind": "Lesson 06",
+    "title": "Routing Table Concepts and Route Selection",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 09 Lesson 06 - Routing Table Concepts and Route Selection"
+   },
+   {
+    "skill": 9,
+    "kind": "Lab",
+    "title": "Routing Table Concepts and Route Selection",
+    "lab_id": "S09-L06",
+    "type": "lab",
+    "text": "Skill 09 Lab - Routing Table Concepts and Route Selection (S09-L06)"
+   },
+   {
+    "skill": 9,
+    "kind": "Lesson 06",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 09 Lesson 06 - Quiz 5"
+   }
+  ],
+  "estimate_min": 84,
+  "skills": [
+   9
+  ]
+ },
+ {
+  "date": "2026-10-09",
+  "announced": 7,
+  "tasks": [
+   {
+    "skill": 9,
+    "kind": "Lesson 07",
+    "title": "Documenting the Routed Network",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 09 Lesson 07 - Documenting the Routed Network"
+   },
+   {
+    "skill": 9,
+    "kind": "Lesson 07",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 09 Lesson 07 - Quiz 4"
+   },
+   {
+    "skill": 9,
+    "kind": "Lesson 08",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 09 Lesson 08 - What Now?"
+   },
+   {
+    "skill": 9,
+    "kind": "Lab",
+    "title": "Static and Default Internet Routing",
+    "lab_id": "S09-SL01",
+    "type": "skill_lab",
+    "text": "Skill 09 Lab - Static and Default Internet Routing (S09-SL01)"
+   },
+   {
+    "skill": 9,
+    "kind": "Lesson 08",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 09 Lesson 08 - Quiz 1"
+   },
+   {
+    "skill": 10,
+    "kind": "Lesson 00",
+    "title": "Why This Skill Exists",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 10 Lesson 00 - Why This Skill Exists"
+   },
+   {
+    "skill": 10,
+    "kind": "Lesson 00",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 10 Lesson 00 - Quiz 1"
+   }
+  ],
+  "estimate_min": 91,
+  "skills": [
+   9,
+   10
+  ]
+ },
+ {
+  "date": "2026-10-12",
+  "announced": 7,
+  "tasks": [
+   {
+    "skill": 10,
+    "kind": "Lesson 01",
+    "title": "How NAT Works",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 10 Lesson 01 - How NAT Works"
+   },
+   {
+    "skill": 10,
+    "kind": "Lesson 01",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 10 Lesson 01 - Quiz 4"
+   },
+   {
+    "skill": 10,
+    "kind": "Lesson 02",
+    "title": "Adding THE INTERNET to Packet Tracer",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 10 Lesson 02 - Adding THE INTERNET to Packet Tracer"
+   },
+   {
+    "skill": 10,
+    "kind": "Lab",
+    "title": "Adding THE INTERNET",
+    "lab_id": "S10-L02",
+    "type": "lab",
+    "text": "Skill 10 Lab - Adding THE INTERNET (S10-L02)"
+   },
+   {
+    "skill": 10,
+    "kind": "Lesson 02",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 10 Lesson 02 - Quiz 4"
+   },
+   {
+    "skill": 10,
+    "kind": "Lesson 03",
+    "title": "The Cisco NAT Terminology",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 10 Lesson 03 - The Cisco NAT Terminology"
+   },
+   {
+    "skill": 10,
+    "kind": "Lesson 03",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 10 Lesson 03 - Quiz 5"
+   }
+  ],
+  "estimate_min": 76,
+  "skills": [
+   10
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "announced": 6,
+  "tasks": [
+   {
+    "skill": 10,
+    "kind": "Lesson 04",
+    "title": "Configuring Static NAT",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 10 Lesson 04 - Configuring Static NAT"
+   },
+   {
+    "skill": 10,
+    "kind": "Lab",
+    "title": "Configuring Static NAT",
+    "lab_id": "S10-L04",
+    "type": "lab",
+    "text": "Skill 10 Lab - Configuring Static NAT (S10-L04)"
+   },
+   {
+    "skill": 10,
+    "kind": "Lesson 04",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 10 Lesson 04 - Quiz 4"
+   },
+   {
+    "skill": 10,
+    "kind": "Lesson 05",
+    "title": "Configuring Dynamic NAT",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 10 Lesson 05 - Configuring Dynamic NAT"
+   },
+   {
+    "skill": 10,
+    "kind": "Lab",
+    "title": "Configuring Dynamic NAT",
+    "lab_id": "S10-L05",
+    "type": "lab",
+    "text": "Skill 10 Lab - Configuring Dynamic NAT (S10-L05)"
+   },
+   {
+    "skill": 10,
+    "kind": "Lesson 05",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 10 Lesson 05 - Quiz 4"
+   }
+  ],
+  "estimate_min": 84,
+  "skills": [
+   10
+  ]
+ },
+ {
+  "date": "2026-10-14",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 10,
+    "kind": "Lesson 06",
+    "title": "Configuring NAT Overload",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 10 Lesson 06 - Configuring NAT Overload"
+   },
+   {
+    "skill": 10,
+    "kind": "Lab",
+    "title": "Configuring NAT Overload",
+    "lab_id": "S10-L06",
+    "type": "lab",
+    "text": "Skill 10 Lab - Configuring NAT Overload (S10-L06)"
+   },
+   {
+    "skill": 10,
+    "kind": "Lesson 06",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 10 Lesson 06 - Quiz 5"
+   },
+   {
+    "skill": 10,
+    "kind": "Lesson 07",
+    "title": "Where We Are Now",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 10 Lesson 07 - Where We Are Now"
+   },
+   {
+    "skill": 10,
+    "kind": "Lab",
+    "title": "Configuring Basic NAT",
+    "lab_id": "S10-SL01",
+    "type": "skill_lab",
+    "text": "Skill 10 Lab - Configuring Basic NAT (S10-SL01)"
+   },
+   {
+    "skill": 10,
+    "kind": "Lesson 07",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 10 Lesson 07 - Quiz 1"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 00",
+    "title": "Why This Skill Exists",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 11 Lesson 00 - Why This Skill Exists"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 00",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 11 Lesson 00 - Quiz 4"
+   }
+  ],
+  "estimate_min": 116,
+  "skills": [
+   10,
+   11
+  ]
+ },
+ {
+  "date": "2026-10-15",
+  "announced": 6,
+  "tasks": [
+   {
+    "skill": 11,
+    "kind": "Lesson 01",
+    "title": "What is Subnetting?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 11 Lesson 01 - What is Subnetting?"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 01",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 11 Lesson 01 - Quiz 4"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 02",
+    "title": "Converting Decimal to Binary",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 11 Lesson 02 - Converting Decimal to Binary"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 02",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 11 Lesson 02 - Quiz 5"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 03",
+    "title": "Three Steps to Class C Subnetting",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 11 Lesson 03 - Three Steps to Class C Subnetting"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 03",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 11 Lesson 03 - Quiz 4"
+   }
+  ],
+  "estimate_min": 51,
+  "skills": [
+   11
+  ]
+ },
+ {
+  "date": "2026-10-16",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 11,
+    "kind": "Lesson 04",
+    "title": "Three Steps to Class B and A Subnetting",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 11 Lesson 04 - Three Steps to Class B and A Subnetting"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 04",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 11 Lesson 04 - Quiz 5"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 05",
+    "title": "Subnetting Based on Host Requirements",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 11 Lesson 05 - Subnetting Based on Host Requirements"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 05",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 11 Lesson 05 - Quiz 4"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 06",
+    "title": "Subnetting Practice",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 11 Lesson 06 - Subnetting Practice"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 06",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 11 Lesson 06 - Quiz 1"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 06.3",
+    "title": "Network Subnetting Practice",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 11 Lesson 06.3 - Network Subnetting Practice"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 06.3",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 11 Lesson 06.3 - Quiz 1"
+   }
+  ],
+  "estimate_min": 68,
+  "skills": [
+   11
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "announced": 6,
+  "tasks": [
+   {
+    "skill": 11,
+    "kind": "Lesson 06.5",
+    "title": "Reverse Engineering a Mask",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 11 Lesson 06.5 - Reverse Engineering a Mask"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 06.5",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 11 Lesson 06.5 - Quiz 4"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 07",
+    "title": "Variable Length Subnet Masking",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 11 Lesson 07 - Variable Length Subnet Masking"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 07",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 11 Lesson 07 - Quiz 5"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 08",
+    "title": "Re-addressing Castle Ryzen Coffee",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 11 Lesson 08 - Re-addressing Castle Ryzen Coffee"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 08",
+    "title": "Quiz 3",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 11 Lesson 08 - Quiz 3"
+   }
+  ],
+  "estimate_min": 51,
+  "skills": [
+   11
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 11,
+    "kind": "Lesson 08.5",
+    "title": "Applying New Castle Ryzen Subnet Strategy",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 11 Lesson 08.5 - Applying New Castle Ryzen Subnet Strategy"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 08.5",
+    "title": "Quiz 3",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 11 Lesson 08.5 - Quiz 3"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 09",
+    "title": "Where We Are Now",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 11 Lesson 09 - Where We Are Now"
+   },
+   {
+    "skill": 11,
+    "kind": "Lesson 09",
+    "title": "Quiz 2",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 11 Lesson 09 - Quiz 2"
+   },
+   {
+    "skill": 12,
+    "kind": "Lesson 00",
+    "title": "Why We Need This Skill",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 12 Lesson 00 - Why We Need This Skill"
+   },
+   {
+    "skill": 12,
+    "kind": "Lesson 00",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 12 Lesson 00 - Quiz 1"
+   },
+   {
+    "skill": 12,
+    "kind": "Lesson 01",
+    "title": "Why We Need VLANS",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 12 Lesson 01 - Why We Need VLANS"
+   },
+   {
+    "skill": 12,
+    "kind": "Lesson 01",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 12 Lesson 01 - Quiz 5"
+   }
+  ],
+  "estimate_min": 68,
+  "skills": [
+   11,
+   12
+  ]
+ },
+ {
+  "date": "2026-10-21",
+  "announced": 6,
+  "tasks": [
+   {
+    "skill": 12,
+    "kind": "Lesson 02",
+    "title": "Creating and Naming VLANS",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 12 Lesson 02 - Creating and Naming VLANS"
+   },
+   {
+    "skill": 12,
+    "kind": "Lab",
+    "title": "Creating and Naming VLANs",
+    "lab_id": "S12-L02",
+    "type": "lab",
+    "text": "Skill 12 Lab - Creating and Naming VLANs (S12-L02)"
+   },
+   {
+    "skill": 12,
+    "kind": "Lesson 02",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 12 Lesson 02 - Quiz 4"
+   },
+   {
+    "skill": 12,
+    "kind": "Lesson 03",
+    "title": "Using Trunks to Extend VLANS",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 12 Lesson 03 - Using Trunks to Extend VLANS"
+   },
+   {
+    "skill": 12,
+    "kind": "Lab",
+    "title": "Using Trunks to Extend VLANs",
+    "lab_id": "S12-L03",
+    "type": "lab",
+    "text": "Skill 12 Lab - Using Trunks to Extend VLANs (S12-L03)"
+   },
+   {
+    "skill": 12,
+    "kind": "Lesson 03",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 12 Lesson 03 - Quiz 4"
+   }
+  ],
+  "estimate_min": 84,
+  "skills": [
+   12
+  ]
+ },
+ {
+  "date": "2026-10-22",
+  "announced": 9,
+  "tasks": [
+   {
+    "skill": 12,
+    "kind": "Lesson 04",
+    "title": "Routing Between VLANS",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 12 Lesson 04 - Routing Between VLANS"
+   },
+   {
+    "skill": 12,
+    "kind": "Lab",
+    "title": "Routing Between VLANs",
+    "lab_id": "S12-L04",
+    "type": "lab",
+    "text": "Skill 12 Lab - Routing Between VLANs (S12-L04)"
+   },
+   {
+    "skill": 12,
+    "kind": "Lesson 04",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 12 Lesson 04 - Quiz 4"
+   },
+   {
+    "skill": 12,
+    "kind": "Lesson 05",
+    "title": "Avoiding DTP and VTP",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 12 Lesson 05 - Avoiding DTP and VTP"
+   },
+   {
+    "skill": 12,
+    "kind": "Lab",
+    "title": "Locking Down Legacy Trunk Protocols",
+    "lab_id": "S12-L05",
+    "type": "lab",
+    "text": "Skill 12 Lab - Locking Down Legacy Trunk Protocols (S12-L05)"
+   },
+   {
+    "skill": 12,
+    "kind": "Lesson 05",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 12 Lesson 05 - Quiz 5"
+   },
+   {
+    "skill": 12,
+    "kind": "Lesson 06",
+    "title": "The Purpose of the Native VLAN",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 12 Lesson 06 - The Purpose of the Native VLAN"
+   },
+   {
+    "skill": 12,
+    "kind": "Lab",
+    "title": "The Purpose of the Native VLAN",
+    "lab_id": "S12-L06",
+    "type": "lab",
+    "text": "Skill 12 Lab - The Purpose of the Native VLAN (S12-L06)"
+   },
+   {
+    "skill": 12,
+    "kind": "Lesson 06",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 12 Lesson 06 - Quiz 5"
+   }
+  ],
+  "estimate_min": 126,
+  "skills": [
+   12
+  ]
+ },
+ {
+  "date": "2026-10-23",
+  "announced": 5,
+  "tasks": [
+   {
+    "skill": 12,
+    "kind": "Lesson 07",
+    "title": "Building the Fallout Shelter Network",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 12 Lesson 07 - Building the Fallout Shelter Network"
+   },
+   {
+    "skill": 12,
+    "kind": "Lesson 07",
+    "title": "Quiz 6",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 12 Lesson 07 - Quiz 6"
+   },
+   {
+    "skill": 12,
+    "kind": "Lesson 08",
+    "title": "Castle Rysen Cafe VLAN Implementation",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 12 Lesson 08 - Castle Rysen Cafe VLAN Implementation"
+   },
+   {
+    "skill": 12,
+    "kind": "Lab",
+    "title": "Castle Rysen Cafe VLAN Implementation",
+    "lab_id": "S12-L08",
+    "type": "lab",
+    "text": "Skill 12 Lab - Castle Rysen Cafe VLAN Implementation (S12-L08)"
+   },
+   {
+    "skill": 12,
+    "kind": "Lesson 08",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 12 Lesson 08 - Quiz 5"
+   }
+  ],
+  "estimate_min": 59,
+  "skills": [
+   12
+  ]
+ },
+ {
+  "date": "2026-10-26",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 12,
+    "kind": "Lesson 09",
+    "title": "Castle Rysen Fallout Shelter VLAN Implementation",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 12 Lesson 09 - Castle Rysen Fallout Shelter VLAN Implementation"
+   },
+   {
+    "skill": 12,
+    "kind": "Lab",
+    "title": "Castle Rysen Fallout Shelter VLAN Implementation",
+    "lab_id": "S12-L09",
+    "type": "lab",
+    "text": "Skill 12 Lab - Castle Rysen Fallout Shelter VLAN Implementation (S12-L09)"
+   },
+   {
+    "skill": 12,
+    "kind": "Lesson 09",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 12 Lesson 09 - Quiz 4"
+   },
+   {
+    "skill": 12,
+    "kind": "Lesson 10",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 12 Lesson 10 - What Now?"
+   },
+   {
+    "skill": 12,
+    "kind": "Lab",
+    "title": "Fortifying the Shelter VLAN Core",
+    "lab_id": "S12-SL01",
+    "type": "skill_lab",
+    "text": "Skill 12 Lab - Fortifying the Shelter VLAN Core (S12-SL01)"
+   },
+   {
+    "skill": 12,
+    "kind": "Lesson 10",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 12 Lesson 10 - Quiz 1"
+   },
+   {
+    "skill": 13,
+    "kind": "Lesson 00",
+    "title": "Why We Need This Skill",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 13 Lesson 00 - Why We Need This Skill"
+   },
+   {
+    "skill": 13,
+    "kind": "Lesson 00",
+    "title": "Quiz 2",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 13 Lesson 00 - Quiz 2"
+   }
+  ],
+  "estimate_min": 116,
+  "skills": [
+   12,
+   13
+  ]
+ },
+ {
+  "date": "2026-10-27",
+  "announced": 6,
+  "tasks": [
+   {
+    "skill": 13,
+    "kind": "Lesson 01",
+    "title": "Why We Need STP",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 13 Lesson 01 - Why We Need STP"
+   },
+   {
+    "skill": 13,
+    "kind": "Lesson 01",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 13 Lesson 01 - Quiz 4"
+   },
+   {
+    "skill": 13,
+    "kind": "Lesson 02",
+    "title": "Key STP Concepts, Simplified",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 13 Lesson 02 - Key STP Concepts, Simplified"
+   },
+   {
+    "skill": 13,
+    "kind": "Lesson 02",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 13 Lesson 02 - Quiz 5"
+   },
+   {
+    "skill": 13,
+    "kind": "Lesson 03",
+    "title": "Three Rules for STP Port Selections",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 13 Lesson 03 - Three Rules for STP Port Selections"
+   },
+   {
+    "skill": 13,
+    "kind": "Lesson 03",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 13 Lesson 03 - Quiz 5"
+   }
+  ],
+  "estimate_min": 51,
+  "skills": [
+   13
+  ]
+ },
+ {
+  "date": "2026-10-28",
+  "announced": 9,
+  "tasks": [
+   {
+    "skill": 13,
+    "kind": "Lesson 04",
+    "title": "Port States and STP Configuration",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 13 Lesson 04 - Port States and STP Configuration"
+   },
+   {
+    "skill": 13,
+    "kind": "Lab",
+    "title": "Port States and STP Configuration",
+    "lab_id": "S13-L04",
+    "type": "lab",
+    "text": "Skill 13 Lab - Port States and STP Configuration (S13-L04)"
+   },
+   {
+    "skill": 13,
+    "kind": "Lesson 04",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 13 Lesson 04 - Quiz 5"
+   },
+   {
+    "skill": 13,
+    "kind": "Lesson 05",
+    "title": "Rapid and Multiple Spanning Tree",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 13 Lesson 05 - Rapid and Multiple Spanning Tree"
+   },
+   {
+    "skill": 13,
+    "kind": "Lab",
+    "title": "Rapid and Multiple Spanning Tree",
+    "lab_id": "S13-L05",
+    "type": "lab",
+    "text": "Skill 13 Lab - Rapid and Multiple Spanning Tree (S13-L05)"
+   },
+   {
+    "skill": 13,
+    "kind": "Lesson 05",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 13 Lesson 05 - Quiz 5"
+   },
+   {
+    "skill": 13,
+    "kind": "Lesson 06",
+    "title": "The Place of PortFast and SPDU Guard",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 13 Lesson 06 - The Place of PortFast and SPDU Guard"
+   },
+   {
+    "skill": 13,
+    "kind": "Lab",
+    "title": "The Place of PortFast and BPDU Guard",
+    "lab_id": "S13-L06",
+    "type": "lab",
+    "text": "Skill 13 Lab - The Place of PortFast and BPDU Guard (S13-L06)"
+   },
+   {
+    "skill": 13,
+    "kind": "Lesson 06",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 13 Lesson 06 - Quiz 5"
+   }
+  ],
+  "estimate_min": 126,
+  "skills": [
+   13
+  ]
+ },
+ {
+  "date": "2026-10-29",
+  "announced": 6,
+  "tasks": [
+   {
+    "skill": 13,
+    "kind": "Lesson 07",
+    "title": "Configuring STP in Castle Rysen",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 13 Lesson 07 - Configuring STP in Castle Rysen"
+   },
+   {
+    "skill": 13,
+    "kind": "Lab",
+    "title": "Configuring STP in Castle Rysen",
+    "lab_id": "S13-L07",
+    "type": "lab",
+    "text": "Skill 13 Lab - Configuring STP in Castle Rysen (S13-L07)"
+   },
+   {
+    "skill": 13,
+    "kind": "Lesson 07",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 13 Lesson 07 - Quiz 4"
+   },
+   {
+    "skill": 13,
+    "kind": "Lesson 08",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 13 Lesson 08 - What Now?"
+   },
+   {
+    "skill": 13,
+    "kind": "Lab",
+    "title": "Deploying Spanning Tree Protocol Loop Prevention",
+    "lab_id": "S13-SL01",
+    "type": "skill_lab",
+    "text": "Skill 13 Lab - Deploying Spanning Tree Protocol Loop Prevention (S13-SL01)"
+   },
+   {
+    "skill": 13,
+    "kind": "Lesson 08",
+    "title": "Quiz 2",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 13 Lesson 08 - Quiz 2"
+   }
+  ],
+  "estimate_min": 99,
+  "skills": [
+   13
+  ]
+ },
+ {
+  "date": "2026-10-30",
+  "announced": 7,
+  "tasks": [
+   {
+    "skill": 14,
+    "kind": "Lesson 00",
+    "title": "Why We Need This Skill",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 14 Lesson 00 - Why We Need This Skill"
+   },
+   {
+    "skill": 14,
+    "kind": "Lesson 00",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 14 Lesson 00 - Quiz 1"
+   },
+   {
+    "skill": 14,
+    "kind": "Lesson 01",
+    "title": "How EtherChannel Increases Bandwidth",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 14 Lesson 01 - How EtherChannel Increases Bandwidth"
+   },
+   {
+    "skill": 14,
+    "kind": "Lesson 01",
+    "title": "Quiz 3",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 14 Lesson 01 - Quiz 3"
+   },
+   {
+    "skill": 14,
+    "kind": "Lesson 02",
+    "title": "Configuring EtherChannel with LACP",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 14 Lesson 02 - Configuring EtherChannel with LACP"
+   },
+   {
+    "skill": 14,
+    "kind": "Lab",
+    "title": "Configuring EtherChannel with LACP",
+    "lab_id": "S14-L02",
+    "type": "lab",
+    "text": "Skill 14 Lab - Configuring EtherChannel with LACP (S14-L02)"
+   },
+   {
+    "skill": 14,
+    "kind": "Lesson 02",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 14 Lesson 02 - Quiz 5"
+   }
+  ],
+  "estimate_min": 76,
+  "skills": [
+   14
+  ]
+ },
+ {
+  "date": "2026-11-02",
+  "announced": 6,
+  "tasks": [
+   {
+    "skill": 14,
+    "kind": "Lesson 03",
+    "title": "Tuning EtherChannel Load Balancing",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 14 Lesson 03 - Tuning EtherChannel Load Balancing"
+   },
+   {
+    "skill": 14,
+    "kind": "Lab",
+    "title": "Tuning EtherChannel Load Balancing",
+    "lab_id": "S14-L03",
+    "type": "lab",
+    "text": "Skill 14 Lab - Tuning EtherChannel Load Balancing (S14-L03)"
+   },
+   {
+    "skill": 14,
+    "kind": "Lesson 03",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 14 Lesson 03 - Quiz 5"
+   },
+   {
+    "skill": 14,
+    "kind": "Lesson 04",
+    "title": "Deploying EtherChannel at Castle Rysen Coffee",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 14 Lesson 04 - Deploying EtherChannel at Castle Rysen Coffee"
+   },
+   {
+    "skill": 14,
+    "kind": "Lab",
+    "title": "Deploying EtherChannel at Castle Rysen Coffee",
+    "lab_id": "S14-L04",
+    "type": "lab",
+    "text": "Skill 14 Lab - Deploying EtherChannel at Castle Rysen Coffee (S14-L04)"
+   },
+   {
+    "skill": 14,
+    "kind": "Lesson 04",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 14 Lesson 04 - Quiz 4"
+   }
+  ],
+  "estimate_min": 84,
+  "skills": [
+   14
+  ]
+ },
+ {
+  "date": "2026-11-03",
+  "announced": 7,
+  "tasks": [
+   {
+    "skill": 14,
+    "kind": "Lesson 05",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 14 Lesson 05 - What Now?"
+   },
+   {
+    "skill": 14,
+    "kind": "Lab",
+    "title": "Increasing Bandwidth Using EtherChannel",
+    "lab_id": "S14-SL01",
+    "type": "skill_lab",
+    "text": "Skill 14 Lab - Increasing Bandwidth Using EtherChannel (S14-SL01)"
+   },
+   {
+    "skill": 14,
+    "kind": "Lesson 05",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 14 Lesson 05 - Quiz 1"
+   },
+   {
+    "skill": 15,
+    "kind": "Lesson 00",
+    "title": "Why is This Important?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 15 Lesson 00 - Why is This Important?"
+   },
+   {
+    "skill": 15,
+    "kind": "Lesson 00",
+    "title": "Quiz 2",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 15 Lesson 00 - Quiz 2"
+   },
+   {
+    "skill": 15,
+    "kind": "Lesson 01",
+    "title": "Advantages of Using Routing Protocols",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 15 Lesson 01 - Advantages of Using Routing Protocols"
+   },
+   {
+    "skill": 15,
+    "kind": "Lesson 01",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 15 Lesson 01 - Quiz 5"
+   }
+  ],
+  "estimate_min": 91,
+  "skills": [
+   14,
+   15
+  ]
+ },
+ {
+  "date": "2026-11-04",
+  "announced": 7,
+  "tasks": [
+   {
+    "skill": 15,
+    "kind": "Lesson 02",
+    "title": "Categories of Routing Protocols",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 15 Lesson 02 - Categories of Routing Protocols"
+   },
+   {
+    "skill": 15,
+    "kind": "Lesson 02",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 15 Lesson 02 - Quiz 5"
+   },
+   {
+    "skill": 15,
+    "kind": "Lesson 03",
+    "title": "How Routing Protocols Find The Best Way",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 15 Lesson 03 - How Routing Protocols Find The Best Way"
+   },
+   {
+    "skill": 15,
+    "kind": "Lesson 03",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 15 Lesson 03 - Quiz 5"
+   },
+   {
+    "skill": 15,
+    "kind": "Lesson 04",
+    "title": "Understanding The Network Command",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 15 Lesson 04 - Understanding The Network Command"
+   },
+   {
+    "skill": 15,
+    "kind": "Lab",
+    "title": "Understanding the Network Command",
+    "lab_id": "S15-L04",
+    "type": "lab",
+    "text": "Skill 15 Lab - Understanding the Network Command (S15-L04)"
+   },
+   {
+    "skill": 15,
+    "kind": "Lesson 04",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 15 Lesson 04 - Quiz 5"
+   }
+  ],
+  "estimate_min": 76,
+  "skills": [
+   15
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "announced": 9,
+  "tasks": [
+   {
+    "skill": 15,
+    "kind": "Lesson 05",
+    "title": "Castle Rysen - Implementing OSPF Routing Protocol",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 15 Lesson 05 - Castle Rysen - Implementing OSPF Routing Protocol"
+   },
+   {
+    "skill": 15,
+    "kind": "Lab",
+    "title": "Castle Rysen: Implementing OSPF Routing Protocol",
+    "lab_id": "S15-L05",
+    "type": "lab",
+    "text": "Skill 15 Lab - Castle Rysen: Implementing OSPF Routing Protocol (S15-L05)"
+   },
+   {
+    "skill": 15,
+    "kind": "Lesson 05",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 15 Lesson 05 - Quiz 5"
+   },
+   {
+    "skill": 15,
+    "kind": "Lesson 06",
+    "title": "OSPF Communication Troubleshooting",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 15 Lesson 06 - OSPF Communication Troubleshooting"
+   },
+   {
+    "skill": 15,
+    "kind": "Lab",
+    "title": "Castle Rysen: OSPF Communication Troubleshooting",
+    "lab_id": "S15-L06",
+    "type": "lab",
+    "text": "Skill 15 Lab - Castle Rysen: OSPF Communication Troubleshooting (S15-L06)"
+   },
+   {
+    "skill": 15,
+    "kind": "Lesson 06",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 15 Lesson 06 - Quiz 5"
+   },
+   {
+    "skill": 15,
+    "kind": "Lesson 07",
+    "title": "Castle Rysen - Scaling  OSPF to Larger Networks",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 15 Lesson 07 - Castle Rysen - Scaling  OSPF to Larger Networks"
+   },
+   {
+    "skill": 15,
+    "kind": "Lab",
+    "title": "Castle Rysen: Scaling OSPF for the Fallout Grid",
+    "lab_id": "S15-L07",
+    "type": "lab",
+    "text": "Skill 15 Lab - Castle Rysen: Scaling OSPF for the Fallout Grid (S15-L07)"
+   },
+   {
+    "skill": 15,
+    "kind": "Lesson 07",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 15 Lesson 07 - Quiz 5"
+   }
+  ],
+  "estimate_min": 126,
+  "skills": [
+   15
+  ]
+ },
+ {
+  "date": "2026-11-06",
+  "announced": 5,
+  "tasks": [
+   {
+    "skill": 15,
+    "kind": "Lesson 08",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 15 Lesson 08 - What Now?"
+   },
+   {
+    "skill": 15,
+    "kind": "Lab",
+    "title": "Deploying the OSPF Routing Protocol",
+    "lab_id": "S15-SL01",
+    "type": "skill_lab",
+    "text": "Skill 15 Lab - Deploying the OSPF Routing Protocol (S15-SL01)"
+   },
+   {
+    "skill": 15,
+    "kind": "Lesson 08",
+    "title": "Quiz 2",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 15 Lesson 08 - Quiz 2"
+   },
+   {
+    "skill": 16,
+    "kind": "Lesson 00",
+    "title": "Why is This Important?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 16 Lesson 00 - Why is This Important?"
+   },
+   {
+    "skill": 16,
+    "kind": "Lesson 00",
+    "title": "Quiz 2",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 16 Lesson 00 - Quiz 2"
+   }
+  ],
+  "estimate_min": 74,
+  "skills": [
+   15,
+   16
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "announced": 7,
+  "tasks": [
+   {
+    "skill": 16,
+    "kind": "Lesson 01",
+    "title": "When to Use First Hop Redundancy Protocols (FHRPs)",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 16 Lesson 01 - When to Use First Hop Redundancy Protocols (FHRPs)"
+   },
+   {
+    "skill": 16,
+    "kind": "Lesson 01",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 16 Lesson 01 - Quiz 5"
+   },
+   {
+    "skill": 16,
+    "kind": "Lesson 02",
+    "title": "Flavors of FHRPs",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 16 Lesson 02 - Flavors of FHRPs"
+   },
+   {
+    "skill": 16,
+    "kind": "Lesson 02",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 16 Lesson 02 - Quiz 5"
+   },
+   {
+    "skill": 16,
+    "kind": "Lesson 03",
+    "title": "Castle Rysen - Configuring HSRPv2",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 16 Lesson 03 - Castle Rysen - Configuring HSRPv2"
+   },
+   {
+    "skill": 16,
+    "kind": "Lab",
+    "title": "Castle Rysen: Configuring HSRPv2",
+    "lab_id": "S16-L03",
+    "type": "lab",
+    "text": "Skill 16 Lab - Castle Rysen: Configuring HSRPv2 (S16-L03)"
+   },
+   {
+    "skill": 16,
+    "kind": "Lesson 03",
+    "title": "Quiz 2",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 16 Lesson 03 - Quiz 2"
+   }
+  ],
+  "estimate_min": 76,
+  "skills": [
+   16
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "announced": 7,
+  "tasks": [
+   {
+    "skill": 16,
+    "kind": "Lesson 04",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 16 Lesson 04 - What Now?"
+   },
+   {
+    "skill": 16,
+    "kind": "Lab",
+    "title": "Deploying First Hop Redundancy Protocols",
+    "lab_id": "S16-SL01",
+    "type": "skill_lab",
+    "text": "Skill 16 Lab - Deploying First Hop Redundancy Protocols (S16-SL01)"
+   },
+   {
+    "skill": 16,
+    "kind": "Lesson 04",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 16 Lesson 04 - Quiz 1"
+   },
+   {
+    "skill": 17,
+    "kind": "Lesson 00",
+    "title": "Why is This Important?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 17 Lesson 00 - Why is This Important?"
+   },
+   {
+    "skill": 17,
+    "kind": "Lesson 00",
+    "title": "Quiz 2",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 17 Lesson 00 - Quiz 2"
+   },
+   {
+    "skill": 17,
+    "kind": "Lesson 01",
+    "title": "IPv6, the Someday Protocol",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 17 Lesson 01 - IPv6, the Someday Protocol"
+   },
+   {
+    "skill": 17,
+    "kind": "Lesson 01",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 17 Lesson 01 - Quiz 5"
+   }
+  ],
+  "estimate_min": 91,
+  "skills": [
+   16,
+   17
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 17,
+    "kind": "Lesson 02",
+    "title": "IPv6 Address Shortcuts",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 17 Lesson 02 - IPv6 Address Shortcuts"
+   },
+   {
+    "skill": 17,
+    "kind": "Lesson 02",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 17 Lesson 02 - Quiz 5"
+   },
+   {
+    "skill": 17,
+    "kind": "Lesson 03",
+    "title": "Configuring IPv6 Overlay at Castle Rysen Cafe",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 17 Lesson 03 - Configuring IPv6 Overlay at Castle Rysen Cafe"
+   },
+   {
+    "skill": 17,
+    "kind": "Lab",
+    "title": "Configuring IPv6 Overlay at Castle Rysen Cafe",
+    "lab_id": "S17-L03",
+    "type": "lab",
+    "text": "Skill 17 Lab - Configuring IPv6 Overlay at Castle Rysen Cafe (S17-L03)"
+   },
+   {
+    "skill": 17,
+    "kind": "Lesson 03",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 17 Lesson 03 - Quiz 5"
+   },
+   {
+    "skill": 17,
+    "kind": "Lesson 04",
+    "title": "Configuring IPv6 at Castle Rysen",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 17 Lesson 04 - Configuring IPv6 at Castle Rysen"
+   },
+   {
+    "skill": 17,
+    "kind": "Lab",
+    "title": "Configuring IPv6 at Castle Rysen Fallout Shelter",
+    "lab_id": "S17-L04",
+    "type": "lab",
+    "text": "Skill 17 Lab - Configuring IPv6 at Castle Rysen Fallout Shelter (S17-L04)"
+   },
+   {
+    "skill": 17,
+    "kind": "Lesson 04",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 17 Lesson 04 - Quiz 5"
+   }
+  ],
+  "estimate_min": 101,
+  "skills": [
+   17
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "announced": 7,
+  "tasks": [
+   {
+    "skill": 17,
+    "kind": "Lesson 05",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 17 Lesson 05 - What Now?"
+   },
+   {
+    "skill": 17,
+    "kind": "Lab",
+    "title": "IPv6 Overlay Activation for Castle Rysen Field Sites",
+    "lab_id": "S17-SL01",
+    "type": "skill_lab",
+    "text": "Skill 17 Lab - IPv6 Overlay Activation for Castle Rysen Field Sites (S17-SL01)"
+   },
+   {
+    "skill": 17,
+    "kind": "Lesson 05",
+    "title": "Quiz 2",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 17 Lesson 05 - Quiz 2"
+   },
+   {
+    "skill": 18,
+    "kind": "Lesson 00",
+    "title": "Why is This Important?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 18 Lesson 00 - Why is This Important?"
+   },
+   {
+    "skill": 18,
+    "kind": "Lesson 00",
+    "title": "Quiz 3",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 18 Lesson 00 - Quiz 3"
+   },
+   {
+    "skill": 18,
+    "kind": "Lesson 01",
+    "title": "Five Most Common ACL Purposes",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 18 Lesson 01 - Five Most Common ACL Purposes"
+   },
+   {
+    "skill": 18,
+    "kind": "Lesson 01",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 18 Lesson 01 - Quiz 4"
+   }
+  ],
+  "estimate_min": 91,
+  "skills": [
+   17,
+   18
+  ]
+ },
+ {
+  "date": "2026-11-16",
+  "announced": 6,
+  "tasks": [
+   {
+    "skill": 18,
+    "kind": "Lesson 02",
+    "title": "Standard ACL Configuration",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 18 Lesson 02 - Standard ACL Configuration"
+   },
+   {
+    "skill": 18,
+    "kind": "Lab",
+    "title": "Standard ACL Configuration at Castle Rysen",
+    "lab_id": "S18-L02",
+    "type": "lab",
+    "text": "Skill 18 Lab - Standard ACL Configuration at Castle Rysen (S18-L02)"
+   },
+   {
+    "skill": 18,
+    "kind": "Lesson 02",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 18 Lesson 02 - Quiz 4"
+   },
+   {
+    "skill": 18,
+    "kind": "Lesson 03",
+    "title": "Extended ACL Configuration",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 18 Lesson 03 - Extended ACL Configuration"
+   },
+   {
+    "skill": 18,
+    "kind": "Lab",
+    "title": "Extended ACL Deep Dive",
+    "lab_id": "S18-L03",
+    "type": "lab",
+    "text": "Skill 18 Lab - Extended ACL Deep Dive (S18-L03)"
+   },
+   {
+    "skill": 18,
+    "kind": "Lesson 03",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 18 Lesson 03 - Quiz 4"
+   }
+  ],
+  "estimate_min": 84,
+  "skills": [
+   18
+  ]
+ },
+ {
+  "date": "2026-11-17",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 18,
+    "kind": "Lesson 04",
+    "title": "Deploying Access Control at Castle Rysen",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 18 Lesson 04 - Deploying Access Control at Castle Rysen"
+   },
+   {
+    "skill": 18,
+    "kind": "Lab",
+    "title": "Deploying Access Control at Castle Rysen",
+    "lab_id": "S18-L04",
+    "type": "lab",
+    "text": "Skill 18 Lab - Deploying Access Control at Castle Rysen (S18-L04)"
+   },
+   {
+    "skill": 18,
+    "kind": "Lesson 04",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 18 Lesson 04 - Quiz 4"
+   },
+   {
+    "skill": 18,
+    "kind": "Lesson 05",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 18 Lesson 05 - What Now?"
+   },
+   {
+    "skill": 18,
+    "kind": "Lab",
+    "title": "Consolidating Castle Caf' Access Control",
+    "lab_id": "S18-SL01",
+    "type": "skill_lab",
+    "text": "Skill 18 Lab - Consolidating Castle Caf' Access Control (S18-SL01)"
+   },
+   {
+    "skill": 18,
+    "kind": "Lesson 05",
+    "title": "Quiz 2",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 18 Lesson 05 - Quiz 2"
+   },
+   {
+    "skill": 19,
+    "kind": "Lesson 00",
+    "title": "Why is This Important?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 19 Lesson 00 - Why is This Important?"
+   },
+   {
+    "skill": 19,
+    "kind": "Lesson 00",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 19 Lesson 00 - Quiz 1"
+   }
+  ],
+  "estimate_min": 116,
+  "skills": [
+   18,
+   19
+  ]
+ },
+ {
+  "date": "2026-11-18",
+  "announced": 6,
+  "tasks": [
+   {
+    "skill": 19,
+    "kind": "Lesson 01",
+    "title": "Understanding Vulnerabilities, Exploits, and Threats",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 19 Lesson 01 - Understanding Vulnerabilities, Exploits, and Threats"
+   },
+   {
+    "skill": 19,
+    "kind": "Lesson 01",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 19 Lesson 01 - Quiz 4"
+   },
+   {
+    "skill": 19,
+    "kind": "Lesson 02",
+    "title": "Understanding Types of Security Threats",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 19 Lesson 02 - Understanding Types of Security Threats"
+   },
+   {
+    "skill": 19,
+    "kind": "Lesson 02",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 19 Lesson 02 - Quiz 5"
+   },
+   {
+    "skill": 19,
+    "kind": "Lesson 03",
+    "title": "Understanding Identity and Password Attacks",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 19 Lesson 03 - Understanding Identity and Password Attacks"
+   },
+   {
+    "skill": 19,
+    "kind": "Lesson 03",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 19 Lesson 03 - Quiz 5"
+   }
+  ],
+  "estimate_min": 51,
+  "skills": [
+   19
+  ]
+ },
+ {
+  "date": "2026-11-19",
+  "announced": 9,
+  "tasks": [
+   {
+    "skill": 19,
+    "kind": "Lesson 04",
+    "title": "Understanding the Place of Cisco AAA",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 19 Lesson 04 - Understanding the Place of Cisco AAA"
+   },
+   {
+    "skill": 19,
+    "kind": "Lesson 04",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 19 Lesson 04 - Quiz 4"
+   },
+   {
+    "skill": 19,
+    "kind": "Lesson 05",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 19 Lesson 05 - What Now?"
+   },
+   {
+    "skill": 19,
+    "kind": "Lesson 05",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 19 Lesson 05 - Quiz 1"
+   },
+   {
+    "skill": 20,
+    "kind": "Lesson 00",
+    "title": "Why is This Important?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 20 Lesson 00 - Why is This Important?"
+   },
+   {
+    "skill": 20,
+    "kind": "Lesson 00",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 20 Lesson 00 - Quiz 1"
+   },
+   {
+    "skill": 20,
+    "kind": "Lesson 01",
+    "title": "Configuring Switch Port Security",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 20 Lesson 01 - Configuring Switch Port Security"
+   },
+   {
+    "skill": 20,
+    "kind": "Lab",
+    "title": "Configuring Switch Port Security",
+    "lab_id": "S20-L01",
+    "type": "lab",
+    "text": "Skill 20 Lab - Configuring Switch Port Security (S20-L01)"
+   },
+   {
+    "skill": 20,
+    "kind": "Lesson 01",
+    "title": "Quiz 6",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 20 Lesson 01 - Quiz 6"
+   }
+  ],
+  "estimate_min": 93,
+  "skills": [
+   19,
+   20
+  ]
+ },
+ {
+  "date": "2026-11-20",
+  "announced": 6,
+  "tasks": [
+   {
+    "skill": 20,
+    "kind": "Lesson 02",
+    "title": "Configuring DHCP Snooping",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 20 Lesson 02 - Configuring DHCP Snooping"
+   },
+   {
+    "skill": 20,
+    "kind": "Lab",
+    "title": "Configuring DHCP Snooping",
+    "lab_id": "S20-L02",
+    "type": "lab",
+    "text": "Skill 20 Lab - Configuring DHCP Snooping (S20-L02)"
+   },
+   {
+    "skill": 20,
+    "kind": "Lesson 02",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 20 Lesson 02 - Quiz 5"
+   },
+   {
+    "skill": 20,
+    "kind": "Lesson 03",
+    "title": "Configuring DAI",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 20 Lesson 03 - Configuring DAI"
+   },
+   {
+    "skill": 20,
+    "kind": "Lab",
+    "title": "Configuring DAI",
+    "lab_id": "S20-L03",
+    "type": "lab",
+    "text": "Skill 20 Lab - Configuring DAI (S20-L03)"
+   },
+   {
+    "skill": 20,
+    "kind": "Lesson 03",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 20 Lesson 03 - Quiz 4"
+   }
+  ],
+  "estimate_min": 84,
+  "skills": [
+   20
+  ]
+ },
+ {
+  "date": "2026-11-23",
+  "announced": 6,
+  "tasks": [
+   {
+    "skill": 20,
+    "kind": "Lesson 04",
+    "title": "Castle Rysen Layer 2 Security Deployment",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 20 Lesson 04 - Castle Rysen Layer 2 Security Deployment"
+   },
+   {
+    "skill": 20,
+    "kind": "Lab",
+    "title": "Castle Rysen Layer 2 Security Deployment",
+    "lab_id": "S20-L04",
+    "type": "lab",
+    "text": "Skill 20 Lab - Castle Rysen Layer 2 Security Deployment (S20-L04)"
+   },
+   {
+    "skill": 20,
+    "kind": "Lesson 04",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 20 Lesson 04 - Quiz 5"
+   },
+   {
+    "skill": 20,
+    "kind": "Lesson 05",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 20 Lesson 05 - What Now?"
+   },
+   {
+    "skill": 20,
+    "kind": "Lab",
+    "title": "Fortifying Shelter Layer 2 Defenses",
+    "lab_id": "S20-SL01",
+    "type": "skill_lab",
+    "text": "Skill 20 Lab - Fortifying Shelter Layer 2 Defenses (S20-SL01)"
+   },
+   {
+    "skill": 20,
+    "kind": "Lesson 05",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 20 Lesson 05 - Quiz 1"
+   }
+  ],
+  "estimate_min": 99,
+  "skills": [
+   20
+  ]
+ },
+ {
+  "date": "2026-11-24",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 21,
+    "kind": "Lesson 00",
+    "title": "Why is This Important?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 21 Lesson 00 - Why is This Important?"
+   },
+   {
+    "skill": 21,
+    "kind": "Lesson 00",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 21 Lesson 00 - Quiz 1"
+   },
+   {
+    "skill": 21,
+    "kind": "Lesson 01",
+    "title": "Using Cisco Discovery Protocol",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 21 Lesson 01 - Using Cisco Discovery Protocol"
+   },
+   {
+    "skill": 21,
+    "kind": "Lab",
+    "title": "Using Cisco Discovery Protocol",
+    "lab_id": "S21-L01",
+    "type": "lab",
+    "text": "Skill 21 Lab - Using Cisco Discovery Protocol (S21-L01)"
+   },
+   {
+    "skill": 21,
+    "kind": "Lesson 01",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 21 Lesson 01 - Quiz 4"
+   },
+   {
+    "skill": 21,
+    "kind": "Lesson 02",
+    "title": "Using Link Layer Discovery Protocol",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 21 Lesson 02 - Using Link Layer Discovery Protocol"
+   },
+   {
+    "skill": 21,
+    "kind": "Lab",
+    "title": "Using Link Layer Discovery Protocol",
+    "lab_id": "S21-L02",
+    "type": "lab",
+    "text": "Skill 21 Lab - Using Link Layer Discovery Protocol (S21-L02)"
+   },
+   {
+    "skill": 21,
+    "kind": "Lesson 02",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 21 Lesson 02 - Quiz 5"
+   }
+  ],
+  "estimate_min": 101,
+  "skills": [
+   21
+  ]
+ },
+ {
+  "date": "2026-11-25",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 21,
+    "kind": "Lesson 03",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 21 Lesson 03 - What Now?"
+   },
+   {
+    "skill": 21,
+    "kind": "Lab",
+    "title": "Field Discovery Safeguards",
+    "lab_id": "S21-SL01",
+    "type": "skill_lab",
+    "text": "Skill 21 Lab - Field Discovery Safeguards (S21-SL01)"
+   },
+   {
+    "skill": 21,
+    "kind": "Lesson 03",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 21 Lesson 03 - Quiz 1"
+   },
+   {
+    "skill": 22,
+    "kind": "Lesson 00",
+    "title": "Why is This Important?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 22 Lesson 00 - Why is This Important?"
+   },
+   {
+    "skill": 22,
+    "kind": "Lesson 00",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 22 Lesson 00 - Quiz 1"
+   },
+   {
+    "skill": 22,
+    "kind": "Lesson 01",
+    "title": "Manually Setting Cisco Clocks",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 22 Lesson 01 - Manually Setting Cisco Clocks"
+   },
+   {
+    "skill": 22,
+    "kind": "Lab",
+    "title": "Manually Setting Cisco Clocks",
+    "lab_id": "S22-L01",
+    "type": "lab",
+    "text": "Skill 22 Lab - Manually Setting Cisco Clocks (S22-L01)"
+   },
+   {
+    "skill": 22,
+    "kind": "Lesson 01",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 22 Lesson 01 - Quiz 5"
+   }
+  ],
+  "estimate_min": 116,
+  "skills": [
+   21,
+   22
+  ]
+ },
+ {
+  "date": "2026-11-30",
+  "announced": 6,
+  "tasks": [
+   {
+    "skill": 22,
+    "kind": "Lesson 02",
+    "title": "Setting the Clock with NTP",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 22 Lesson 02 - Setting the Clock with NTP"
+   },
+   {
+    "skill": 22,
+    "kind": "Lab",
+    "title": "Setting the Clock with NTP",
+    "lab_id": "S22-L02",
+    "type": "lab",
+    "text": "Skill 22 Lab - Setting the Clock with NTP (S22-L02)"
+   },
+   {
+    "skill": 22,
+    "kind": "Lesson 02",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 22 Lesson 02 - Quiz 5"
+   },
+   {
+    "skill": 22,
+    "kind": "Lesson 03",
+    "title": "Using DNS on a Cisco Devices",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 22 Lesson 03 - Using DNS on a Cisco Devices"
+   },
+   {
+    "skill": 22,
+    "kind": "Lab",
+    "title": "Using DNS on Cisco Devices",
+    "lab_id": "S22-L03",
+    "type": "lab",
+    "text": "Skill 22 Lab - Using DNS on Cisco Devices (S22-L03)"
+   },
+   {
+    "skill": 22,
+    "kind": "Lesson 03",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 22 Lesson 03 - Quiz 5"
+   }
+  ],
+  "estimate_min": 84,
+  "skills": [
+   22
+  ]
+ },
+ {
+  "date": "2026-12-01",
+  "announced": 6,
+  "tasks": [
+   {
+    "skill": 22,
+    "kind": "Lesson 04",
+    "title": "Configuring DHCP Services on Cisco Devices",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 22 Lesson 04 - Configuring DHCP Services on Cisco Devices"
+   },
+   {
+    "skill": 22,
+    "kind": "Lab",
+    "title": "Configuring DHCP Services on Cisco Devices",
+    "lab_id": "S22-L04",
+    "type": "lab",
+    "text": "Skill 22 Lab - Configuring DHCP Services on Cisco Devices (S22-L04)"
+   },
+   {
+    "skill": 22,
+    "kind": "Lesson 04",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 22 Lesson 04 - Quiz 4"
+   },
+   {
+    "skill": 22,
+    "kind": "Lesson 04.5",
+    "title": "Configuring SSH on Cisco Devices",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 22 Lesson 04.5 - Configuring SSH on Cisco Devices"
+   },
+   {
+    "skill": 22,
+    "kind": "Lab",
+    "title": "Configuring SSH on Cisco Devices",
+    "lab_id": "S22-L04.5",
+    "type": "lab",
+    "text": "Skill 22 Lab - Configuring SSH on Cisco Devices (S22-L04.5)"
+   },
+   {
+    "skill": 22,
+    "kind": "Lesson 04.5",
+    "title": "Quiz 3",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 22 Lesson 04.5 - Quiz 3"
+   }
+  ],
+  "estimate_min": 84,
+  "skills": [
+   22
+  ]
+ },
+ {
+  "date": "2026-12-02",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 22,
+    "kind": "Lesson 05",
+    "title": "Deploying IP Services at Castle Rysen",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 22 Lesson 05 - Deploying IP Services at Castle Rysen"
+   },
+   {
+    "skill": 22,
+    "kind": "Lab",
+    "title": "Deploying IP Services at Castle Rysen",
+    "lab_id": "S22-L05",
+    "type": "lab",
+    "text": "Skill 22 Lab - Deploying IP Services at Castle Rysen (S22-L05)"
+   },
+   {
+    "skill": 22,
+    "kind": "Lesson 05",
+    "title": "Quiz 3",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 22 Lesson 05 - Quiz 3"
+   },
+   {
+    "skill": 22,
+    "kind": "Lesson 06",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 22 Lesson 06 - What Now?"
+   },
+   {
+    "skill": 22,
+    "kind": "Lab",
+    "title": "Securing Castle Rysen Services",
+    "lab_id": "S22-SL01",
+    "type": "skill_lab",
+    "text": "Skill 22 Lab - Securing Castle Rysen Services (S22-SL01)"
+   },
+   {
+    "skill": 22,
+    "kind": "Lesson 06",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 22 Lesson 06 - Quiz 1"
+   },
+   {
+    "skill": 23,
+    "kind": "Lesson 00",
+    "title": "Why is This Important?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 23 Lesson 00 - Why is This Important?"
+   },
+   {
+    "skill": 23,
+    "kind": "Lesson 00",
+    "title": "Quiz 2",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 23 Lesson 00 - Quiz 2"
+   }
+  ],
+  "estimate_min": 116,
+  "skills": [
+   22,
+   23
+  ]
+ },
+ {
+  "date": "2026-12-03",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 23,
+    "kind": "Lesson 01",
+    "title": "What is SNMP?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 23 Lesson 01 - What is SNMP?"
+   },
+   {
+    "skill": 23,
+    "kind": "Lesson 01",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 23 Lesson 01 - Quiz 5"
+   },
+   {
+    "skill": 23,
+    "kind": "Lesson 02",
+    "title": "Configuring SNMPv2c and SNMPv3",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 23 Lesson 02 - Configuring SNMPv2c and SNMPv3"
+   },
+   {
+    "skill": 23,
+    "kind": "Lab",
+    "title": "Configuring SNMPv2c and SNMPv3",
+    "lab_id": "S23-L02",
+    "type": "lab",
+    "text": "Skill 23 Lab - Configuring SNMPv2c and SNMPv3 (S23-L02)"
+   },
+   {
+    "skill": 23,
+    "kind": "Lesson 02",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 23 Lesson 02 - Quiz 4"
+   },
+   {
+    "skill": 23,
+    "kind": "Lesson 03",
+    "title": "Understanding and Configuring Syslog",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 23 Lesson 03 - Understanding and Configuring Syslog"
+   },
+   {
+    "skill": 23,
+    "kind": "Lab",
+    "title": "Understanding and Configuring Syslog",
+    "lab_id": "S23-L03",
+    "type": "lab",
+    "text": "Skill 23 Lab - Understanding and Configuring Syslog (S23-L03)"
+   },
+   {
+    "skill": 23,
+    "kind": "Lesson 03",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 23 Lesson 03 - Quiz 5"
+   }
+  ],
+  "estimate_min": 101,
+  "skills": [
+   23
+  ]
+ },
+ {
+  "date": "2026-12-04",
+  "announced": 5,
+  "tasks": [
+   {
+    "skill": 23,
+    "kind": "Lesson 04",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 23 Lesson 04 - What Now?"
+   },
+   {
+    "skill": 23,
+    "kind": "Lab",
+    "title": "Orchestrating Shelter Telemetry",
+    "lab_id": "S23-SL01",
+    "type": "skill_lab",
+    "text": "Skill 23 Lab - Orchestrating Shelter Telemetry (S23-SL01)"
+   },
+   {
+    "skill": 23,
+    "kind": "Lesson 04",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 23 Lesson 04 - Quiz 1"
+   },
+   {
+    "skill": 24,
+    "kind": "Lesson 00",
+    "title": "Why is This Important?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 24 Lesson 00 - Why is This Important?"
+   },
+   {
+    "skill": 24,
+    "kind": "Lesson 00",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 24 Lesson 00 - Quiz 1"
+   }
+  ],
+  "estimate_min": 74,
+  "skills": [
+   23,
+   24
+  ]
+ },
+ {
+  "date": "2026-12-07",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 24,
+    "kind": "Lesson 01",
+    "title": "QoS Concept Overview",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 24 Lesson 01 - QoS Concept Overview"
+   },
+   {
+    "skill": 24,
+    "kind": "Lesson 01",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 24 Lesson 01 - Quiz 5"
+   },
+   {
+    "skill": 24,
+    "kind": "Lesson 02",
+    "title": "Understanding Classification and Marking Process",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 24 Lesson 02 - Understanding Classification and Marking Process"
+   },
+   {
+    "skill": 24,
+    "kind": "Lab",
+    "title": "Understanding Classification and Marking Process",
+    "lab_id": "S24-L02",
+    "type": "lab",
+    "text": "Skill 24 Lab - Understanding Classification and Marking Process (S24-L02)"
+   },
+   {
+    "skill": 24,
+    "kind": "Lesson 02",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 24 Lesson 02 - Quiz 5"
+   },
+   {
+    "skill": 24,
+    "kind": "Lesson 03",
+    "title": "Qos Treatment Methods (Queuing, Shaping, Policing)",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 24 Lesson 03 - Qos Treatment Methods (Queuing, Shaping, Policing)"
+   },
+   {
+    "skill": 24,
+    "kind": "Lab",
+    "title": "QoS Treatment Methods in Action",
+    "lab_id": "S24-L03",
+    "type": "lab",
+    "text": "Skill 24 Lab - QoS Treatment Methods in Action (S24-L03)"
+   },
+   {
+    "skill": 24,
+    "kind": "Lesson 03",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 24 Lesson 03 - Quiz 4"
+   }
+  ],
+  "estimate_min": 101,
+  "skills": [
+   24
+  ]
+ },
+ {
+  "date": "2026-12-08",
+  "announced": 7,
+  "tasks": [
+   {
+    "skill": 24,
+    "kind": "Lesson 04",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 24 Lesson 04 - What Now?"
+   },
+   {
+    "skill": 24,
+    "kind": "Lab",
+    "title": "Guard the QoS Lifelines",
+    "lab_id": "S24-SL01",
+    "type": "skill_lab",
+    "text": "Skill 24 Lab - Guard the QoS Lifelines (S24-SL01)"
+   },
+   {
+    "skill": 24,
+    "kind": "Lesson 04",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 24 Lesson 04 - Quiz 1"
+   },
+   {
+    "skill": 25,
+    "kind": "Lesson 00",
+    "title": "Why is This Important?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 25 Lesson 00 - Why is This Important?"
+   },
+   {
+    "skill": 25,
+    "kind": "Lesson 00",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 25 Lesson 00 - Quiz 1"
+   },
+   {
+    "skill": 25,
+    "kind": "Lesson 01",
+    "title": "Understanding How Wireless Works",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 25 Lesson 01 - Understanding How Wireless Works"
+   },
+   {
+    "skill": 25,
+    "kind": "Lesson 01",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 25 Lesson 01 - Quiz 5"
+   }
+  ],
+  "estimate_min": 91,
+  "skills": [
+   24,
+   25
+  ]
+ },
+ {
+  "date": "2026-12-09",
+  "announced": 6,
+  "tasks": [
+   {
+    "skill": 25,
+    "kind": "Lesson 02",
+    "title": "Planning Wireless Channels",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 25 Lesson 02 - Planning Wireless Channels"
+   },
+   {
+    "skill": 25,
+    "kind": "Lesson 02",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 25 Lesson 02 - Quiz 4"
+   },
+   {
+    "skill": 25,
+    "kind": "Lesson 03",
+    "title": "Selecting and Associating with the Appropriate WAP",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 25 Lesson 03 - Selecting and Associating with the Appropriate WAP"
+   },
+   {
+    "skill": 25,
+    "kind": "Lesson 03",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 25 Lesson 03 - Quiz 4"
+   },
+   {
+    "skill": 25,
+    "kind": "Lesson 04",
+    "title": "Understanding Wireless Security",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 25 Lesson 04 - Understanding Wireless Security"
+   },
+   {
+    "skill": 25,
+    "kind": "Lesson 04",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 25 Lesson 04 - Quiz 5"
+   }
+  ],
+  "estimate_min": 51,
+  "skills": [
+   25
+  ]
+ },
+ {
+  "date": "2026-12-10",
+  "announced": 8,
+  "tasks": [
+   {
+    "skill": 25,
+    "kind": "Lesson 05",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 25 Lesson 05 - What Now?"
+   },
+   {
+    "skill": 25,
+    "kind": "Lesson 05",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 25 Lesson 05 - Quiz 1"
+   },
+   {
+    "skill": 26,
+    "kind": "Lesson 00",
+    "title": "Why is This Important?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 26 Lesson 00 - Why is This Important?"
+   },
+   {
+    "skill": 26,
+    "kind": "Lesson 00",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 26 Lesson 00 - Quiz 1"
+   },
+   {
+    "skill": 26,
+    "kind": "Lesson 01",
+    "title": "Explaining Network Automation and SDN",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 26 Lesson 01 - Explaining Network Automation and SDN"
+   },
+   {
+    "skill": 26,
+    "kind": "Lesson 01",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 26 Lesson 01 - Quiz 5"
+   },
+   {
+    "skill": 26,
+    "kind": "Lesson 02",
+    "title": "Exploring Cisco SDN Models and Platforms",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 26 Lesson 02 - Exploring Cisco SDN Models and Platforms"
+   },
+   {
+    "skill": 26,
+    "kind": "Lesson 02",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 26 Lesson 02 - Quiz 4"
+   }
+  ],
+  "estimate_min": 68,
+  "skills": [
+   25,
+   26
+  ]
+ },
+ {
+  "date": "2026-12-11",
+  "announced": 6,
+  "tasks": [
+   {
+    "skill": 26,
+    "kind": "Lesson 03",
+    "title": "Working with RESTful APls",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 26 Lesson 03 - Working with RESTful APls"
+   },
+   {
+    "skill": 26,
+    "kind": "Lesson 03",
+    "title": "Quiz 5",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 26 Lesson 03 - Quiz 5"
+   },
+   {
+    "skill": 26,
+    "kind": "Lesson 04",
+    "title": "Glancing at Ansible, Puppet, Chef, and Markup Languages",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 26 Lesson 04 - Glancing at Ansible, Puppet, Chef, and Markup Languages"
+   },
+   {
+    "skill": 26,
+    "kind": "Lesson 04",
+    "title": "Quiz 4",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 26 Lesson 04 - Quiz 4"
+   },
+   {
+    "skill": 26,
+    "kind": "Lesson 05",
+    "title": "What Now?",
+    "lab_id": null,
+    "type": "lesson",
+    "text": "Skill 26 Lesson 05 - What Now?"
+   },
+   {
+    "skill": 26,
+    "kind": "Lesson 05",
+    "title": "Quiz 1",
+    "lab_id": null,
+    "type": "quiz",
+    "text": "Skill 26 Lesson 05 - Quiz 1"
+   }
+  ],
+  "estimate_min": 51,
+  "skills": [
+   26
+  ]
+ }
+]

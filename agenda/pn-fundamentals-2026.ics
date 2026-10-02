@@ -1,0 +1,141 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ccna-curriculum//plan_to_ics//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Practical Networking · Fondamentaux
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:practical-networking-fondamentaux-01@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20261003T150000Z
+DTEND:20261003T163000Z
+SUMMARY:Practical Networking · Fondamentaux · 1/4 · n°1 à 4
+DESCRIPTION:Practical Networking · Fondamentaux\, séance 1 sur 4.\nPlayli
+ st : https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtx
+ mXi\n\nSérie « How data moves through the Internet » d'Ed Harmoush : le
+  POURQUOI derrière les jours J.1 à J.12 de Jeremy. À regarder en prenan
+ t un schéma par vidéo (hôte\, switch\, routeur\, et ce que chacun fait 
+ du paquet).\n\nVidéo : 54 min. Bloc réservé : 90 min.\n\nVidéos (n° =
+  position dans la playlist) :\n  ☐ n°1 Network Devices - Hosts\, IP Add
+ resses\, Networks - Networking Fundamentals - Lesson 1a (12 min)\n  ☐ n
+ °2 Hub\, Bridge\, Switch\, Router - Network Devices - Networking Fundamen
+ tals - Lesson 1b (15 min)\n  ☐ n°3 OSI Model: A Practical Perspective -
+  Networking Fundamentals - Lesson 2a (13 min)\n  ☐ n°4 OSI Model: A Pra
+ ctical Perspective - Part 2 - Networking Fundamentals - Lesson 2 (14 min)\
+ n\nNoter dans lab-notes ce qui a été compris\, créer 3 à 5 cartes Anki
+ .
+CATEGORIES:Practical Networking · Fondamentaux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Practical Networking · Fondamentaux · 1
+ /4 · n°1 à 4
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Practical Networking · Fondamentaux · 1/4 
+ · n°1 à 4
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:practical-networking-fondamentaux-02@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20261004T150000Z
+DTEND:20261004T163000Z
+SUMMARY:Practical Networking · Fondamentaux · 2/4 · n°5 à 8
+DESCRIPTION:Practical Networking · Fondamentaux\, séance 2 sur 4.\nPlayli
+ st : https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtx
+ mXi\n\nSérie « How data moves through the Internet » d'Ed Harmoush : le
+  POURQUOI derrière les jours J.1 à J.12 de Jeremy. À regarder en prenan
+ t un schéma par vidéo (hôte\, switch\, routeur\, et ce que chacun fait 
+ du paquet).\n\nVidéo : 45 min. Bloc réservé : 90 min.\n\nVidéos (n° =
+  position dans la playlist) :\n  ☐ n°5 Everything Hosts do to speak on 
+ the Internet - Part 1 - Networking Fundamentals - Lesson 3 (12 min)\n  ☐
+  n°6 Everything Hosts do to speak on the Internet - Part 2 - Networking F
+ undamentals - Lesson 3 (10 min)\n  ☐ n°7 Everything Switches do - Part 
+ 1 - Networking Fundamentals - Lesson 4 (12 min)\n  ☐ n°8 Everything Swi
+ tches do - Part 2 - Networking Fundamentals - Lesson 4 (11 min)\n\nNoter d
+ ans lab-notes ce qui a été compris\, créer 3 à 5 cartes Anki.
+CATEGORIES:Practical Networking · Fondamentaux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Practical Networking · Fondamentaux · 2
+ /4 · n°5 à 8
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Practical Networking · Fondamentaux · 2/4 
+ · n°5 à 8
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:practical-networking-fondamentaux-03@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20261010T150000Z
+DTEND:20261010T163000Z
+SUMMARY:Practical Networking · Fondamentaux · 3/4 · n°9 à 12
+DESCRIPTION:Practical Networking · Fondamentaux\, séance 3 sur 4.\nPlayli
+ st : https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtx
+ mXi\n\nSérie « How data moves through the Internet » d'Ed Harmoush : le
+  POURQUOI derrière les jours J.1 à J.12 de Jeremy. À regarder en prenan
+ t un schéma par vidéo (hôte\, switch\, routeur\, et ce que chacun fait 
+ du paquet).\n\nVidéo : 58 min. Bloc réservé : 90 min.\n\nVidéos (n° =
+  position dans la playlist) :\n  ☐ n°9 Everything Routers do - Part 1 -
+  Networking Fundamentals - Lesson 5 (17 min)\n  ☐ n°10 Everything Route
+ rs do - Part 2 - How Routers forward Packets - Networking Fundamentals - L
+ esson 5 (15 min)\n  ☐ n°11 Router Hierarchies and Route Summarization -
+  Networking Fundamentals - Lesson 5 - Part 3 (14 min)\n  ☐ n°12 Network
+  Protocols - ARP\, FTP\, SMTP\, HTTP\, SSL\, TLS\, HTTPS\, DNS\, DHCP - Ne
+ tworking Fundamentals - L6 (12 min)\n\nNoter dans lab-notes ce qui a été
+  compris\, créer 3 à 5 cartes Anki.
+CATEGORIES:Practical Networking · Fondamentaux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Practical Networking · Fondamentaux · 3
+ /4 · n°9 à 12
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Practical Networking · Fondamentaux · 3/4 
+ · n°9 à 12
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:practical-networking-fondamentaux-04@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20261011T150000Z
+DTEND:20261011T163000Z
+SUMMARY:Practical Networking · Fondamentaux · 4/4 · n°13 à 15
+DESCRIPTION:Practical Networking · Fondamentaux\, séance 4 sur 4.\nPlayli
+ st : https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtx
+ mXi\n\nSérie « How data moves through the Internet » d'Ed Harmoush : le
+  POURQUOI derrière les jours J.1 à J.12 de Jeremy. À regarder en prenan
+ t un schéma par vidéo (hôte\, switch\, routeur\, et ce que chacun fait 
+ du paquet).\n\nVidéo : 48 min. Bloc réservé : 90 min.\n\nVidéos (n° =
+  position dans la playlist) :\n  ☐ n°13 How Data moves through the Inte
+ rnet - Networking Fundamentals (27 min)\n  ☐ n°14 HTTP vs HTML: Unveili
+ ng Network Protocols using Telnet (7 min)\n  ☐ n°15 OSI Model Layer 5\,
+  6\, and 7 -- Session\, Presentation\, & Application Layers -- what they a
+ ctually do (14 min)\n\nNoter dans lab-notes ce qui a été compris\, crée
+ r 3 à 5 cartes Anki.
+CATEGORIES:Practical Networking · Fondamentaux
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Practical Networking · Fondamentaux · 4
+ /4 · n°13 à 15
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Practical Networking · Fondamentaux · 4/4 
+ · n°13 à 15
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,126 @@
+001|1826|Free CCNA | Network Devices | Day 1 | CCNA 200-301 Complete Course
+002|896|Free CCNA | Anki Flashcards | Day 1 Extra | CCNA 200-301 Complete Course
+003|918|Free CCNA | Packet Tracer Introduction | Day 1 Lab | CCNA 200-301 Complete Course
+004|2152|Free CCNA | Interfaces and Cables | Day 2 | CCNA 200-301 Complete Course
+005|333|Free CCNA | Connecting Devices | Day 2 Lab | CCNA 200-301 Complete Course
+006|2562|How the TCP/IP Model Actually Works | CCNA Day 3
+007|485|Free CCNA | OSI Model | Day 3 Lab | CCNA 200-301 Complete Course
+008|1866|Free CCNA | Intro to the CLI | Day 4 | CCNA 200-301 Complete Course
+009|626|Free CCNA | Basic Device Security | Day 4 Lab | CCNA 200-301 Complete Course
+010|2293|Free CCNA | Ethernet LAN Switching (Part 1) | Day 5 | CCNA 200-301 Complete Course
+011|2021|Free CCNA | Ethernet LAN Switching (Part 2) | Day 6 | CCNA 200-301 Complete Course
+012|629|Free CCNA | Analyzing Ethernet Switching | Day 6 Lab | CCNA 200-301 Complete Course
+013|2421|Free CCNA | IPv4 Addressing (Part 1) | Day 7 | CCNA 200-301 Complete Course
+014|1842|Free CCNA | IPv4 Addressing (Part 2) | Day 8 | CCNA 200-301 Complete Course
+015|606|Free CCNA | Configuring IP Addresses | Day 8 Lab | CCNA 200-301 Complete Course
+016|1948|Free CCNA | Switch Interfaces | Day 9 | CCNA 200-301 Complete Course
+017|714|Free CCNA | Configuring Interfaces | Day 9 Lab | CCNA 200-301 Complete Course
+018|1811|Free CCNA | IPv4 Header | Day 10 | CCNA 200-301 Complete Course
+019|1860|Free CCNA | Routing Fundamentals | Day 11 (part 1) | CCNA 200-301 Complete Course
+020|2264|Free CCNA | Static Routing | Day 11 (part 2) | CCNA 200-301 Complete Course
+021|749|Free CCNA | Configuring Static Routes | Day 11 Lab 1 | CCNA 200-301 Complete Course
+022|585|Free CCNA | Troubleshooting Static Routes | Day 11 Lab 2 | CCNA 200-301 Complete Course
+023|1213|Free CCNA | The Life of a Packet | Day 12 | CCNA 200-301 Complete Course
+024|936|Free CCNA | Life of a Packet | Day 12 Lab | CCNA 200-301 Complete Course
+025|1734|Free CCNA | Subnetting (Part 1) | Day 13 | CCNA 200-301 Complete Course
+026|1487|Free CCNA | Subnetting (Part 2) | Day 14 | CCNA 200-301 Complete Course
+027|1433|Free CCNA | Subnetting (Part 3 - VLSM) | Day 15 | CCNA 200-301 Complete Course
+028|899|Free CCNA | Subnetting (VLSM) | Day 15 Lab | CCNA 200-301 Complete Course
+029|1425|Free CCNA | VLANs (Part 1) | Day 16 | CCNA 200-301 Complete Course
+030|662|Free CCNA | VLANs (Part 1) | Day 16 Lab | CCNA 200-301 Complete Course
+031|2401|Free CCNA | VLANs (Part 2) | Day 17 | CCNA 200-301 Complete Course
+032|1403|Free CCNA | VLANs (Part 2) | Day 17 Lab | CCNA 200-301 Complete Course
+033|1952|Free CCNA | VLANs (Part 3) | Day 18 | CCNA 200-301 Complete Course
+034|1519|Free CCNA | VLANs (Part 3) | Day 18 Lab | CCNA 200-301 Complete Course
+035|2254|Free CCNA | DTP/VTP | Day 19 | CCNA 200-301 Complete Course
+036|1127|Free CCNA | DTP/VTP | Day 19 Lab | CCNA 200-301 Complete Course
+037|2319|Free CCNA | Spanning Tree Protocol (Part 1) | Day 20 | CCNA 200-301 Complete Course
+038|1135|Free CCNA | Analyzing STP | Day 20 Lab | CCNA 200-301 Complete Course
+039|2538|Free CCNA | Spanning Tree Protocol (Part 2) | Day 21 | CCNA 200-301 Complete Course
+040|1054|PortFast (STP Toolkit) | CCNA 200-301 Day 21 (part 1)
+041|1464|BPDU Guard & BPDU Filter (STP Toolkit) | CCNA 200-301 Day 21 (part 2)
+042|1184|Root Guard (STP Toolkit) | CCNA 200-301 Day 21 (part 3)
+043|1129|Loop Guard (STP Toolkit) | CCNA 200-301 Day 21 (part 4)
+044|1029|Free CCNA | Configuring STP (PVST+) | Day 21 Lab | CCNA 200-301 Complete Course
+045|2581|Free CCNA | Rapid Spanning Tree Protocol | Day 22 | CCNA 200-301 Complete Course
+046|1190|Free CCNA | Rapid STP | Day 22 Lab | CCNA 200-301 Complete Course
+047|2493|Free CCNA | EtherChannel | Day 23 | CCNA 200-301 Complete Course
+048|1503|Free CCNA | Configuring EtherChannel | Day 23 Lab | CCNA 200-301 Complete Course
+049|2678|Free CCNA | Dynamic Routing | Day 24 | CCNA 200-301 Complete Course
+050|1400|Free CCNA | Floating Static Routes | Day 24 Lab | CCNA 200-301 Complete Course
+051|2622|Free CCNA | RIP & EIGRP | Day 25 | CCNA 200-301 Complete Course
+052|1574|Free CCNA | Configuring EIGRP | Day 25 Lab | CCNA 200-301 Complete Course
+053|2380|Free CCNA | OSPF Part 1 | Day 26 | CCNA 200-301 Complete Course
+054|1327|Free CCNA | Configuring OSPF (1) | Day 26 Lab | CCNA 200-301 Complete Course
+055|2215|Free CCNA | OSPF Part 2 | Day 27 | CCNA 200-301 Complete Course
+056|1330|Free CCNA | Configuring OSPF (2) | Day 27 Lab | CCNA 200-301 Complete Course
+057|2873|Free CCNA | OSPF Part 3 | Day 28 | CCNA 200-301 Complete Course
+058|1285|Free CCNA | Configuring OSPF (3) | Day 28 Lab | CCNA 200-301 Complete Course
+059|2425|Free CCNA | First Hop Redundancy Protocols | Day 29 | CCNA 200-301 Complete Course
+060|1321|Free CCNA | Configuring HSRP | Day 29 Lab | CCNA 200-301 Complete Course
+061|2039|Free CCNA | TCP & UDP | Day 30 | CCNA 200-301 Complete Course
+062|675|Free CCNA | Wireshark Demo (TCP/UDP) | Day 30 Lab | CCNA 200-301 Complete Course
+063|2366|Free CCNA | IPv6 Part 1 | Day 31 | CCNA 200-301 Complete Course
+064|1082|Free CCNA | Configuring IPv6 (Part 1) | Day 31 Lab | CCNA 200-301 Complete Course
+065|2373|Free CCNA | IPv6 Part 2 | Day 32 | CCNA 200-301 Complete Course
+066|1262|Free CCNA | Configuring IPv6 (Part 2) | Day 32 Lab | CCNA 200-301 Complete Course
+067|2631|Free CCNA | IPv6 Part 3 | Day 33 | CCNA 200-301 Complete Course
+068|1157|Free CCNA | Configuring IPv6 (Part 3) | Day 33 Lab | CCNA 200-301 Complete Course
+069|2811|Free CCNA | Standard ACLs | Day 34 | CCNA 200-301 Complete Course
+070|1621|Free CCNA | Standard ACLs | Day 34 Lab | CCNA 200-301 Complete Course
+071|2455|Free CCNA | Extended ACLs | Day 35 | CCNA 200-301 Complete Course
+072|1328|Free CCNA | Extended ACLs | Day 35 Lab | CCNA 200-301 Complete Course
+073|2363|Free CCNA | CDP & LLDP | Day 36 | CCNA 200-301 Complete Course
+074|1477|Free CCNA | CDP & LLDP | Day 36 Lab | CCNA 200-301 Complete Course
+075|2566|Free CCNA | NTP | Day 37 | CCNA 200-301 Complete Course
+076|1148|Free CCNA | NTP | Day 37 Lab | CCNA 200-301 Complete Course
+077|1811|Free CCNA | DNS | Day 38 | CCNA 200-301 Complete Course
+078|1051|Free CCNA | DNS | Day 38 Lab | CCNA 200-301 Complete Course
+079|2222|Free CCNA | DHCP | Day 39 | CCNA 200-301 Complete Course
+080|1069|Free CCNA | DHCP | Day 39 Lab | CCNA 200-301 Complete Course
+081|1761|Free CCNA | SNMP | Day 40 | CCNA 200-301 Complete Course
+082|817|Free CCNA | SNMP | Day 40 Lab | CCNA 200-301 Complete Course
+083|1678|Free CCNA | Syslog | Day 41 | CCNA 200-301 Complete Course
+084|843|Free CCNA | Syslog | Day 41 Lab | CCNA 200-301 Complete Course
+085|1867|Free CCNA | SSH | Day 42 | CCNA 200-301 Complete Course
+086|950|Free CCNA | SSH | Day 42 Lab | CCNA 200-301 Complete Course
+087|1855|Free CCNA | FTP & TFTP | Day 43 | CCNA 200-301 Complete Course
+088|936|Free CCNA | FTP & TFTP | Day 43 Lab | CCNA 200-301 Complete Course
+089|1930|Free CCNA | NAT (Part 1) | Day 44 | CCNA 200-301 Complete Course
+090|852|Free CCNA | Static NAT | Day 44 Lab | CCNA 200-301 Complete Course
+091|1780|Free CCNA | NAT (part 2) | Day 45 | CCNA 200-301 Complete Course
+092|901|Free CCNA | Dynamic NAT | Day 45 Lab | CCNA 200-301 Complete Course
+093|1953|Free CCNA | QoS (Part 1) | Day 46 | CCNA 200-301 Complete Course
+094|1218|Free CCNA | Voice VLANs | Day 46 Lab | CCNA 200-301 Complete Course
+095|2506|Free CCNA | QoS (Part 2) | Day 47 | CCNA 200-301 Complete Course
+096|941|Free CCNA | QoS | Day 47 Lab | CCNA 200-301 Complete Course
+097|2320|Free CCNA | Security Fundamentals | Day 48 | CCNA 200-301 Complete Course
+098|625|Free CCNA | Kali Linux Demo | Day 48 Lab | CCNA 200-301 Complete Course
+099|2068|Free CCNA | Port Security | Day 49 | CCNA 200-301 Complete Course
+100|1023|Free CCNA | Port Security | Day 49 Lab | CCNA 200-301 Complete Course
+101|1703|Free CCNA | DHCP Snooping | Day 50 | CCNA 200-301 Complete Course
+102|941|Free CCNA | DHCP Snooping | Day 50 Lab | CCNA 200-301 Complete Course
+103|1970|Free CCNA | Dynamic ARP Inspection | Day 51 | CCNA 200-301 Complete Course
+104|1253|Free CCNA | Dynamic ARP Inspection | Day 51 Lab | CCNA 200-301 Complete Course
+105|1686|Free CCNA | LAN Architectures | Day 52 | CCNA 200-301 Complete Course
+106|1151|Free CCNA | STP & FHRP Synchronization | Day 52 Lab | CCNA 200-301 Complete Course
+107|2254|Free CCNA | WAN Architectures | Day 53 | CCNA 200-301 Complete Course
+108|1324|Free CCNA | GRE Tunnels | Day 53 Lab | CCNA 200-301 Complete Course
+109|2321|Free CCNA | Virtualization & Cloud | Day 54 (part 1) | CCNA 200-301 Complete Course
+110|813|Free CCNA | Containers | Day 54 (part 2) | CCNA 200-301 Complete Course
+111|1083|Free CCNA | VRF | Day 54 (part 3) | CCNA 200-301 Complete Course
+112|523|Free CCNA | Oracle VirtualBox | Day 54 Lab | CCNA 200-301 Complete Course
+113|2157|Free CCNA | Wireless Fundamentals | Day 55 | CCNA 200-301 Complete Course
+114|2301|Free CCNA | Wireless Architectures | Day 56 | CCNA 200-301 Complete Course
+115|2033|Free CCNA | Wireless Security | Day 57 | CCNA 200-301 Complete Course
+116|2798|Free CCNA | Wireless Configuration | Day 58 | CCNA 200-301 Complete Course
+117|1048|Free CCNA | Wireless LANs | Day 58 Lab | CCNA 200-301 Complete Course
+118|2007|Intro to Network Automation | CCNA 200-301 Day 59 (part 1)
+119|2509|AI & Machine Learning | CCNA 200-301 Day 59 (part 2)
+120|1736|Free CCNA | JSON, XML, & YAML | Day 60 | CCNA 200-301 Complete Course
+121|1905|Free CCNA | REST APIs | Day 61 | CCNA 200-301 Complete Course
+122|1755|REST API Authentication | CCNA 200-301 Day 61 (part 2)
+123|1699|Free CCNA | Software-Defined Networking | Day 62 | CCNA 200-301 Complete Course
+124|1293|Free CCNA | Ansible, Puppet, & Chef | Day 63 (part 1) | CCNA 200-301 Complete Course
+125|1349|Terraform | CCNA 200-301 Day 63 (part 2)
+126|9530|Complete Network Configuration // CCNA Mega Lab! / OSPF, VLANs, STP, DHCP, Security, Wireless + more

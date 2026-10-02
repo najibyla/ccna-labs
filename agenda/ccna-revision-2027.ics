@@ -1,0 +1,514 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ccna-curriculum//plan_to_ics//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CCNA Révision 2027
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:ccna-rev-01-2027-01-04@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270104T210000Z
+DTEND:20270104T230000Z
+SUMMARY:CCNA révision 1 · Fondamentaux : OSI\, câblage\, Ethernet\, IPv4
+DESCRIPTION:Jeremy's IT Lab J.1\, J.2\, J.3\, J.5\, J.6\, J.7\, J.8 en vite
+ sse 1.5x\, labs refaits sans la vidéo.\nTest chrono : 20 calculs de sous-
+ réseau sur subnetipv4.com\, noter le temps moyen.\nAnki : tout le deck r
+ éseau à jour.\n\nPlan de révision CCNA\, voir curriculum.md section 4 e
+ t ressources-ccna-13-semaines.md section 2.
+CATEGORIES:CCNA\,Révision
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA révision 1 · Fondamentaux : OSI\, 
+ câblage\, Ethernet\, IPv4
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA révision 1 · Fondamentaux :
+  OSI\, câblage\, Ethernet\, IPv4
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-rev-02-2027-01-05@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270105T210000Z
+DTEND:20270105T230000Z
+SUMMARY:CCNA révision 1 · Subnetting\, VLSM\, IPv6
+DESCRIPTION:Jeremy J.13\, J.14\, J.15 (subnetting) et J.31\, J.32\, J.33 (I
+ Pv6).\nObjectif : moins de 30 s par calcul IPv4\, EUI-64 et compression IP
+ v6 sans hésiter.\nLab : plan d'adressage VLSM complet pour la topologie P
+ ME du projet network-lab.\n\nPlan de révision CCNA\, voir curriculum.md s
+ ection 4 et ressources-ccna-13-semaines.md section 2.
+CATEGORIES:CCNA\,Révision
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA révision 1 · Subnetting\, VLSM\, I
+ Pv6
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA révision 1 · Subnetting\, V
+ LSM\, IPv6
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-rev-03-2027-01-06@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270106T210000Z
+DTEND:20270106T230000Z
+SUMMARY:CCNA révision 1 · VLANs\, trunks\, DTP/VTP\, inter-VLAN
+DESCRIPTION:Jeremy J.16\, J.17\, J.18\, J.19. Lab : configurer VLANs\, trun
+ k\, router-on-a-stick et SVI de zéro\, sans notes.\nVérifier : show vlan
+  brief\, show interfaces trunk\, show ip interface brief.\n\nPlan de révi
+ sion CCNA\, voir curriculum.md section 4 et ressources-ccna-13-semaines.md
+  section 2.
+CATEGORIES:CCNA\,Révision
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA révision 1 · VLANs\, trunks\, DTP/
+ VTP\, inter-VLAN
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA révision 1 · VLANs\, trunks
+ \, DTP/VTP\, inter-VLAN
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-rev-04-2027-01-07@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270107T210000Z
+DTEND:20270107T230000Z
+SUMMARY:CCNA révision 1 · STP\, RSTP\, EtherChannel
+DESCRIPTION:Jeremy J.20\, J.21\, J.22\, J.23. Dessiner 3 topologies à 4 sw
+ itches et élire root\, root ports\, designated ports à la main\, puis v
+ érifier avec show spanning-tree.\nLab : PortFast\, BPDU Guard\, EtherChan
+ nel LACP.\n\nPlan de révision CCNA\, voir curriculum.md section 4 et ress
+ ources-ccna-13-semaines.md section 2.
+CATEGORIES:CCNA\,Révision
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA révision 1 · STP\, RSTP\, EtherCha
+ nnel
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA révision 1 · STP\, RSTP\, E
+ therChannel
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-rev-05-2027-01-08@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270108T210000Z
+DTEND:20270108T230000Z
+SUMMARY:CCNA révision 1 · Routage statique\, OSPF
+DESCRIPTION:Jeremy J.11\, J.12\, J.24\, J.26\, J.27\, J.28. Lab : OSPF mult
+ i-routeurs avec routes statiques et défaut\, puis casser une adjacence (z
+ one\, MTU\, timers\, masque) et la réparer.\nSavoir lire show ip route\, 
+ show ip ospf neighbor\, show ip ospf interface.\n\nPlan de révision CCNA\
+ , voir curriculum.md section 4 et ressources-ccna-13-semaines.md section 2
+ .
+CATEGORIES:CCNA\,Révision
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA révision 1 · Routage statique\, OS
+ PF
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA révision 1 · Routage statiq
+ ue\, OSPF
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-rev-06-2027-01-09@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270109T150000Z
+DTEND:20270109T173000Z
+SUMMARY:CCNA révision 1 · Lab de synthèse : CCNA Mega Lab de Jeremy\, pa
+ rtie 1
+DESCRIPTION:Jeremy's IT Lab « CCNA Mega Lab » (2 h 36 de vidéo\, fichier
+  .pkt gratuit) : faire la première moitié SEUL\, en ne regardant la vid
+ éo qu'après chaque section pour comparer.\nC'est le projet network-lab d
+ u curriculum : exporter les configs\, dessiner le schéma\, commit.\n\nPla
+ n de révision CCNA\, voir curriculum.md section 4 et ressources-ccna-13-s
+ emaines.md section 2.
+CATEGORIES:CCNA\,Révision
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA révision 1 · Lab de synthèse : CC
+ NA Mega Lab de Jeremy\, partie 1
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : CCNA révision 1 · Lab de synthèse : CCNA 
+ Mega Lab de Jeremy\, partie 1
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-rev-07-2027-01-11@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270111T210000Z
+DTEND:20270111T230000Z
+SUMMARY:CCNA révision 2 · FHRP\, NAT
+DESCRIPTION:Jeremy J.29 (HSRP)\, J.44\, J.45 (NAT). Lab : HSRP entre deux r
+ outeurs\, NAT statique\, dynamique et PAT vers un « Internet » simulé.\
+ nTerminologie inside/outside local/global : 10 exemples écrits.\n\nPlan d
+ e révision CCNA\, voir curriculum.md section 4 et ressources-ccna-13-sema
+ ines.md section 2.
+CATEGORIES:CCNA\,Révision
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA révision 2 · FHRP\, NAT
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA révision 2 · FHRP\, NAT
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-rev-08-2027-01-12@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270112T210000Z
+DTEND:20270112T230000Z
+SUMMARY:CCNA révision 2 · Services IP : DHCP\, DNS\, NTP\, SNMP\, Syslog\
+ , SSH\, FTP
+DESCRIPTION:Jeremy J.37 à J.43. Lab : routeur serveur DHCP et relais\, NTP
+  client/serveur\, Syslog vers un serveur\, SSH v2 uniquement.\nFiche : por
+ ts et numéros à connaître (DHCP 67/68\, DNS 53\, NTP 123\, SNMP 161/162
+ \, Syslog 514\, SSH 22\, FTP 20/21\, TFTP 69).\n\nPlan de révision CCNA\,
+  voir curriculum.md section 4 et ressources-ccna-13-semaines.md section 2.
+CATEGORIES:CCNA\,Révision
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA révision 2 · Services IP : DHCP\, 
+ DNS\, NTP\, SNMP\, Syslog\, SSH\, FTP
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA révision 2 · Services IP : 
+ DHCP\, DNS\, NTP\, SNMP\, Syslog\, SSH\, FTP
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-rev-09-2027-01-13@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270113T210000Z
+DTEND:20270113T230000Z
+SUMMARY:CCNA révision 2 · Sécurité : ACL\, port security\, DHCP snoopin
+ g\, DAI\, AAA
+DESCRIPTION:Jeremy J.34\, J.35\, J.48\, J.49\, J.50\, J.51. Lab : ACL stand
+ ard et étendues avec placement justifié\, port security sticky\, DHCP sn
+ ooping et DAI sur les ports access.\nConcepts : AAA\, 802.1X\, VPN site-à
+ -site vs accès distant\, menaces courantes.\n\nPlan de révision CCNA\, v
+ oir curriculum.md section 4 et ressources-ccna-13-semaines.md section 2.
+CATEGORIES:CCNA\,Révision
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA révision 2 · Sécurité : ACL\, po
+ rt security\, DHCP snooping\, DAI\, AAA
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA révision 2 · Sécurité : A
+ CL\, port security\, DHCP snooping\, DAI\, AAA
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-rev-10-2027-01-14@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270114T210000Z
+DTEND:20270114T230000Z
+SUMMARY:CCNA révision 2 · Wi-Fi\, QoS\, architectures\, cloud
+DESCRIPTION:Jeremy J.46\, J.47 (QoS)\, J.52\, J.53\, J.54 (architectures LA
+ N/WAN\, virtualisation\, cloud)\, J.55 à J.58 (Wi-Fi).\nPoints d'examen :
+  canaux 2\,4 GHz non chevauchants\, WPA2/WPA3\, modes AP\, WLC\, marquage 
+ DSCP/CoS\, queuing/shaping/policing.\n\nPlan de révision CCNA\, voir curr
+ iculum.md section 4 et ressources-ccna-13-semaines.md section 2.
+CATEGORIES:CCNA\,Révision
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA révision 2 · Wi-Fi\, QoS\, archite
+ ctures\, cloud
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA révision 2 · Wi-Fi\, QoS\, 
+ architectures\, cloud
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-rev-11-2027-01-15@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270115T210000Z
+DTEND:20270115T230000Z
+SUMMARY:CCNA révision 2 · Automatisation : JSON\, REST\, SDN\, Ansible
+DESCRIPTION:Jeremy J.59 à J.63. Lire et écrire du JSON/YAML\, méthodes H
+ TTP et codes de réponse\, plan de contrôle vs données\, Cisco DNA Cente
+ r\, Ansible/Puppet/Chef (push vs pull\, agent ou non).\nAnki : passage com
+ plet du deck réseau\, supprimer les cartes maîtrisées.\n\nPlan de révi
+ sion CCNA\, voir curriculum.md section 4 et ressources-ccna-13-semaines.md
+  section 2.
+CATEGORIES:CCNA\,Révision
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA révision 2 · Automatisation : JSON
+ \, REST\, SDN\, Ansible
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA révision 2 · Automatisation
+  : JSON\, REST\, SDN\, Ansible
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-rev-12-2027-01-16@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270116T150000Z
+DTEND:20270116T173000Z
+SUMMARY:CCNA révision 2 · Lab de synthèse : CCNA Mega Lab de Jeremy\, pa
+ rtie 2
+DESCRIPTION:Seconde moitié du Mega Lab\, même méthode. Puis casser 5 cho
+ ses dans la topologie et les réparer en moins de 10 min chacune.\nDocumen
+ ter dans network-lab : schéma final\, configs\, liste des pannes et solut
+ ions.\n\nPlan de révision CCNA\, voir curriculum.md section 4 et ressourc
+ es-ccna-13-semaines.md section 2.
+CATEGORIES:CCNA\,Révision
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA révision 2 · Lab de synthèse : CC
+ NA Mega Lab de Jeremy\, partie 2
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : CCNA révision 2 · Lab de synthèse : CCNA 
+ Mega Lab de Jeremy\, partie 2
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-rev-13-2027-01-18@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270118T210000Z
+DTEND:20270118T233000Z
+SUMMARY:CCNA Boson · Examen blanc A
+DESCRIPTION:Boson ExSim-Max\, examen A complet\, 120 min\, conditions réel
+ les : pas de notes\, pas de pause\, téléphone éteint.\nNoter le score g
+ lobal et par domaine. Ne pas corriger ce soir.\n\nPlan de révision CCNA\,
+  voir curriculum.md section 4 et ressources-ccna-13-semaines.md section 2.
+CATEGORIES:CCNA\,Révision
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA Boson · Examen blanc A
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA Boson · Examen blanc A
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-rev-14-2027-01-19@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270119T210000Z
+DTEND:20270119T230000Z
+SUMMARY:CCNA Boson · Correction de l'examen A
+DESCRIPTION:Pour chaque question fausse ou hésitante : lire l'explication 
+ Boson\, écrire la règle en une phrase dans lab-notes\, créer une carte 
+ Anki.\nRepérer les 2 domaines les plus faibles.\n\nPlan de révision CCNA
+ \, voir curriculum.md section 4 et ressources-ccna-13-semaines.md section 
+ 2.
+CATEGORIES:CCNA\,Révision
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA Boson · Correction de l'examen A
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA Boson · Correction de l'exam
+ en A
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-rev-15-2027-01-20@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270120T210000Z
+DTEND:20270120T230000Z
+SUMMARY:CCNA Boson · Révision ciblée des domaines faibles (A)
+DESCRIPTION:Revoir les vidéos Jeremy et refaire les labs des 2 domaines le
+ s plus faibles de l'examen A.\nSubnetting chrono : 20 calculs.\n\nPlan de 
+ révision CCNA\, voir curriculum.md section 4 et ressources-ccna-13-semain
+ es.md section 2.
+CATEGORIES:CCNA\,Révision
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA Boson · Révision ciblée des domai
+ nes faibles (A)
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA Boson · Révision ciblée de
+ s domaines faibles (A)
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-rev-16-2027-01-21@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270121T210000Z
+DTEND:20270121T233000Z
+SUMMARY:CCNA Boson · Examen blanc B
+DESCRIPTION:Boson ExSim-Max\, examen B complet\, 120 min\, conditions réel
+ les.\n\nPlan de révision CCNA\, voir curriculum.md section 4 et ressource
+ s-ccna-13-semaines.md section 2.
+CATEGORIES:CCNA\,Révision
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA Boson · Examen blanc B
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA Boson · Examen blanc B
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-rev-17-2027-01-22@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270122T210000Z
+DTEND:20270122T230000Z
+SUMMARY:CCNA Boson · Correction de l'examen B
+DESCRIPTION:Même méthode que pour A. Comparer les scores par domaine entr
+ e A et B.\n\nPlan de révision CCNA\, voir curriculum.md section 4 et ress
+ ources-ccna-13-semaines.md section 2.
+CATEGORIES:CCNA\,Révision
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA Boson · Correction de l'examen B
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA Boson · Correction de l'exam
+ en B
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-rev-18-2027-01-23@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270123T150000Z
+DTEND:20270123T173000Z
+SUMMARY:CCNA Boson · Labs de dépannage
+DESCRIPTION:Flackbox Lab Guide\, section troubleshooting\, et les labs de d
+ épannage de Jeremy's IT Lab. Objectif : diagnostiquer avec show et debug 
+ avant de toucher à la config.\n\nPlan de révision CCNA\, voir curriculum
+ .md section 4 et ressources-ccna-13-semaines.md section 2.
+CATEGORIES:CCNA\,Révision
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA Boson · Labs de dépannage
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : CCNA Boson · Labs de dépannage
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-rev-19-2027-01-25@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270125T210000Z
+DTEND:20270125T230000Z
+SUMMARY:CCNA Boson · Révision ciblée des domaines faibles (B)
+DESCRIPTION:Revoir et relaber les 2 domaines les plus faibles de B. Anki co
+ mplet.\n\nPlan de révision CCNA\, voir curriculum.md section 4 et ressour
+ ces-ccna-13-semaines.md section 2.
+CATEGORIES:CCNA\,Révision
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA Boson · Révision ciblée des domai
+ nes faibles (B)
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA Boson · Révision ciblée de
+ s domaines faibles (B)
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-rev-20-2027-01-26@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270126T210000Z
+DTEND:20270126T233000Z
+SUMMARY:CCNA Boson · Examen blanc C
+DESCRIPTION:Boson ExSim-Max\, examen C complet\, 120 min\, conditions réel
+ les.\n\nPlan de révision CCNA\, voir curriculum.md section 4 et ressource
+ s-ccna-13-semaines.md section 2.
+CATEGORIES:CCNA\,Révision
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA Boson · Examen blanc C
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA Boson · Examen blanc C
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ccna-rev-22-2027-01-28@ccna-curriculum
+DTSTAMP:20261001T153340Z
+DTSTART:20270128T210000Z
+DTEND:20270128T230000Z
+SUMMARY:CCNA · Révision finale
+DESCRIPTION:Fiche des commandes show et de configuration par sujet\, lue et
+  retapée. Anki complet. Subnetting chrono.\nPas de nouveau contenu.\n\nPl
+ an de révision CCNA\, voir curriculum.md section 4 et ressources-ccna-13-
+ semaines.md section 2.
+CATEGORIES:CCNA\,Révision
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : CCNA · Révision finale
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ce soir : séance d'étude : CCNA · Révision finale
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

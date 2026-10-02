@@ -1,0 +1,169 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ccna-curriculum//plan_to_ics//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Practical Networking · Subnetting Mastery
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:practical-networking-subnetting-mastery-01@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20261017T150000Z
+DTEND:20261017T170000Z
+SUMMARY:Practical Networking · Subnetting Mastery · 1/5 · n°1 à 7
+DESCRIPTION:Practical Networking · Subnetting Mastery\, séance 1 sur 5.\n
+ Playlist : https://www.youtube.com/playlist?list=PLIFyRwBY_4bQUE4IB5c4VPRy
+ DoLgOdExE\n\nMéthode de la « cheat sheet » : résoudre n'importe quel p
+ roblème de subnetting en moins de 60 s. Après chaque séance : 20 exerci
+ ces sur subnetipv4.com\, chronométrés. Objectif final : moins de 30 s pa
+ r calcul. Programmé juste avant les jours J.13 à J.15 de Jeremy (19 au 2
+ 1 octobre).\n\nVidéo : 48 min. Bloc réservé : 120 min.\n\nVidéos (n° 
+ = position dans la playlist) :\n  ☐ n°1 What is Subnetting? - Subnettin
+ g Mastery - Part 1 of 7 (9 min)\n  ☐ n°2 Drawing the Cheat Sheet - Subn
+ etting Mastery - Part 2 of 7 (2 min)\n  ☐ n°3 How to solve ANY Subnetti
+ ng Problems in 60 seconds or less - Subnetting Mastery - Part 3 of 7 (6 mi
+ n)\n  ☐ n°4 Practice Examples - Subnetting Mastery - Part 4 of 7 (10 mi
+ n)\n  ☐ n°5 Time-Saving Tricks for Subnetting - Subnetting Mastery - Pa
+ rt 5 of 7 (9 min)\n  ☐ n°6 Subnetting in the /17 - /24 range - Subnetti
+ ng Mastery - Part 6 of 7 (7 min)\n  ☐ n°7 Subnetting in the /1 - /16 ra
+ nge - Subnetting Mastery - Part 7 of 7 (5 min)\n\nNoter dans lab-notes ce 
+ qui a été compris\, créer 3 à 5 cartes Anki.
+CATEGORIES:Practical Networking · Subnetting Mastery
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Practical Networking · Subnetting Master
+ y · 1/5 · n°1 à 7
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Practical Networking · Subnetting Mastery 
+ · 1/5 · n°1 à 7
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:practical-networking-subnetting-mastery-02@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20261018T150000Z
+DTEND:20261018T160000Z
+SUMMARY:Practical Networking · Subnetting Mastery · 2/5 · n°8 à 9
+DESCRIPTION:Practical Networking · Subnetting Mastery\, séance 2 sur 5.\n
+ Playlist : https://www.youtube.com/playlist?list=PLIFyRwBY_4bQUE4IB5c4VPRy
+ DoLgOdExE\n\nMéthode de la « cheat sheet » : résoudre n'importe quel p
+ roblème de subnetting en moins de 60 s. Après chaque séance : 20 exerci
+ ces sur subnetipv4.com\, chronométrés. Objectif final : moins de 30 s pa
+ r calcul. Programmé juste avant les jours J.13 à J.15 de Jeremy (19 au 2
+ 1 octobre).\n\nVidéo : 25 min. Bloc réservé : 60 min.\n\nVidéos (n° =
+  position dans la playlist) :\n  ☐ n°8 Fixed-Length Subnet Mask (FLSM) 
+ - Subnetting Mastery - FLSM and VLSM Appendix Part 1 of 2 (13 min)\n  ☐ 
+ n°9 Variable-Length Subnet Mask (VLSM) - Subnetting Mastery - FLSM and VL
+ SM Appendix Part 2 of 2 (12 min)\n\nNoter dans lab-notes ce qui a été co
+ mpris\, créer 3 à 5 cartes Anki.
+CATEGORIES:Practical Networking · Subnetting Mastery
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Practical Networking · Subnetting Master
+ y · 2/5 · n°8 à 9
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Practical Networking · Subnetting Mastery 
+ · 2/5 · n°8 à 9
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:practical-networking-subnetting-mastery-03@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Practical Networking · Subnetting Mastery · 3/5 · n°10
+DESCRIPTION:Practical Networking · Subnetting Mastery\, séance 3 sur 5.\n
+ Playlist : https://www.youtube.com/playlist?list=PLIFyRwBY_4bQUE4IB5c4VPRy
+ DoLgOdExE\n\nMéthode de la « cheat sheet » : résoudre n'importe quel p
+ roblème de subnetting en moins de 60 s. Après chaque séance : 20 exerci
+ ces sur subnetipv4.com\, chronométrés. Objectif final : moins de 30 s pa
+ r calcul. Programmé juste avant les jours J.13 à J.15 de Jeremy (19 au 2
+ 1 octobre).\n\nVidéo : 31 min. Bloc réservé : 90 min.\n\nVidéos (n° =
+  position dans la playlist) :\n  ☐ n°10 Supernetting\, IP Aggregation\,
+  and IP Summarization -- Subnetting Mastery (31 min)\n\nNoter dans lab-not
+ es ce qui a été compris\, créer 3 à 5 cartes Anki.
+CATEGORIES:Practical Networking · Subnetting Mastery
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Practical Networking · Subnetting Master
+ y · 3/5 · n°10
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Practical Networking · Subnetting Mastery 
+ · 3/5 · n°10
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:practical-networking-subnetting-mastery-04@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20261025T150000Z
+DTEND:20261025T170000Z
+SUMMARY:Practical Networking · Subnetting Mastery · 4/5 · n°11
+DESCRIPTION:Practical Networking · Subnetting Mastery\, séance 4 sur 5.\n
+ Playlist : https://www.youtube.com/playlist?list=PLIFyRwBY_4bQUE4IB5c4VPRy
+ DoLgOdExE\n\nMéthode de la « cheat sheet » : résoudre n'importe quel p
+ roblème de subnetting en moins de 60 s. Après chaque séance : 20 exerci
+ ces sur subnetipv4.com\, chronométrés. Objectif final : moins de 30 s pa
+ r calcul. Programmé juste avant les jours J.13 à J.15 de Jeremy (19 au 2
+ 1 octobre).\n\nVidéo : 51 min. Bloc réservé : 120 min.\n\nVidéos (n° 
+ = position dans la playlist) :\n  ☐ n°11 🔴 VLSM Mastery - VLSM Probl
+ ems using only scratch paper - Live Stream Replay (51 min)\n\nNoter dans l
+ ab-notes ce qui a été compris\, créer 3 à 5 cartes Anki.
+CATEGORIES:Practical Networking · Subnetting Mastery
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Practical Networking · Subnetting Master
+ y · 4/5 · n°11
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Practical Networking · Subnetting Mastery 
+ · 4/5 · n°11
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:practical-networking-subnetting-mastery-05@ccna-curriculum
+DTSTAMP:20261001T152504Z
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:Practical Networking · Subnetting Mastery · 5/5 · n°12 à 14
+DESCRIPTION:Practical Networking · Subnetting Mastery\, séance 5 sur 5.\n
+ Playlist : https://www.youtube.com/playlist?list=PLIFyRwBY_4bQUE4IB5c4VPRy
+ DoLgOdExE\n\nMéthode de la « cheat sheet » : résoudre n'importe quel p
+ roblème de subnetting en moins de 60 s. Après chaque séance : 20 exerci
+ ces sur subnetipv4.com\, chronométrés. Objectif final : moins de 30 s pa
+ r calcul. Programmé juste avant les jours J.13 à J.15 de Jeremy (19 au 2
+ 1 octobre).\n\nVidéo : 47 min. Bloc réservé : 120 min.\n\nVidéos (n° 
+ = position dans la playlist) :\n  ☐ n°12 Binary - The SIMPLEST explanat
+ ion of Counting and Converting Binary numbers (22 min)\n  ☐ n°13 Wildca
+ rd Masks -- What are they? How do you convert them? What are they used for
+ ? (15 min)\n  ☐ n°14 Discontiguous Wildcard Masks (10 min)\n\nNoter dan
+ s lab-notes ce qui a été compris\, créer 3 à 5 cartes Anki.
+CATEGORIES:Practical Networking · Subnetting Mastery
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 15 min : Practical Networking · Subnetting Master
+ y · 5/5 · n°12 à 14
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 2 h : Practical Networking · Subnetting Mastery 
+ · 5/5 · n°12 à 14
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
