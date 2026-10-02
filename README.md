@@ -34,6 +34,25 @@ Plus Anki 10 min chaque jour, et à partir du 19 octobre 10 calculs de subnettin
 
 Ce dossier est versionné sur GitHub, dépôt privé `najibyla/ccna-labs`. Le dossier `ressources/` (copies locales de livres et cours) et `.venv/` n'y sont pas : ils se régénèrent avec les scripts de `outils/`. Après chaque modification des documents ou des cartes : `git add -A && git commit -m "..." && git push`.
 
+### Reprendre le travail sur un autre PC
+
+Les conversations Claude Code et sa mémoire automatique sont locales à chaque machine (`~/.claude/projects/`) et ne se transfèrent pas. Le contexte, lui, est dans `CLAUDE.md` à la racine : Claude Code le lit automatiquement à chaque session, sur n'importe quel PC. Une nouvelle session repart donc avec les bons faits (cours suivi, calendriers, lab, conventions), sans l'historique des échanges.
+
+Sur le nouveau PC, en gardant le même chemin `C:\utils\ccna` (Claude Code dérive son dossier de session du chemin absolu) :
+
+```powershell
+git clone git@github.com:najibyla/ccna-labs.git C:\utils\ccna
+cd C:\utils\ccna
+python -m venv .venv
+.venv\Scripts\pip install -r outils\requirements.txt
+```
+
+Puis ouvrir le dossier dans VS Code et lancer Claude Code. Pour retrouver les copies locales de `ressources/` : `git clone https://github.com/livialima/linuxupskillchallenge ressources\linuxupskillchallenge`, télécharger le PDF TLCL (lien dans `ressources\README.md`), puis `outils\scrape_atbs.py`, `outils\localize_assets.py` et `outils\anki\fetch_workbook_flashcards.py`.
+
+Pour continuer **la même conversation** plutôt qu'en ouvrir une nouvelle : Remote Control (la session reste sur le PC d'origine, pilotée depuis claude.ai/code ou l'application mobile) ou Claude Code sur le web (claude.ai/code, session hébergée dans le cloud et liée à ce dépôt).
+
+Mettre `CLAUDE.md` à jour quand un fait change (examen passé, nouvelle VM, changement d'horaire), puis pousser.
+
 ## Ce qui est déjà fait
 
 - VM Ubuntu Server prête, SSH depuis Windows, dépôt `lab-notes` sur GitHub.
