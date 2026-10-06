@@ -468,12 +468,12 @@ def jeremy_events() -> list[str]:
                  "Déroulé (n° = position dans la playlist) :"]
         for v in vids:
             if v["kind"] == "lab":
-                lines.append(f"  ☐ n°{v['idx']} Lab « {v['title']} » ({v['min']} min) : télécharger le .pkt sur jeremysitlab.com, regarder, puis refaire seul sans la vidéo")
+                lines.append(f"  ☐ n°{v['idx']} Lab « {v['title']} » ({v['min']} min) : copier le .pkt de ressources/jeremy-it-lab/labs/ dans labs/day{v['day']:02d}/, regarder, puis refaire seul sans la vidéo")
             elif v["kind"] == "extra":
                 lines.append(f"  ☐ n°{v['idx']} Extra « {v['title']} » ({v['min']} min) : comment utiliser les decks Anki du cours")
             else:
                 lines.append(f"  ☐ n°{v['idx']} Day {v['day']} « {v['title']} » ({v['min']} min) : vidéo avec prise de notes, quiz de fin de vidéo")
-        lines.append("  ☐ Importer le deck Anki du jour (jeremysitlab.com, gratuit) et faire la première passe")
+        lines.append("  ☐ Importer le deck Anki du jour (ressources/jeremy-it-lab/anki/) et faire la première passe")
         lines += ["", "Thème NetworkChuck équivalent : " + ", ".join(f"Skill {s:02d} ({SKILLS[s][0]})" for s in skills), "",
                   "Si une notion reste floue (voir ressources-ccna-13-semaines.md) :"]
         for s in skills:

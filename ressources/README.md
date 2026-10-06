@@ -12,6 +12,8 @@ Copies locales des supports gratuits du curriculum, récupérées le 30 septembr
 | `automate-the-boring-stuff/flashcards-tsofa/` | Les 24 jeux de flashcards du workbook au format TSOFA. Chaque fichier HTML s'ouvre dans un navigateur, hors ligne. Pieds de page publicitaires et liens retirés. | idem | idem |
 | `anki/automate-workbook.apkg` | Les mêmes 1127 cartes converties pour Anki, un sous-deck par chapitre. Généré par `outils/anki/fetch_workbook_flashcards.py`. | idem | idem |
 | `anki/exemple.apkg` | Deck de démonstration de l'outil `md2anki`. | local | - |
+| `jeremy-it-lab/anki/` | Les 71 decks Anki officiels du cours, un par jour (pas de deck pour les jours 12, 14 et 15 : leurs cartes sont dans le deck du jour 13). Importer le deck du jour **après** chaque séance, pas tous d'un coup. | Google Drive de Jeremy's IT Lab (téléchargé le 6 octobre 2026) | Usage personnel |
+| `jeremy-it-lab/labs/` | Les 48 labs Packet Tracer `.pkt` d'origine (jours 1 à 58) et, dans `mega-lab/`, le CCNA Mega Lab (`.pka` + tableau d'adressage). Fichiers d'origine à ne pas modifier : copier dans `labs/dayNN/` à la racine du projet pour travailler. | idem | idem |
 | `anki/bash-historique.apkg` | 32 cartes : historique Bash, édition de ligne, sudo, motif conf.d. Source : `cartes/bash-historique.md`, fiche : `fiches/bash-historique-raccourcis.md`. | local | - |
 
 ## Fiches et cartes du projet (hors de ce dossier)

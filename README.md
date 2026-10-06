@@ -12,12 +12,13 @@
 | `ressources/` | Les copies locales (livres, cours Linux, flashcards) et leur inventaire `README.md` | Quand l'agenda renvoie à un fichier local (leçon LUC, chapitre TLCL), ou pour retrouver un livre hors ligne. |
 | `fiches/` | Fiches de synthèse (raccourcis Bash, méthode Anki) | Pour réviser un sujet précis. |
 | `cartes/` et `outils/anki/` | Vos cartes Anki au format texte et l'outil qui les convertit | Le dimanche, pour ajouter les cartes de la semaine. |
+| `labs/` | Vos labs Packet Tracer réalisés, un sous-dossier par jour (convention dans son README) | À chaque séance CCNA avec un lab. Les fichiers d'origine de Jeremy sont dans `ressources/jeremy-it-lab/`. |
 | `outils/` | Les scripts qui ont produit tout cela | Jamais, sauf pour regénérer un calendrier après un changement d'horaire. |
 
 ## Une journée type
 
 1. **Le rappel de l'agenda** arrive. Ouvrez l'événement : la description est votre feuille de route.
-2. **Faites les cases** dans l'ordre. Pour le CCNA : vidéo de Jeremy avec notes, quiz, lab regardé puis refait seul, deck Anki importé.
+2. **Faites les cases** dans l'ordre. Pour le CCNA : vidéo de Jeremy avec notes, quiz, lab (copie du `.pkt` depuis `ressources/jeremy-it-lab/labs/` vers `labs/dayNN/`, regardé puis refait seul), deck Anki du jour importé depuis `ressources/jeremy-it-lab/anki/`.
 3. **Si une notion reste floue**, et seulement alors : `ressources-ccna-13-semaines.md`, chapitre correspondant (l'événement indique le Skill).
 4. **Après la séance** : 10 min d'Anki, une ligne dans `lab-notes` sur la VM, commit.
 
