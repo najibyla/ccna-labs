@@ -23,7 +23,7 @@ Montée en compétences infrastructure et code, base Linux, sur 12 mois (octobre
 | :--- | :--- |
 | `agenda/` | Calendriers `.ics` générés + `README.md` (import, notifications) |
 | `outils/` | `plan_to_ics.py` (CCNA, Linux, révision, jalons), `playlist_to_ics.py` (playlists), `scrape_atbs.py` + `localize_assets.py` (livres Sweigart hors ligne), `anki/md2anki.py` (Markdown/CSV/TSOFA vers `.apkg`), `data/` (listings yt-dlp) |
-| `fiches/`, `cartes/` | Fiches de synthèse et cartes Anki au format md2anki, même nom de fichier par sujet |
+| `fiches/`, `cartes/` | Fiches de synthèse et cartes Anki au format md2anki, même nom de fichier par sujet. `fiches/ccna/` : 63 fiches bilingues, une par jour Jeremy, rédigées à partir des transcriptions (`ressources/jeremy-it-lab/transcripts/`, hors dépôt, `outils/fetch_transcripts.py`) ; convention et limites dans son README |
 | `labs/` | Labs Packet Tracer réalisés (copies de travail, configs exportées en texte, notes), projet `network-lab` |
 | `ressources/` | **Hors dépôt** sauf son `README.md` : copies locales (Linux Upskill Challenge cloné, TLCL PDF, Automate the Boring Stuff localisé, decks `.apkg`). Régénérer avec les scripts. |
 
