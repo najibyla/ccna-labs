@@ -1,6 +1,6 @@
 # Labs Packet Tracer réalisés
 
-Dossier de travail, versionné : c'est le projet `network-lab` du bloc 2 qui se construit jour après jour.
+Dossier de travail, versionné : c'est le projet `network-lab` du bloc 2 qui se construit jour après jour. Mode d'emploi complet (decks Anki et labs) : `fiches/utiliser-fichiers-jeremy.md`.
 
 ## Convention
 
