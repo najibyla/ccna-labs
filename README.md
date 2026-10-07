@@ -10,7 +10,7 @@
 | `curriculum.md` | La carte des 12 mois : 6 blocs, projets livrables, checklists de validation, charge horaire, certifications | Une fois en entier au début, puis à chaque changement de bloc (fin décembre, février, avril...) pour savoir ce qui vient. Et quand une checklist de fin de bloc est à cocher. |
 | `ressources-ccna-13-semaines.md` | Un annuaire de secours pour le CCNA, classé par chapitre (les 26 Skills) : vidéos alternatives, cours payants, exercices | Seulement quand une vidéo de Jeremy n'a pas suffi sur une notion. Jamais en lecture continue. |
 | `ressources/` | Les copies locales (livres, cours Linux, flashcards) et leur inventaire `README.md` | Quand l'agenda renvoie à un fichier local (leçon LUC, chapitre TLCL), ou pour retrouver un livre hors ligne. |
-| `fiches/` | Fiches de synthèse (raccourcis Bash, méthode Anki, utilisation des decks et labs de Jeremy) et, dans `fiches/ccna/`, une fiche bilingue par jour Jeremy (`jour-NN-<sujet>.md`), vérifiée contre la transcription de la vidéo | Pour réviser un sujet précis. Les fiches CCNA se relisent la veille de l'examen blanc. |
+| `fiches/` | Fiches de synthèse (raccourcis Bash, méthode Anki, utilisation des decks et labs de Jeremy, déplacement de la VM sur un autre PC) et, dans `fiches/ccna/`, une fiche bilingue par jour Jeremy (`jour-NN-<sujet>.md`), vérifiée contre la transcription de la vidéo | Pour réviser un sujet précis. Les fiches CCNA se relisent la veille de l'examen blanc. |
 | `cartes/` et `outils/anki/` | Vos cartes Anki au format texte et l'outil qui les convertit | Le dimanche, pour ajouter les cartes de la semaine. |
 | `labs/` | Vos labs Packet Tracer réalisés, un sous-dossier par jour (convention dans son README) | À chaque séance CCNA avec un lab. Les fichiers d'origine de Jeremy sont dans `ressources/jeremy-it-lab/`. |
 | `outils/` | Les scripts qui ont produit tout cela | Jamais, sauf pour regénérer un calendrier après un changement d'horaire. |
@@ -48,7 +48,7 @@ python -m venv .venv
 .venv\Scripts\pip install -r outils\requirements.txt
 ```
 
-Puis ouvrir le dossier dans VS Code et lancer Claude Code. Pour retrouver les copies locales de `ressources/` : `git clone https://github.com/livialima/linuxupskillchallenge ressources\linuxupskillchallenge`, télécharger le PDF TLCL (lien dans `ressources\README.md`), puis `outils\scrape_atbs.py`, `outils\localize_assets.py` et `outils\anki\fetch_workbook_flashcards.py`.
+Puis ouvrir le dossier dans VS Code et lancer Claude Code. Pour la VM Ubuntu elle-même (copie du dossier VMware ou recréation), voir `fiches/deplacer-la-vm-ubuntu.md`. Pour retrouver les copies locales de `ressources/` : `git clone https://github.com/livialima/linuxupskillchallenge ressources\linuxupskillchallenge`, télécharger le PDF TLCL (lien dans `ressources\README.md`), puis `outils\scrape_atbs.py`, `outils\localize_assets.py` et `outils\anki\fetch_workbook_flashcards.py`.
 
 Pour continuer **la même conversation** plutôt qu'en ouvrir une nouvelle : Remote Control (la session reste sur le PC d'origine, pilotée depuis claude.ai/code ou l'application mobile) ou Claude Code sur le web (claude.ai/code, session hébergée dans le cloud et liée à ce dépôt).
 
